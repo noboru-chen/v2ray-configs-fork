@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bd825c17-60a5-4942-b64d-da9afd6255ed@webshecan.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95#@WebShecan-13 Mordad-3
 vless://bd8c85b3-eca9-4cbc-8445-5e66e0fa641b@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=Li.testi21.ddns-ip.net&type=ws#tm⚡|@lightning6
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws#Telegram:@config_proxy 🔥
@@ -253,3 +252,4 @@ vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.220:443?path=/&security
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.221:443?path=/&security=tls&encryption=none&type=ws#@AblNet7🇩🇪 Germany (yr)
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.222:443?path=/&security=tls&encryption=none&type=ws#@AblNet7🇩🇪 Germany (yr)
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.223:443?path=/&security=tls&encryption=none&type=ws#@AblNet7🇩🇪 Germany (yr)
+vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?security=none&encryption=none&type=ws#Bya To @IRAN_V2RAY1

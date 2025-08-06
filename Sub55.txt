@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f85348cc-827a-46ef-8661-d7ba7c32f170@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
 vless://f85348cc-827a-46ef-8661-d7ba7c32f170@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
 vless://f8a995f7-2862-4f53-985d-3cca55d09ea2@nt.franker.shop:80?path=/&security=none&encryption=none&type=ws#‌
 vless://f8bc4ba8-4af6-4f0a-8e68-2d736200203f@135.181.152.144:443?security=reality&encryption=none&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=debian.org#@EXPRESSVPN_420 | 🇫🇮
@@ -253,3 +252,4 @@ vless://tel:@mahanvpn.@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=&en
 vless://tel:@mahanvpn.@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-telegram
 vless://tel:@mahanvpn.@172.67.160.192:2052?type=httpupgrade&path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&security=none#🇩🇪🔑Tel@mahanvpn-telegram
 vless://tel:@mahanvpn@172.67.160.192:2052?path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560&security=none&encryption=none&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&type=httpupgrade#🇩🇪telegram ➠ @v2rayNG_Matsuri
+vless://tel:@mahanvpn@172.67.160.192:2052?type=httpupgrade&path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&security=none#🇩🇪🔑Tel@mahanvpn-telegram

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/@HiByeVPNN?ed=2560&security=&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@HiByeVPNN
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/@HiByeVPNN?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#@meli_proxyy
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/@HiByeVPNN?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?path=/@HiByeVPNN?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -253,3 +252,4 @@ vless://f7f0f020-3153-41b5-854b-304245d7bd0b@em-5.webnama.com.tr:4928?security=n
 vless://f7f95a02-ee99-11e4-d13b-d76c1410e702@185.255.112.147:7580?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 @EVAY_VPN
 vless://f7f95a02-ee99-11e4-d13b-d76c1410e702@185.255.112.147:7580?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=ho00u1CNl0KjJKszyhKju2pKtY74AysLMkR7GNMzKSo&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇫🇷@EVAY_VPN
 vless://f828862f-80aa-4fd8-c729-f4f09bd9d899@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-5gr67rqbe
+vless://f85348cc-827a-46ef-8661-d7ba7c32f170@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
