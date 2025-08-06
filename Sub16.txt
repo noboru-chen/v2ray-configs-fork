@@ -222,7 +222,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&enc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪telegram ➠ @v2rayNG_Matsuri
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#🔐 @AblNet7 🧨
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@meli_proxyy
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&host=V2rayBaaz&headerType=none&type=tcp#V2rayBaaz
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2053?mode=gun&security=tls&encryption=none&type=grpc#@AblNet7🇩🇪 Germany grpc tls (4e0)
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2087?mode=gun&security=tls&encryption=none&type=grpc#@AblNet7🇩🇪 Germany grpc tls (4e0)
@@ -253,3 +252,4 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Dw90GySiK7.tAkTaK00121.iNfO&fp=chrome&type=ws&sni=Dw90GySiK7.tAkTaK00121.iNfO#@configfu
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=D324vSmBvE.aAaZzZaAa-89.InFo&type=ws&sni=D324vSmBvE.aAaZzZaAa-89.InFo#آلمان 🇩🇪 @V2xay
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=62X1tXx6M0.9pEsC.cOm&type=ws&host=62X1tXx6M0.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=FlN5fXaYrS.9pEsC.cOm&type=ws&host=FlN5fXaYrS.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
