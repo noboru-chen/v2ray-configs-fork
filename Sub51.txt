@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#@NetAccount
 vless://f3c2dacb-fd09-4e08-b9fc-45ed09b987b5@www.speedtest.net:2096?mode=auto&path=/test?ed=2096&security=tls&encryption=none&host=pars.stepson.ir&type=xhttp#@Daily_Configs
 vless://f3ee91bb-7e9a-4f99-ca57-620529307c48@151.101.3.8:80?path=/ws/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN?ed=2048&security=none&encryption=none&host=Gozargah.org&type=ws#🚀 GozargahVPN | 🇷🇺 Russia
 vless://f4061b1a-3743-4c58-8ad2-31b368e9a130@212.23.214.199:48265?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#3 🇮🇷🇩🇪@Evay_vpn
@@ -252,4 +253,3 @@ vless://fc264e2f-753b-43fd-878c-c8f82b4bc502@172.67.40.158:443?type=ws&host=hidd
 vless://fc27ebd9-312f-47e7-b515-cbcd7a182d19@193.24.105.24:61?security=none&encryption=none&type=ws#🇨🇵@EXPRESSVPN_420
 vless://fc5cbefb-16a3-4b77-a787-7533767a7add@104.24.3.255:2095?path=/?ed=2560&security=&encryption=none&host=TUR-node.amirconfigpanelllll.com&type=httpupgrade#Channel id: @ShadowProxy66 🇨🇦
 vless://fc5cbefb-16a3-4b77-a787-7533767a7add@104.27.44.49:2095?path=/?ed=2560&security=&encryption=none&host=TUR-node.amirconfigpanelllll.com&type=httpupgrade#Channel id: @ShadowProxy66 🇨🇦
-vless://fc5cbefb-16a3-4b77-a787-7533767a7add@141.101.122.92:2095?path=/?ed=2560&security=&encryption=none&host=TUR-node.amirconfigpanelllll.com&type=httpupgrade#Channel id: @ShadowProxy66 🇫🇷

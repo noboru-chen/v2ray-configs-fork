@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@Tunder_vpn
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/download&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@ATOVPN | نت ملی
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/download&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram : @EXPRESSVPN_420
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws#@EXPRESSVPN_420💛سرور رایگان جوین شو🔫
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws#@Tunder_vpn ALL
@@ -132,6 +130,7 @@ vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&host=befre
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://7fb76be6-fd3a-46a7-a571-0de9980aee62@104.237.138.213:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#🔥 @AblNet7 🇺🇸
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.202.104.250:2222?security=none&type=tcp#Telegram:@config_proxy 🔥
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.202.137.194:2222?security=none&type=tcp#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv4.cloudjetm.com:2222?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
 vless://7fc9bb4b-36de-48f9-896a-7f99593bd808@104.16.53.11:8080?path=/Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs--Telegram--ip_configs--Join--ip_configs?ed=1048&security=&encryption=none&host=de-websocket.m1.www.speedtest.net.api.edge.net.avaaCAdo.iR.&type=ws#WS | @ipV2Ray
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#Sv1_@FF_crony🇺🇸
@@ -253,3 +252,4 @@ vless://846f174c-eb90-4f55-bd4d-be3e5d3b73f8@185.121.235.65:443?encryption=none&
 vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638886055652728185.warsaw-prx-dnraaao.info&type=ws&alpn=&host=638886055652728185.warsaw-prx-dnraaao.info&path=/zmgbizws#@configfu
 vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/zmgbizws&security=tls&encryption=none&host=638892846452854448.hamedan-prx-dnraaao.info&type=ws&sni=638892846452854448.hamedan-prx-dnraaao.info#@HiByeVPNN👈⚡❤️‍🔥
 vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/zmgbizws&security=tls&encryption=none&host=638892846452854448.hamedan-prx-dnraaao.info&type=ws&sni=638892846452854448.hamedan-prx-dnraaao.info#Channel : @Mrsoulb 🏴🏳
+vless://8495462c-1140-48ac-9331-fdb8e1fde8fe@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/zmgbizws&security=tls&encryption=none&host=638892846452854448.hamedan-prx-dnraaao.info&type=ws&sni=638892846452854448.hamedan-prx-dnraaao.info#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@

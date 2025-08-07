@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://9db6acf4-d3d3-4176-f704-0da5f6da6165@185.248.187.69:10297?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#@V2RAY_VMESS_free
 vless://9db844bd-2c67-43bf-9381-553dffb259fd@62.60.220.115:80?mode=auto&path=/&security=none&encryption=none&host=62.60.220.115&type=xhttp#@CaV2ray ⚡️
 vless://9dcdc6d7-1243-4550-afa5-773910f259c8@simonil.zarghamportal.ir:80?path=/@iSpeedTopVPN?ed=80&security=&encryption=none&host=shole6.zarghamportal.ir&type=httpupgrade#Channel:-@iSpeedTopVPN - Config
@@ -253,3 +252,4 @@ vless://9fa3f2c3-2ae0-47b3-8a16-b9a9c85739a6@wolf.origamimarketings.com:8888?sec
 vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=/?ed=#Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=&encryption=none&host=cdn39030.marzban-l.ir&type=ws#🛡️ @FreakConfig
 vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=/?ed=#Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#🛡️ @FreakConfig
 vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&alpn=h2,http/1.1&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO.&type=ws#IR-@Tunder_vpn
+vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#@V2ray1_Ng
