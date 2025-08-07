@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@SAVTEAM  | CONFIG
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@Tunder_vpn
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Bya To @Iran_V2ray1
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#IRAN 453 (@Outline_Vpn) free
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🇩🇪 | @External_Net
-vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&fp=chrome&type=tcp&sni=refersion.com#ایتالیا 🇮🇹 @V2xay
-vless://a0e0fc1f-e056-4ca0-b0fe-3af4fecd70e1@45.55.212.210:443?security=reality&encryption=none&pbk=vi3w2Fhxm959AJySnMWGZwFLnppnLbAoFEZ9seJ8Ph8&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=036c2e0826c4#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
-vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@185.155.72.152:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
 vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@en2.fastplus.shop:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
 vless://a12ee74a-bd71-4e1d-8450-f4b3433d6198@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://a12ee74a-bd71-4e1d-8450-f4b3433d6198@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
@@ -179,6 +171,9 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:8443?path=/&security=
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN&allowInsecure=1&type=ws&security=tls#🇫🇷[Telegram:NetifyVPN]
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:443?security=tls&encryption=none&type=ws#FR 2 🇫🇷 | @v2xay
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:443?security=tls&encryption=none&type=ws#🇫🇷[Telegram:@v2rayng_fars]
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.110:2096?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇺🇸
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇺🇸
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇫🇷
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=K4j4FuZfMo.MeTaL1.oRg#@Configology🌹
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=K4j4FuZfMo.MeTaL1.oRg#🇩🇪@v2rayng_fars
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=P7k38RuK9g.MeTaL6.oRg#@Configology🌹2
@@ -242,6 +237,7 @@ vless://a8e41efd-0fb8-459a-9fab-95e038a003f4@s85cndx2225.mmadvip8563.ir:3799?sec
 vless://a8e84392-4d52-4886-afa6-76fdfaf49c86@172.67.180.227:443?path=/a8e84392&security=tls&encryption=none&host=dewuxian.pai50288.uk&type=ws&sni=dewuxian.pai50288.uk#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
 vless://a8eeae9f-0170-4d73-9c21-4d868469c6e2@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://a8fe2e9f-fde7-44c1-9cf6-9a0bdea50d99@185.226.92.106:80?mode=auto&path=/2FMoonv2r--Telegram--Channel&security=reality&encryption=none&pbk=40P2evGAFzizxEJ7NzAbL9eBCGxJk7YE6d1le-Qij0s&host=LunaMoonV2r.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com.p30day.ir&sid=db86aba349ac#@Alfa_v2ray_ng کانالمون 🥹
+vless://a90a8e5b-8561-4799-9de5-a7c35662cfa2@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://a90e3756-d330-4597-bcc3-ab7905741e52@86.104.72.211:32401?type=tcp&security=reality&fp=chrome&sni=dl.google.com&pbk=8RJPuc5C7fcVe5LSQ0olGnhiqFL8LX-0pnLMrEHD1Bs&sid=7fb7a1507826c540&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸@EVAY_VPN
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@mtn----join.outline-vpn.cloud:80?security=none&encryption=none&type=ws&host=tunn.free.hr&path=/?ed=2048#Irancell(@Vpn_Zvpn)
 vless://a93fc14d-9438-4f2f-9778-313e2c57031b@138.199.162.176:465?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
@@ -253,3 +249,7 @@ vless://a9b358d4-0684-40a3-a6e0-2db82b5f5b88@kafshu.ir:8080?path=/@Shh_Proxy----
 vless://a9b358d4-0684-40a3-a6e0-2db82b5f5b88@kafshu.ir:8080?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#🇳🇱@ghalagyann | All¹
 vless://a9b358d4-0684-40a3-a6e0-2db82b5f5b88@kafshu.ir:8080?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&encryption=none#🇳🇱@Shh_Proxy | All¹
 vless://a9b8d890-4e70-4f42-a51d-915b65b539ce@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
+vless://a9c9c197-c626-4667-f219-1575f26715ac@chat.deepseek.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@ramgamevpn🇫🇮
+vless://a9c9c197-c626-4667-f219-1575f26715ac@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@ramshoop🇫🇮
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
