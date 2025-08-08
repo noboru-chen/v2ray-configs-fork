@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80/?type=ws&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 415 (@Outline_Vpn) free
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://a2c536b8-9b1c-4aea-a6ec-35fdc407c84d@api.dayhostpro.com:57297?security=reality&encryption=none&pbk=DAkye38FaoQNbOpsdebtSJLM1VfbtKIdG6ujUGjkRi8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=assets01.surveymonkey.com&sid=60bd80#@Daily_Configs
@@ -124,7 +126,6 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@104.19.144.33:8443?path=/&security=
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@104.19.144.33:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Z6wMrTdCkC.mEtAl1.OrG&fp=chrome&type=ws#Germany-2
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:8443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇫🇷
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:8443?path=/&security=tls&encryption=none&type=ws#FR 2 🇫🇷 | @v2xay
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:8443?path=/&security=tls&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇫🇷
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇫🇷
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.58:2096?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇫🇷
@@ -252,4 +253,3 @@ vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?type=ws&path=/olem/ws?e
 vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://a9de9b61-23e9-429c-b52e-56693b4fda93@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@217.114.40.12:80?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
-vless://aa0bacdf-c03f-45d4-a7f2-6856b0d3cb86@104.17.148.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=ww.irAnsheep.wEb.tr.&type=httpupgrade#@mehrosaboran
