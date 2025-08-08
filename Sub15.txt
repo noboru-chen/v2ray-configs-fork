@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray26 جهت خرید سرور اختصاصی👇  @v2rayng64
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray26:🇦🇪
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray26:🇦🇪 جهت خرید
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2rayngsupbot 🔗 @ai_duet
@@ -178,7 +179,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&en
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#🔐 @AblNet7 🧨
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.100.113:2020?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]ae_proxy
