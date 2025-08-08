@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&encryption=none&host=analytics.google.com&headerType=http&type=tcp#@V2rayNG3
 vless://19bd6c93-953d-4b01-953c-a3cf2238eaf8@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#🇨🇭+Switzerland
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#AMIN@ATOVPN
@@ -253,3 +252,4 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@Alfa_v2ray_ng کانالمون 💦
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@G0DV2RAY

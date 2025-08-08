@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#VayNora
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?flow=&type=ws&host=&path=/&security=none#@vmessorg
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 💦
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 417 (@Outline_Vpn) free
@@ -253,3 +252,4 @@ vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=/@CUSTOMI
 vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇩🇪v2rayng_fars
 vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none=&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@bored_vpn
 vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none=&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@icv2ray
+vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none=&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@mehrosaboran
