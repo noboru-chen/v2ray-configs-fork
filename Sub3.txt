@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#LT_speednode_0071
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#LT_speednode_0072
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.161.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#LT_speednode_0073
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#LT_speednode_0074
@@ -252,4 +253,3 @@ hysteria2://6fqm3RNcGA@v2raybluecrystal-rema.3dfigures.ir:13738?fastopen=0&insec
 hysteria2://6fqm3RNcGA@v2raybluecrystal-rema.3dfigures.ir:55764?fastopen=0&insecure=1&obfs=salamander&obfs-password=telegram@v2raybluecrystal|001_telegram@v2raybluecrystal|[telegram@v2raybluecrystal]|{telegram@v2raybluecrystal}|(telegram@v2raybluecrystal)|telegram@v2raybluecrystal#2025|++telegram@v2raybluecrystal++|~~telegram@v2raybluecrystal~~|==telegram@v2raybluecrystal==|telegram@v2raybluecrystal$$$|:::telegram@v2raybluecrystal:::|telegram@v2raybluecrystal_007|telegram@v2raybluecrystal>><<|//telegram@v2raybluecrystal\\|<<telegram@v2raybluecrystal>>|telegram@v2raybluecrystal---|||telegram@v2raybluecrystal|||888_telegram@v2raybluecrystal_999|**telegram@v2raybluecrystal**|--telegram@v2raybluecrystal--|telegram@v2raybluecrystal::active#v2raybluecrystal
 hysteria2://918acdcd-8d53-4b58-8304-99bee6218e7c@nexiateq.688997.xyz:20957?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=nexiateq.688997.xyz#@SaghiVpnX[🇹🇷]
 hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=pichondan.com#🛡️ @FreakConfig
-hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=pichondan.com#آلمان 🇩🇪 @V2xay

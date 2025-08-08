@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4d95d26c-7f45-4011-c168-4d85fc3f22f8@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
-vless://4dad6029-a008-4d3d-a98d-80fa9d997f37@amirpanel1.ckoutddhlursfjojxjw.com:36571?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#.
-vless://4dbe1831-4a9a-448a-a4a8-edc9d4d4d0ec@152.42.141.126:1615?security=reality&encryption=none&pbk=FeiQv7me3tts_1SFDIoeScklFESISNtjROyxkryUxW8&headerType=&fp=chrome&spx=/@SaghiBOX/@SaghiBOX/@SaghiBOX/@SaghiBOX/@SaghiBOX/@SaghiBOX/@SaghiBOX/@SaghiBOX&type=tcp&sni=www.refersion.com&sid=41c7#@SaghiVpnX[🇳🇱]
 vless://4dc10699-ff48-4688-b7e3-675249f307c3@5.253.41.42:30488?security=reality&encryption=none&pbk=oAZiftXfDm4Kue2Zle0lB9QQXEFPRyd24Vf7useQRyY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=a7#🇯🇵 | @External_Net
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
@@ -226,7 +223,6 @@ vless://5326adc7-7f45-4338-8521-77d8e278aaa4@ftp55.basalam.eu:80?mode=auto&path=
 vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&sid=ac#Telegram:@config_proxy 🔥
 vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=ac#@V2RAY_VMESS_free
 vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=ac#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=ac#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:15.35ms
 vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@melov2ray🇩🇪
 vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#@melov2ray🇩🇪
 vless://537fd084-1078-4fc6-bec6-dad70fc96297@178.162.244.178:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@AYMH19+کانال+تلگرام
@@ -253,3 +249,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@V2r
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#Telegram@Tunder_vpn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#modem7009
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=/telegram@v2ray_alpha/?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@V2rayNG3
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?security=&type=ws&path=/LwW5jwrnymnOdqki?ed=2560&host=redw.pooriam.ir&encryption=none#@awlix_ir
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.112.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=psycho.suex12.ir&fp=chrome&type=ws&sni=pSYcho.sUeX12.IR#@V2rayNG3
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=/telegram@v2ray_alpha?ed=2560&security=tls&encryption=none&host=redw.pooriam.ir&type=ws&sni=REDw.pOOriam.Ir#@V2rayNG3
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=/telegram@V2ray_Alpha/?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=redw.pooriam.ir&fp=chrome&type=ws#@V2rayNG3
