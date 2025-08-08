@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://026ce330-bb63-42fa-fac9-254275728d40@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@Academi_vpn³
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@Configology🍉2
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@meli_proxyy
@@ -252,4 +253,3 @@ vless://0c942b51-66f2-4788-98c3-8cf58954421b@91.107.159.32:22?mode=gun&security=
 vless://0c942b51-66f2-4788-98c3-8cf58954421c@91.107.159.32:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#@ev2rayy
 vless://0c942b51-66f2-4788-98c3-8cf58954421d@91.107.159.32:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#@ev2rayy
 vless://0c942b51-66f2-4788-98c3-8cf58954421d@91.107.159.32:444?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&spx=/&type=grpc&serviceName=کانال‌تلگرام @ev2rayy&sni=yahoo.com&sid=d757f949ab85#@ev2rayy
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#IRAN 401 (@Outline_Vpn) free
