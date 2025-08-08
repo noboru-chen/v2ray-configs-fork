@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ee62d09e-caff-4a4a-9d87-9cc72d8e7a9c@server-farna1.anush.top:2087?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#.
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@101.32.15.176:26657/?type=ws&encryption=none&flow=&host=edccj.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&sni=edccj.ambercc.filegear-sg.me&allowInsecure=1&packetEncoding=xudp#HK
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@173.245.59.110:443?path=/?ed=2560&Tel-@V2ray_Alpha&security=tls&encryption=none&host=edmk.ambercc.filegear-sg.me&type=ws&sni=edmk.ambercc.filegear-sg.me#@CaV2ray ⚡️
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@221.144.200.91:12527/?type=ws&encryption=none&flow=&host=edccr.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&sni=edccr.ambercc.filegear-sg.me&fp=chrome&packetEncoding=xudp#🇹🇼台湾
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.21:443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&encryption=none&host=edmk.aimercc.filegear-sg.me&type=ws&sni=edmk.aimercc.filegear-sg.me#💯T.me/Asak_Vpn💯
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&flow=&host=edcck.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&sni=edcck.ambercc.filegear-sg.me&allowInsecure=1&packetEncoding=xudp#JP
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.115:443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&alpn=h3&encryption=none&host=edgb.aimercc.dpdns.org&fp=chrome&type=ws&sni=edgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇰🇭
@@ -253,3 +249,7 @@ vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=/?ed=2560&sec
 vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=/JOKERRVPNTELEGRAM----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN?ed=2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#@HiByeVPNN👈⚡❤️‍🔥
 vless://f5d520af-e12a-47cc-8c08-315193bd53db@ir1.phantompanel.shop:19309?encryption=none&security=none&type=tcp&headerType=http&host=towhidshop.org#🇩🇪 | Ch Telegram : @CodeClubiR - 2GB
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.227.185.247:8880?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸@EVAY_VPN
+vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8880?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇹🇷@EVAY_VPN
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#@Academi_vpn7
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#@Hddify |~| چنل هدیفای 🧁
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#@V2RAYROZ
