@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#✅ @vistav2ray  👈👈کانال ما
+vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#Bya To @Iran_V2ray1
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#فنلاند 🇫🇮 @V2xay
 vless://fc64f952-bec8-4bed-b112-64303030f97f@j3s1i.proxyfire.xyz:8000?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
 vless://fc6ca849-77a7-4157-b5c1-8a63f3c342fe@194.182.79.205:33979?mode=gun&security=reality&encryption=none&pbk=a_Y7oMduAyyAMIaJ0iboDJevBATphOzjgq_6OvtB8DI&fp=chrome&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=27a831#@bored_vpn
@@ -250,6 +253,3 @@ vless://turboo-server@telegram.turboo-server.com.co:2095?security=none&encryptio
 vless://turboo-server@telegram1.turbooo-server.com:43978?security=none&encryption=none&headerType=http&type=tcp#ALL@azadiiivpn 🇳🇱
 vless://turboo-server@turboo-server.sadafspace.com:48723?mode=gun&security=reality&encryption=none&pbk=1WQPNVCS8laWlmbHO-WnqXCqvlPcKQkb_hK_5eBmrH0&fp=chrome&spx=/&type=grpc&sni=tgju.org&sid=b3#ALL@azadiiivpn 🇩🇪
 vless://turboo-server@turboo-server.sadafspace.com:48723?mode=gun&security=reality&encryption=none&pbk=1WQPNVCS8laWlmbHO-WnqXCqvlPcKQkb_hK_5eBmrH0&fp=chrome&spx=/&type=grpc&sni=tgju.org&sid=b3#azadiiivpn 🇩🇪
-vless://turboo-server@turboo-server.sadafspace.com:48723?mode=gun&security=reality&encryption=none&pbk=1WQPNVCS8laWlmbHO-WnqXCqvlPcKQkb_hK_5eBmrH0&fp=chrome&spx=/&type=grpc&sni=tgju.org&sid=b3#آلمان 🇩🇪 @V2xay
-vless://turboo-server@turbooserver.sadafspace.com:55990?security=reality&encryption=none&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&headerType=none&fp=chrome&spx=/&type=tcp&sni=canva.com&sid=eebcfab3#@Selinc
-vless://turboo-server@turbooserver.sadafspace.com:55990?security=reality&encryption=none&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&headerType=none&fp=chrome&spx=/&type=tcp&sni=canva.com&sid=eebcfab3#azadiiivpn 🇳🇱

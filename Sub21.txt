@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://370f6712-c143-48ab-8974-aa35c32aa128@cumhuriyet.com.tr:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev
 vless://371c3285-f15a-4a64-b8e1-1ad8a5d8f01d@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=crazyofferzzshopp.com&path=/FASTSHOVPN?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸 @Evay_vpn
 vless://371c3285-f15a-4a64-b8e1-1ad8a5d8f01d@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=/FASTSHOVPN?ed=2048&security=&encryption=none&host=crazyofferzzshopp.com&type=xhttp#@FASTSHOVPN عضو شو
 vless://372ec5aa-435d-44d8-b755-7a9d31eba50d@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌳 Telegram | @Green_WPN  ❌ Enable: No ❌ 🇨🇦
@@ -252,4 +253,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&securi
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#@Daily_Configs
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#azadiiivpn 🎀
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🛡️ @FreakConfig
