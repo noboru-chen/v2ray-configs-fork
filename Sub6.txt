@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#🛡️ @FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVEdSRkJvRXdSVzAxV09kZWtHQVNk@77.83.246.74:443#Telegram:@config_proxy 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTOVNFRlpBaGZDdEJaOHhWb2dDZW53ZnBTVXVSTllIWEVBRlJ4aEtvaHBjVWZLMzlqWkh0VEo4U29SYVZrUlR5d2Nvd3l0YWRZOTZTWDFoUWNINFo0Wmoyc3V0NFh1aXY=@host.phonygilson.icu:49072#@V2RAY_VMESS_free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUnRmVjZydUJwRFJ4QVV5aWpmdHZE@77.105.166.12:8594#🛡️ @FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM0lsZ0l2Z0FrQWthQkNuMFNVQXNY@77.239.117.121:28694#@Awlix_ir
@@ -128,7 +131,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#Te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#Tel:Tunder_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@desrv.vmagnum.win:57456#@V2rayFLASH⚡
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@desrv.vmagnum.win:57456#فیلترشکن نامحدود 99ت =» SabznetVPN@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.141:8080#@V2rayNG3-Irancell
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSnJZMjI1WU00RkQ4U09YbFJqbklB@USA.tiny1.cloud:1080#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTZlOTMzYi04ODc0LTRiZjQtYTM4NC0wZGUyMTZlZjJiZjQ=@pr.fastsoonlink.com:40030#Bya To @Iran_V2ray1
@@ -251,5 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#Te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#🛡️ @FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#@V2RAY_VMESS_free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#@V2RAY_VMESS_free
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Telegram:@config_proxy 🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#@SaghiVpnX[🇵🇷]
