@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#VayNora
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#کانفیگ پرسرعت و ارزان همراه تست 🇩🇪 @ConfVip
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -253,3 +250,6 @@ vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?path=/&security=
 vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?path=/&security=none&encryption=none&type=ws#🇰🇿[Telegram:v2rayng_fars]
 vless://1f209cb0-ba78-4e98-a45a-a97e1c1ae8f2@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://1f2c36a3-bfd0-4491-8fd7-cdff97bb4f9d@109.122.249.131:3232?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#@NetAccount
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#@CaV2ray ⚡️
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#@EXPRESSVPN_420 👈🏻 کانال‌ ما All Nets
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=/?ed=2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#@Tunder_vpn

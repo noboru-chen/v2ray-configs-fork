@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://60134848-6190-4e13-f89e-f441c2cf25f2@lllliraniv2rayllll.norooz.online:443?encryption=none&security=tls&sni=llliraniv2raylll.norooz.online&fp=chrome&type=ws&path=/@iraniV2ray#@iraniV2ray---channel
-vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?path=/pfrlouws&security=tls&encryption=none&type=ws#@AblNet7🇫🇷 France
-vless://603ac798-bc9d-44ea-8fec-f32ada52fd57@91.107.254.202:2096?type=xhttp&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir&host=firebase.googleapis.com&mode=auto&security=reality&pbk=sPEQ8mlkuJQsGrMZux2g9EmXKztuXHwnyORJPwwznDQ&fp=chrome&sni=firebase.googleapis.com&sid=a0e13102&spx=/#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
 vless://6064efe5-2bc4-4694-933c-d3fe05e73da4@91.107.254.202:2096?type=xhttp&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir&host=firebase.googleapis.com&mode=auto&security=reality&pbk=sPEQ8mlkuJQsGrMZux2g9EmXKztuXHwnyORJPwwznDQ&fp=chrome&sni=firebase.googleapis.com&sid=a0e13102&spx=/#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
 vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@139.177.199.114:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://607d9703-8403-415c-a201-05178810530c@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
@@ -253,3 +250,6 @@ vless://6a63f49d-6949-4e41-a257-1cbbd7dce9a0@172.66.40.99:80?path=/telegram-CONF
 vless://6a6c2353-0e16-4723-ca96-a2eea53f1586@fr.irimcs.org:2087?encryption=none&security=reality&sni=greenpepper.ir&fp=chrome&pbk=sORv_HDGkdPL66DXBNctiC_2k3XD_Zq-QRRJL9XFwWU&sid=49f9&spx=/&type=grpc&serviceName=Telegram:@catvpns&mode=gun#@catvpns 🇩🇪
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=/Telegram-@V2ray_Alpha/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=TESt-TEsT-TEST-TEsT.pAGes.dEV&fp=chrome&type=ws&sni=test-teSt-tEsT-teSt.pagES.DEv#@V2rayNG3
 vless://6a8a05fe-1250-4927-876b-59dc767924c9@ir.holy3buy.website:27364?type=tcp&security=none#⚜️Telegram: @IP_CF
+vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#@i10VPN 🚀| با ما متصل بمون⚡
+vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#💎 @AblNet7 💎
+vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&sni=yahoo.com&fp=chrome&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&sid=5c0333ed45b1&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#@NetAccount
