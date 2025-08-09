@@ -177,7 +177,6 @@ vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=r
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b4ce592d-4db0-4f08-894a-26c559fd0663@cdn19.zarghamportal.ir:80?path=/@iSpeedTopVPN?ed=2060&security=&encryption=none&host=moslehcdn.zarghamportal.ir&type=httpupgrade#Channel:-@iSpeedTopVPN  🇹🇷
 vless://b4e11b18-dab9-420a-8db7-0602c032dc1c@91.99.18.180:8558?type=tcp&security=none#Telegram:@config_proxy 🔥
-vless://b4e11b18-dab9-420a-8db7-0602c032dc1c@91.99.18.180:8558?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub
 vless://b4e55579-c359-4a4d-b810-852f516b76f9@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#@MARAMBASHI 💜
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#/?Join---i10VPN?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,3 +252,4 @@ vless://b7f7dce6-cb82-4236-83de-cfc4dda91662@FASTSHOVPNTELEGRAM.fast.hosting-ip.
 vless://b7f8a470-e576-48ed-a5d5-d56d9605d307@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-26Mordad-Night
 vless://b8018b45-d06c-4837-90bb-9a2c1cbe5adb@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://b807c5f7-98b4-4a91-9e1e-98865d949a51@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#Sv1_@FF_crony🇺🇸
+vless://b807c5f7-98b4-4a91-9e1e-98865d949a51@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=chrome&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=/&type=tcp&headerType=none#Sv2_@FF_crony🇺🇸
