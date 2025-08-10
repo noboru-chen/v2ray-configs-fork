@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9b1bd0fe-4e14-44b9-8f43-075924389f25@149.248.52.96:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Telegram:@config_proxy 🔥
-vless://9b558594-52f0-4d84-8db2-963b5387ecf0@lllliraniv2rayllll.norooz.online:443?path=/@iraniV2ray&security=tls&encryption=none&fp=chrome&type=ws&sni=lllliraniv2rayllll.norooz.online#@iraniV2ray
-vless://9b6619f7-269d-4ac7-bd9a-3a3e42aface3@holanx.blacklike.ir:9008?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://9b6619f7-269d-4ac7-bd9a-3a3e42aface3@holanx.blacklike.ir:9008?security=none&type=ws&headerType=&path=/?ed=2048&host=skyroom.online#[🇳🇱]ae_proxy
 vless://9b70a05c-7e7d-43fa-9ca7-386a669b304f@pishgam.sdcards.ir:8080?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=amiri2.server-dev2.ir&security=none#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
 vless://9b8d4b18-79b7-4b2d-9d9b-3ae11bcfd2dd@104.18.26.90:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.isvcloud1.ir.&type=ws#telegram-@ISVvpn 2
@@ -253,3 +250,6 @@ vless://9f6920e7-ed7d-4fe2-a990-444b1e6233aa@91.107.136.146:24070/?type=grpc&ser
 vless://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?security=reality&encryption=none&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d78523a82d71956#@AblNet7 🇮🇷 نت ملی
 vless://9f93a960-2a66-49c0-9a57-5782ff924e5f@46.101.163.141:55093?security=none&type=tcp&headerType=none&path=&host=#⚡ [🇩🇪] [Direct] CodeClubiR
 vless://9f93a960-2a66-49c0-9a57-5782ff924e5f@87.107.104.132:55093?security=none&type=tcp&headerType=none&path=&host=#[🇳🇱] [Tunnel] CodeClubiR
+vless://9f93a960-2a66-49c0-9a57-5782ff924e5f@87.107.104.132:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] CodeClubiR
+vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=/?ed=#Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=&encryption=none&host=cdn39030.marzban-l.ir&type=ws#🛡️ @FreakConfig
+vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=/?ed=#Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#🛡️ @FreakConfig
