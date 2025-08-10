@@ -155,6 +155,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#IRAN 291 (@Outline_Vpn) free
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#IRAN 294 (@Outline_Vpn) free
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&sni=a.mifeng.us.kg&type=ws&path=/telegram-_-_-_-_-__-free_shekan-_-_-_-/?ed=2048&host=a.mifeng.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.16.242.208:8889?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560&fp=chrome#t.me/entryNET/config=1839953110963552
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095?path=/?ed=2560&security=none&encryption=none&host=xijinpingnmsl.s4ar.workers.dev&type=ws#🟢 جوین بده کانکت بمونی: @STAPersiaNews
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.146.66:2095?path=/?ed=2560&security=none&encryption=none&host=xijinpingnmsl.s4ar.workers.dev&type=ws#🟢 جوین بده کانکت بمونی: @STAPersiaNews
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&fp=chrome&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
@@ -193,6 +194,7 @@ vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&s
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--@FREEV2RNG&type=ws#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--@ShadowProxy66&type=ws#@Daily_Configs
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--@ShadowProxy66&type=ws#Channel id: @ShadowProxy66 🇹🇷
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--ShadowProxy66&type=ws#Channel id: @ShadowProxy66 🇹🇷
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XA2XAY--V2XAY--V2XAY&type=ws#TR 2 🇹🇷 | @v2xay
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY---V2XAY--V2XAY&type=ws#TR 2 🇹🇷 | @v2xay
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?path=/hfwsxtws&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
@@ -251,5 +253,3 @@ vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=none&
 vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🟢 جوین بده کانکت بمونی: @STAPersiaNews
 vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@bluVPNir
 vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@v2rayNGcloud
-vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#Telegram@ConfingV2RaayNG
-vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🚀 @VPNCUSTOMIZE
