@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 283 (@Outline_Vpn) free
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 301 (@Outline_Vpn) free
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 305 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 312 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 333 (@Outline_Vpn) free
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#IRAN 370 (@Outline_Vpn) free
@@ -253,3 +250,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&headerTy
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=&encryption=none&headerType=none&type=tcp#کانفیگ سریع و ارزان همراه تست 🇩🇪 @ConfVip
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#@SAVTEAM  | JOIN
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#کانفیگ پرسرعت و ارزان همراه تست 🇩🇪 @ConfVip
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:v2rayng_fars]

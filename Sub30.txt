@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://70f8697b-f9f3-4692-8e0a-3d1834fd76dc@ip.sb:443?path=/&security=tls&encryption=none&host=0fD5019a.FL-8hB.paGEs.deV&fp=chrome&type=ws&sni=0fD5019a.FL-8hB.paGEs.deV#@V2RAY_VMESS_free
-vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/iqySBCJZh3v7AmTx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#@bad_raqs
-vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/iqySBCJZh3v7AmTx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#@v2ray313 کانالمون 💙
 vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/iqySBCJZh3v7AmTx?ed=2560fp=chrome&security=tls&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#@V2RAY_VMESS_free
 vless://71168f32-84d8-4061-b865-dfe7f685ad38@Hi.somo44.sbs:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔
 vless://71168f32-84d8-4061-b865-dfe7f685ad38@Hi.somo44.sbs:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MTN
@@ -253,3 +250,6 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=/XV2ray?ed
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=/T,E,L,E,G,R,A,M,X,V,2,R,A,Y?ed=2560&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.salf101.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&type=ws#@V2rayNG3
 vless://7a5c6793-f6e9-41dc-b6c5-089cff9c5779@filmnet.filimnet.com:80?mode=packet-up&path=/cdn/assets?v=12&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ²⁰🇩🇪➣@CUSTOMVPNSERVER
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁸🇩🇪➣@CUSTOMVPNSERVER
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ⁹🇩🇪➣@CUSTOMVPNSERVER

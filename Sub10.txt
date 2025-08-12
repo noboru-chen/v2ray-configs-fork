@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://blue2024@103.21.244.134:443?type=ws&sni=hb.lii2010.us.kg&path=/?ed=2560&host=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@103.21.244.26:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.17.142.12:443?allowInsecure=1&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.142.12:443?allowInsecure=1&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/?ed=2560#t.me/entryNET/config=1840232576740148
 trojan://blue2024@104.17.142.12:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840104170461526
 trojan://blue2024@104.17.16.170:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -253,3 +250,6 @@ trojan://telegram-id-privatevpns@35.181.248.2:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.181.70.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@51.44.102.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@51.44.118.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.47.54.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.59.100.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
