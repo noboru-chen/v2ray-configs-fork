@@ -6,16 +6,18 @@
 hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?security=tls&obfs=salamander&obfs-password=Mzc5NTA3MjVlZDMyYTYyMA==&insecure=1&sni=aparat.com#TR 4 🇹🇷 | @v2xay
 hysteria2://e6eb767c-6275-4c0c-9232-75aa2a0e9952@bx.dport.top:33654?sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@Daily_Configs
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
+ss://0f5785d5-2298-459b-a0b7-9ac9f4279cd4@109.248.161.178:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=fMILLnxuFypSf2-f52XGgBb3Yyh7NjO4xPlL3V8PnWk&sid=74#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Delhi🅿️ping:293.75ms
 ss://14c8603b-f036-4ebe-800b-ce6add99cd50@154.17.225.73:443/?type=ws&encryption=none&flow=&host=usb.rtot.me&path=/bing&security=tls&sni=usb.rtot.me&fp=chrome&packetEncoding=xudp#Telegram:@config_proxy 💦
-ss://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_4#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.3ms
-ss://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420%#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.3ms
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80/?type=ws&encryption=none&flow=&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:6.37ms
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 💦
-ss://33e40275-fcaf-4d97-a4e6-095fb97c0968@104.24.196.20:8880?security=none&type=httpupgrade&host=www.speedtest.net.farshegermez.ir.&path=/bLididkd🧔?ed=80#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.23ms
-ss://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@151.101.128.155:80?type=ws&host=www.Yjc.ir&path=/ConfigTell,ConfigTell,ConfigTell?ed=2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:6.29ms
+ss://2224c52b-2de1-413b-811c-cbc229497e63@176.98.181.37:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=ScCjhOozCJaVY9C1B7AZrPA2ozJ63P0XlVaXwCZ7LW8&sid=b15619f6#👉🆔@v2ray_configs_pool📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:197.81ms
+ss://32c19271-248b-43ae-d66c-59680afcfacb@83.147.240.3:24237/?type=ws&encryption=none&flow=&path=/32c19271#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles (West Los Angeles)🅿️ping:148.61ms
+ss://362acbb4-f51b-4d33-93c1-c43a6aa318a6@minecraft1111.javadstv70.workers.dev:443/?type=ws&encryption=none&flow=&host=minecraft1111.javadstv70.workers.dev&path=/m1yyqis0sh2amom1?ed=2560&security=tls&sni=minecraft1111.javadstv70.workers.dev&alpn=http/1.1&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.03ms
 ss://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 💦
-ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.28ms
-ss://790abba4-0be7-4dcc-b061-94fa4582bd40@104.19.42.4:443?security=tls&sni=ou-exams-identify-folks.trycloudflare.com&type=ws&host=ou-exams-identify-folks.trycloudflare.com&path=/790abba4-0be7-4dcc-b061-94fa4582bd40-vless?ed=2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.71ms
+ss://790abba4-0be7-4dcc-b061-94fa4582bd40@104.19.40.30:443?security=tls&sni=ou-exams-identify-folks.trycloudflare.com&type=ws&host=ou-exams-identify-folks.trycloudflare.com&path=/790abba4-0be7-4dcc-b061-94fa4582bd40-vless?ed=2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.63ms
 ss://812f026d-7d88-45be-9782-8e602bb3c3d4@fast.dissertationhelpspecialist.com:443?security=reality&encryption=none&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&fp=chrome&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixs#Telegram:@config_proxy 💦
+ss://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&encryption=none&type=tcp&headerType=none#Telegram:@config_proxy 💦
+ss://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280/?encryption=none&flow=&host=assets.global.fastly.net&type=tcp&headerType=http#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Karlsruhe (Nordweststadt)🅿️ping:10.27ms
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3Z6aTdlaFFjT0VLUXRyeEQ5YmZiS0JKcWR1WnlKT3ZvaEd1TGxmRElTMD1AMTMuNDkuMjI4LjMwOjgwODA=#@Vpn_zvpn
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206T0RJMFpUa3haRGt4TTJFMFkyVXdNUT09OlkyTXdOamRtWXpVdFlUSXhZeTAwTkE9PQ==@zz.xn--2vxn29amga.com:8094#🛡️ @FreakConfig
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080#🇳🇱⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
@@ -86,7 +88,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@Mcv2rayNG-TEL-@Mcv2rayN-TEL-@Mcv2rayNG-TEL-@Mcv2rayNG-JOIN-@Mcv2rayNG-TEL-@Mcv2rayNG-JOIN-@Mcv2rayNG-TEL-@Mcv2rayNG TEL-@Mcv2rayNG-JOIN-@Mcv2rayNG-TEL-@Mcv2rayNG-6&sni=bi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@Mcv2rayNG-TEL-@Mcv2rayN-TEL-@Mcv2rayNG-TEL-@Mcv2rayNG-JOIN-@Mcv2rayNG-TEL-@Mcv2rayNG-JOIN-@Mcv2rayNG-TEL-@Mcv2rayNG TEL-@Mcv2rayNG-JOIN-@Mcv2rayNG-TEL-@Mcv2rayNG-6&sni=bi  یدونه
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@Tunder_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@one_shop_official
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#Chanel:@Mcv2rayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#Chanel:@Mcv2rayNG  وصل شدی ریکشن یادت نره رفیق 🫶✨ 🌐@Mcv2rayNG
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#T
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Tunder_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#💯T.me/Asak_Vpn💯
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#🛡️ @FreakConfig
