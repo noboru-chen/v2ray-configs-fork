@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://blue2024@162.159.138.112:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.138.112:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840311848488191
 trojan://blue2024@162.159.153.35:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.195.30:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.197.109:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.36.104:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@162.159.36.104:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#[🇨🇦]t.me/ConfigsHub
 trojan://blue2024@162.159.36.104:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840375516688311
 trojan://blue2024@162.159.44.203:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#t.me/entryNET/config=1840266046107612
 trojan://blue2024@162.159.82.231:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -35,6 +33,8 @@ trojan://blue2024@190.93.244.159:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&w
 trojan://blue2024@190.93.244.208:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@190.93.244.27:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@190.93.245.154:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@190.93.245.154:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#[🇨🇷]t.me/ConfigsHub
+trojan://blue2024@190.93.245.154:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840377404144732
 trojan://blue2024@190.93.246.36:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@190.93.247.128:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@190.93.247.133:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
