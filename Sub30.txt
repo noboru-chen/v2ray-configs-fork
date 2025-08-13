@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://70758c34-51f6-4c6e-b066-ea13376d2ebb@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://707e5ae6-f0e1-4ae8-a900-afa7a1314988@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#@i10VPN 🚀| با ما متصل بمون⚡
 vless://7090482e-0bdc-415e-a3c1-1f5cdd3bef77@cloud.wiromusic.ir:80?mode=packet-up&path=/NeTM3Li&security=none&encryption=none&host=blue.red.taktechnology.ir&type=xhttp#@v2rayngsupbot | @ai_duet 2
 vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&type=ws#@icv2ray
@@ -253,3 +252,4 @@ vless://799ed52a-3974-42d7-94c0-916c0c66fc47@cumhuriyet.com.tr:80?type=ws&host=j
 vless://79a856c5-6cf2-4f6f-b652-bc576dc0541f@151.101.2.216:80?path=/ws/GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN?ed=2048&security=none&encryption=none&host=GozargahVPN.ir&type=ws#🇫🇮+GozargahVPN
 vless://79e44dad-d529-46a3-b7c9-5e765b9d9277@151.101.3.8:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
 vless://7FuseVPN----------ProxyPJ@pj.bestirstorei.top:60000?mode=gun&security=reality&encryption=none&authority=V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&pbk=7tLNRTi59oqO5FYHExWge-LbEdRpyk9n6x0PJWK2UiY&fp=chrome&spx=/&type=grpc&serviceName=60000vless&sni=journalofbigdata.springeropen.com&sid=e1573b#@v2rayng_fars
+vless://7FuseVPN----------ProxyPJ@pj.bestirstorei.top:60000?security=reality&encryption=none&type=grpc&sni=journalofbigdata.springeropen.com&sid=e1573b&fp=chrome&pbk=7tLNRTi59oqO5FYHExWge-LbEdRpyk9n6x0PJWK2UiY&spx=/&serviceName=60000vless#Telegram:@king_v2raay

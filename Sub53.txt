@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/JOKERRVPN_BIA_CHANEL@JOKERRVPN?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#Telegram : @Alfa_v2ray_ng 🔥
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/JOKERRVPN_BIA_CHANEL@JOKERRVPN?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@i10VPN 🚀| با ما متصل بمون⚡
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/Tel-@Config_Rayegan/?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -253,3 +252,4 @@ vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.27.180:2096?mode=gun&security
 vless://f8dcda61-0516-40ab-9e12-62a48fc3c8ba@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs.#🚀 کانال تلگرام ما: @V2Safee
 vless://f8e7410f-5984-4973-a02b-fde30761ba53@all.yasharteam.com:666?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://f8f1cf84-6abf-4c3b-bddc-f9b313ac419a@essi.blacklike.ir:2052?security=none&encryption=none&type=ws#EE 2 🇪🇪 | @v2xay
+vless://f8f1cf84-6abf-4c3b-bddc-f9b313ac419a@essi.blacklike.ir:2052?security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

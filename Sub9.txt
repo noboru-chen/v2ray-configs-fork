@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#@NpvV2rayFilTer
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#Channel id: @ShadowProxy66 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇩🇪 - @FREEV2RNG 6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -253,3 +252,4 @@ trojan://703790e0-4684-11f0-8851-1239d0255272@sg2.6n6.net:443?security=tls&heade
 trojan://726a3b60-4213-11f0-b67d-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤎
 trojan://73ccc600-489e-11f0-bc86-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩶
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🇬🇧英国
+trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?security=tls&headerType=none&type=tcp#WiFi-@configfu-8
