@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://432f85e0-4684-11f0-b5ac-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💕
+trojan://4796ddd0-489f-11f0-a6bf-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❣️
 trojan://4ad0f58ba916627@srwes1-confeg.sbs:56679?security=tls&headerType=none&type=tcp#≈> @Hddify 🐋
 trojan://4bf21530-4684-11f0-ad62-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💚
 trojan://4e7d3390-4213-11f0-b56b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❤️‍🔥
@@ -30,7 +32,6 @@ trojan://6927305290f4e972cdd3575433bbc5f1@36.151.251.24:32765/?type=tcp&security
 trojan://6c8f2de0-48a2-11f0-bdd4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩷
 trojan://6d68ba70-489d-11f0-8821-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
 trojan://6fef5ff0-48a4-11f0-b000-1239d0255272@sg3.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤩
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya To @Iran_V2ray1
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#MCI-@Tunder_vpn
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#T.me/Asak_Vpn
 trojan://703790e0-4684-11f0-8851-1239d0255272@sg2.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💖
@@ -99,6 +100,7 @@ trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3,h2,http/1.1&header
 trojan://Aimer@103.116.7.133:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#💯T.me/Asak_Vpn💯
 trojan://Aimer@104.19.60.99:2087?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
 trojan://Aimer@108.165.152.66:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇮🇳
+trojan://Aimer@154.211.8.150:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@160.79.105.160:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
 trojan://Aimer@167.68.4.7:2053?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇺🇸
 trojan://Aimer@172.64.34.52:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel id: @ShadowProxy66 🇨🇦
@@ -126,12 +128,15 @@ trojan://JOIN__JKVPN@79.137.195.203:8443?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-J
 trojan://NISHIKUITAN111@104.18.202.154:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.19.208.2:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@154.197.121.175:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@168.100.6.112:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@185.148.107.67:443?#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@185.193.28.17:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@188.114.96.219:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@188.114.97.198:443?#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@190.93.247.7:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@190.93.247.7:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1840330723503732
+trojan://NISHIKUITAN111@45.131.208.126:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@45.131.209.89:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@5.182.85.93:443?allowInsecure=1#[🇷🇺]t.me/ConfigsHub
 trojan://NISHIKUITAN111@62.72.166.57:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@94.242.230.245:443?allowInsecure=1&ws=1&wspath=/#@Hope_Net-join-us-on-Telegram
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -145,7 +150,6 @@ trojan://RK_VPS___RK_VPS@www.zula.ir:8880?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_V
 trojan://TELEGRAM__JKVPN@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ¹🇳🇱➣@JKVPN
 trojan://TELEGRAM__JKVPN@www.zula.ir:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ²🇳🇱➣@JKVPN
 trojan://TELEGRAM__RKVPS@79.137.195.203:443?path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#All🇩🇪@RK_VPS
-trojan://WOeXShhJpL@172.67.232.40:443?security=tls&type=ws&sni=10jzus.zdzdzd.xyz&path=/juzigongyi&host=10jzus.zdzdzd.xyz#@Hope_Net-join-us-on-Telegram
 trojan://XJjHUk9P2k@79.137.195.203:882?type=grpc&serviceName=TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN_JOKERRVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN_jokerrvpn-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN&authority=&security=none#ᴬᴸᴸ¹𝗝𝗼𝗶𝗻➠@JKVPN
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#@Tunder_vpn
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#Telegram : @EXPRESSVPN_420
@@ -170,6 +174,7 @@ trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://blue2024@103.160.204.59:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@103.160.204.59:443?allowInsecure=1&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@103.21.244.109:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@103.21.244.109:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@103.21.244.13:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@103.21.244.26:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@103.21.244.26:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -198,7 +203,6 @@ trojan://blue2024@104.25.80.32:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wsp
 trojan://blue2024@104.25.80.32:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840323174516469
 trojan://blue2024@104.25.94.47:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.25.94.47:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#t.me/entryNET/config=1840281651559629
-trojan://blue2024@104.26.6.89:443?sni=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.26.6.89:443?sni=hb.lii2010.us.kg#t.me/entryNET/config=1840252833638333
 trojan://blue2024@104.27.65.15:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@108.162.193.164:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -206,7 +210,6 @@ trojan://blue2024@141.101.113.195:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&
 trojan://blue2024@141.101.113.195:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840326949208416
 trojan://blue2024@141.101.121.90:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@141.101.121.90:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840319398587232
-trojan://blue2024@162.159.128.183:443?sni=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.128.183:443?sni=hb.lii2010.us.kg#t.me/entryNET/config=1840217477121573
 trojan://blue2024@162.159.129.11:2053?allowInsecure=1&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.129.11:2053?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -226,10 +229,12 @@ trojan://blue2024@172.64.35.192:443?sni=tb.promote.icu&type=ws&host=tb.promote.i
 trojan://blue2024@172.67.109.241:443?type=ws&sni=hb.lii2010.us.kg&path=/?ed=2560&host=hb.lii2010.us.kg#t.me/entryNET/config=1840187217500050
 trojan://blue2024@172.67.110.232:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@172.67.122.48:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@172.67.181.209:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@172.67.41.12:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@172.67.68.101:443?sni=tb.promote.icu#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@173.245.49.104:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@173.245.49.104:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#t.me/entryNET/config=1840274101299445
+trojan://blue2024@173.245.49.104:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@173.245.49.131:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@173.245.49.161:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@173.245.49.161:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#t.me/entryNET/config=1840236352355703
@@ -248,8 +253,3 @@ trojan://blue2024@190.93.247.65:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws
 trojan://blue2024@190.93.247.65:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@198.41.194.21:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@198.41.195.177:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@198.41.202.9:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@198.41.207.96:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@198.41.215.238:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@198.62.62.156:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@198.62.62.156:443?sni=tb.promote.icu&type=ws&host=tb.promote.icu#@Hope_Net-join-us-on-Telegram
