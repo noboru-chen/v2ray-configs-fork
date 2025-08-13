@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#🇫🇷FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#💯T.me/Asak_Vpn💯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.61:2222#V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.220:2222#@v2rayngsupbot / @ai_duet🌀
@@ -192,21 +193,22 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#@V2rayNG3
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#@AblNet7 🇺🇲
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#@Hope_Net
-ss://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@23.19.230.88:8880?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": f#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles (Central LA)🅿️ping:186.93ms
-ss://a8e56dbd-5cc1-4b2f-850f-92779fb62b3d@23.80.81.249:8880?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": f#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Los Angeles (Central-Alameda)🅿️ping:149.31ms
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.218:443?path=/&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:107.68ms
 ss://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#Telegram:@config_proxy 💦
 ss://bm9uZTphY2FjYWJiLWNhYWItYmFhYy1iZGNhLWFiY2JjYWJhY2JjYQ==@127.0.0.1:8080#@Hope_Net
 ss://bm9uZTphYmNhY2JhLWJhYWMtYWJhYy1hZGNiLWJjYWNiYWNhYmFjYg==@127.0.0.1:1080#@Hope_Net
+ss://c1124f37-b742-4ed2-80b5-b2acd02859a3@tfin.melonet.click:5533?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&security=none&type=ws&headerType=&path=/&host=fast.com#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:78.62ms
+ss://c1124f37-b742-4ed2-80b5-b2acd02859a3@up1.netmet.click:8880?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&security=none&type=httpupgrade&headerType=&path=/?ed=2560&host=fast11.melonet.com.tr#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.92ms
+ss://c1124f37-b742-4ed2-80b5-b2acd02859a3@up2.netmet.click:8080?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&security=none&type=httpupgrade&headerType=&path=/?ed=2560&host=fast21.mrimagee.com.tr#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.09ms
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.231.227.176:443#@Hope_Net
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#@Hope_Net
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#@awlix_ir
 ss://cmM0LW1kNTppRkRFMFo@kraz01.fjk.wtf:20353#KR
 ss://cmM0LW1kNTppRkRFMFo@sg17.fjk.wtf:20353#HK
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:16.73ms
-ss://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209/?type=tcp&encryption=none&flow=#Telegram:@config_proxy 💦
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:19.18ms
 ss://e030e1c0-3c66-48c5-8c49-f5470715082a@JsLifE.iR:80?path=/AzV2ry?ed=2056&security=none&encryption=none&host=speedtestme502.com&type=httpupgrade#Telegram:@config_proxy 💦
-ss://efe1c1fa-896d-4ea5-9a57-ebb56aebe165@de.cartfunshop.com:47193?security=reality&encryption=none&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com&sid=82bf76bf5e1008d8#Telegram:@config_proxy 💦
+ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=dl1-de-cdn.easy-upload.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.68ms
 ss://eyJhZGQiOiI5MS45OS4xNTMuMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhbmVsLmFydXNoYXNvZnQuY29tIiwiaWQiOiI5ODVhZjQ4OS1mYjE2LTQ5MWEtODEzYy1mZGQ5MWI2YjA2ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM5MTMwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://f32b681e-1917-4bee-b1bc-856e11116a2e@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none=--@ghalagyann2--@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann#Telegram:@config_proxy 💦
 trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=speedtest.net#🇩🇪@EXPRESSVPN_420
@@ -241,7 +243,6 @@ trojan://27e473f8-d610-4b04-bdf7-d0c39b47c897@cdns.doon.eu.org:8443?sni=cdn-node
 trojan://27e473f8-d610-4b04-bdf7-d0c39b47c897@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://27e473f8-d610-4b04-bdf7-d0c39b47c897@ssrsub.cloudflare.182682.xyz:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://2KtkEp9IDe@79.137.195.203:2053?type=ws&path=/TELEGRAM_BYA_CHANEL_RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS-RK_VPS?ed=2048&host=joker.ahang-alpha.ir&security=none#All🇩🇪@Rk_VPS
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org#👉🆔@v2ray_configs_pool📡🇸🇪®️Sweden©️Stockholm🅿️ping:29.94ms
 trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💗
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#FNET00
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&security=tls&sni=chop-wrist-bud.stark-industries.solutions#@EVAY_VPN🇧🇪
@@ -252,4 +253,3 @@ trojan://39b9e540-4684-11f0-b86f-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&headerType=none&type=tcp#DE 5 🇩🇪 | @v2xay
 trojan://3d558620-48a3-11f0-a79b-1239d0255272@sg3.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💟
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@awlix_ir
-trojan://40bb32c0-3f10-11f0-8c33-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💖
