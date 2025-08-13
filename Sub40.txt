@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:8443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:8443?path=/&security=tls&encryption=none&type=ws#@V2ray_confing33
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.229:443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.229:443?path=/&security=tls&encryption=none&type=ws#@V2ray_confing33
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.103:2096?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇺🇸
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.103:2096?path=/&security=tls&encryption=none&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -253,3 +250,6 @@ vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?mode
 vless://ab8d447f-d68b-476f-ae24-ba64ef6bf208@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://ab96fb6b-28a5-4eb6-b3d3-df06d6969a6a@151.101.67.8:80?mode=packet-up&path=/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG?ed=1024&security=&encryption=none&host=fefwefwfeifnekl.com&type=xhttp#@bored_vpn
 vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇵🇱@FreakConfig
+vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇵🇱@ViP_FRAGMENT_v2ray
+vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@ss.80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇫🇷@ViP_FRAGMENT_v2ray
+vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@ss.80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇳🇱@FreakConfig

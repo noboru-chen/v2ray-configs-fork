@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4f8a9473-86a6-4003-a890-53455a00fa6a@Www.speedtest.net:2095?path=/@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1&security=none&encryption=none&host=Mak.mehrdadspd1980.ir&type=httpupgrade#v2ray_cartel
-vless://4fdfa5b0-c515-4283-87cf-200df2f58af9@91.107.159.97:443?security=reality&encryption=none&type=tcp&sni=refersion.com&sid=3d1fc5a13456b34a&fp=chrome&pbk=pxq_sXLY_HXTALGb_zb61Phln6mxkEN67u_ZBK2Uc3A&headerType=none#Telegram:@king_v2raay
-vless://50134848-6190-4e13-f89e-f441c2cf25f2@lllliraniv2rayllll.norooz.online:443?encryption=none&security=tls&sni=llliraniv2raylll.norooz.online&fp=chrome&type=ws&path=/@iraniV2ray#@iraniV2ray---channel
 vless://50134848-6190-4e13-f99e-f441c2cf25f2@lllliraniv2rayllll.norooz.online:443?path=/@iraniV2ray&security=tls&encryption=none&fp=chrome&type=ws&sni=llliraniv2raylll.norooz.online#@iraniV2ray-channel
 vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f10.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -253,3 +250,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#🌟T.me/Asak_Vpn🌟
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@CaV2ray ⚡️
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/Telegram-V2ray_Alpha/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@CaV2ray ⚡️
