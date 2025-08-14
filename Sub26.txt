@@ -90,6 +90,7 @@ vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=n
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#@one_shop_official
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#GB 1 🇬🇧 | @v2xay
+vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&type=tcp&headerType=http&host=khamenei.ir&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/ConfigsHub
 vless://51d85dda-7821-4bae-ac08-daaaf2299e70@104.16.53.11:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#🇩🇪@ai_duet + @v2rayngsupbot
 vless://51d85dda-7821-4bae-ac08-daaaf2299e70@Hi.somo44.sbs:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#@EXPRESSVPN_420
 vless://51e51780-8820-4940-8c97-42969d524f2a@vip.filterchi.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram@Tunder_vpn
@@ -252,4 +253,3 @@ vless://543bfa2a-9d74-4e5f-a461-9ddf119cc5f8@Www.speedtest.net:2095?path=/@IRAN_
 vless://544c3f3b-ec79-4d73-9cee-a8cc3bd1037d@tunel-german.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?encryption=none&security=none&type=ws&host=barayeiran-mahsang.taraneh.dpdns.org&path=/#@Daily_Configs
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN&path=/&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#🇩🇪[Telegram:NetifyVpn]
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#
