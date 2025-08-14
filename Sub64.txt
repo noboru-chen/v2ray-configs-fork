@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2a4a9d66-eafd-5c5a-a9df-864db9002ba9@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-vless://3037258f-0104-4f35-95bb-543fdc08f9df@static-media.cyberscaler.net:8080?security=&fp=chrome&type=tcp&path=/index.js&headerType=http&host=cdnjs.cloudflare.com&encryption=none
-
-vless://34d02e5d-59cd-453c-a857-32c9ae27b240@167.172.186.211:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.186.211&encryption=none#Rayan%20-%20RVP%20-%20SE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
 vless://3883c5ae-0494-546e-aa55-f56b437ac581@95.215.8.25:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://42872a28-fdb0-49de-8ea4-a093b0042cec@188.166.150.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=188.166.150.199&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -253,3 +247,9 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#%F0%9F%87%BA%F
 vmess://ewogICAgImFkZCI6ICJ0ZXN0LmZsaGEucnUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ0ZXN0LmZsaGEucnUiLAogICAgImlkIjogIjJiYWI2YjhmLThkNmUtNDYzYS04MzMxLWI5ZGUzZDU2OTIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8yYmFiNmI4Zi04ZDZlLTQ2M2EtODMzMS1iOWRlM2Q1NjkyMWQtdm1lc3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjIzLjIzMS0xMDMzIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI2NC4yMjcuNDUuOTIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjVlMDJiYzAxLTQyYTctNDYwOS1iMjBhLTRkOTNmZWVhNjVjNiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDA4NiwKICAgICJwcyI6ICLwn4es8J+Hp0dCLTY0LjIyNy40NS45Mi0wMjMwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.188.74.209:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.188.74.209-0234
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0237
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.38.30.95:443#%F0%9F%87%AB%F0%9F%87%B7FR-13.38.30.95-0232
+vmess://ewogICAgImFkZCI6ICJmazMuNjIwNzIwLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImZrMy42MjA3MjAueHl6IiwKICAgICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE5Ny40Ny0wNzEzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0257
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0222
+vmess://ewogICAgImFkZCI6ICJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiRnJhLVZwLTEyMy5CTGFaRUNMT1VELlNpdGUiLAogICAgImlkIjogIjM3ZjQ2NGNiLWI4MjYtNDI3OC05YmY4LTExYmRmMWVjODkyYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW52a3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjYuMTY4LjIzMS0wNjA1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
