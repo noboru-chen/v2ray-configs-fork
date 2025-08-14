@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9c9eaed0-5bee-4376-ddab-f64fd6c8b520@mci-MsV2ray.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MsV2ray&sni=join.MsV2ray.fun#جوین+چنل+تلگرام+شید👈+Vpn1402@
 vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@62.60.156.254:443?path=/XRAYVPNHTTPUPGRADE&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=uk1.blackismyfavorite.ir&fp=chrome&type=httpupgrade&sni=uk1.blackismyfavorite.ir#@CaV2ray ⚡️
 vless://9cbd3913-d0a8-4f11-be9d-4e5102d8f689@direct2.androiland.ir:181?security=reality&encryption=none&pbk=1sDMgyhL5HPRAaRYJcAf21sWbSlq0kgitPVL2HQwB2M&headerType=none&fp=chrome&type=tcp&sni=docker.com#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?security=tls&sni=927b72504cb041b1bef6.bazar-jalebtg.rest&type=ws&host=927b72504cb041b1bef6.bazar-jalebtg.rest&path=/abcdews&fp=chrome#@Hope_Net-join-us-on-Telegram
 vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=9c4dfa21c63e4f3e8090.bazar-jalebtg.rest&type=ws&host=9c4dfa21c63e4f3e8090.bazar-jalebtg.rest&path=/abcdews&fp=chrome#@Hope_Net-join-us-on-Telegram
 vless://9cbf8251-71d2-4f48-915a-c3f4c8affe9e@162.55.165.114:2087?security=reality&encryption=none&pbk=j1N8CFNT1gjjlVqLOY3iyZ6GAe5lVpK27tT7sihjXQk&headerType=none&fp=chrome&type=tcp&sni=www.latimes.com#🌟Telegram:@Asak_Vpn
 vless://9cd13592-4ea9-4320-a910-af51a25e4aef@62.212.70.94:2090?security=reality&encryption=none&pbk=2ijB2vzukb0W-bYBFFZujTv6V-lrOTVuhxVKU8uxTRo&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=zhaket.com&sid=e9#🇳🇱 | @External_Net
@@ -152,7 +150,6 @@ vless://9e8ca7c6-7f5f-4056-b280-efd1796669ad@configline.fast.hosting-ip.com:80?m
 vless://9eada7bf-1954-4578-ae35-64e601125189@172.66.40.99:443?encryption=none&security=tls&sni=2free2.aparatir.xyz&type=ws&host=2free2.aparatir.xyz&path=/admin#Telegram:@config_proxy 💦
 vless://9eada7bf-1954-4578-ae35-64e601125189@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#sia
 vless://9eada7bf-1954-4578-ae35-64e601125189@172.66.40.99:443?security=tls&sni=2free2.aparatir.xyz&type=ws&path=/admin&host=2free2.aparatir.xyz&packetEncoding=xudp&encryption=none#Telegram:@config_proxy 🔥
-vless://9eada7bf-1954-4578-ae35-64e601125189@172.66.40.99:443?security=tls&sni=2free2.aparatir.xyz&type=ws&path=/admin&host=2free2.aparatir.xyz&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@v2ray313 کانالمون 🇬🇧
 vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@v2ray313 کانالمون 🫶🏻
 vless://9ec8ff64-b8b0-4ed3-a216-129a48fa689a@148.113.207.224:443?path=/ws&security=tls&encryption=none&host=148.113.207.224&fp=chrome&type=ws&sni=zula.ir#@HiByeVPNN👈⚡❤️‍🔥
@@ -253,3 +250,6 @@ vless://MdVpnSec@www.parsvds.ir:80?path=MDVPNSEC?ed=80&security=none&encryption=
 vless://MsV2ray-Telegram@104.17.148.22:80?path=/MsV2ray?ed=80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#@AblNet7
 vless://MsV2ray-Telegram@104.17.148.22:80?path=/MsV2ray?ed=80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#🇩🇪| All - @MsV2ray
+vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#🇩🇪| All - @MsV2ray  🔵نامحدود زمان نامشخص!  🔵 برنامه
+vless://Parsashonam-133@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-&security=tls&encryption=none&alpn=h2,http/1.1&host=ParsashonamVPN.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#JOIN+➣+@FILTERK0SH | ALL🇩🇪
+vless://Parsashonam-148@Zmaoz.Faculty.Ucdavis.Edu:443?path=/@Parsashonam/ws?ed=2560Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=tls&alpn=h2,http/1.1&encryption=none&host=ParsashonamVPN.ir&fp=chrome&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#🇩🇪@FILTERK0SH+|+All

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Channel id: @ShadowProxy66 🇨🇦
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram: @IP_CF 🇨🇦
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Academi_vpn⁴
@@ -70,7 +69,6 @@ vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@nl.cosmonet.online:443?security=rea
 vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://7fa6ef3b-d585-4128-a821-a109190ea192@172.66.40.99:443?security=tls&type=ws&headerType=&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&host=DeV.iSvClOd.CoM&sni=DeV.iSvClOd.CoM&fp=chrome&alpn=h2,http/1.1#TLS-telegram-@ISVvpn
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.149.69:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.129.206.235:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.222.46.26:4433?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#Telegram:@config_proxy 🔥
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv4.cloudjetm.com:2222?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
@@ -253,3 +251,5 @@ vless://8657fada-f21d-422b-9a2d-3c47d93c11bd@91.99.231.102:443?security=none&enc
 vless://86709b5c-c966-46f5-a343-461f512c15f2@209.38.246.53:51927?mode=auto&path=/V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official&security=reality&encryption=none&pbk=L9gEDY_PBGnmad10FPmiO_ov3Um4YvDX0HuXQ1SbXlU&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=a83f#🇩🇪@FreakConfig
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=&encryption=none&type=ws#Channel id: @ShadowProxy66 🇧🇬
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#BG 🇧🇬 | @v2xay
+vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
+vless://86892e3f-83ed-49c1-ade2-c12f8ace1487@84.32.190.1:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @EXPRESSVPN_420

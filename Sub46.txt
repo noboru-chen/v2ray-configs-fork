@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d0a86835-954b-4c2d-9f35-584ce0e052be@185.248.144.97:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#IT 🇮🇹 | @v2xay
-vless://d0a86835-954b-4c2d-9f35-584ce0e052be@185.248.144.97:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#TEHRANARGO
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@45.12.143.147:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#TR 3 🇹🇷 | @v2xay
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@45.12.143.147:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#Telegram : @Alfa_v2ray_ng 🔥
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@45.12.143.147:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#🇹🇷 | @External_Net
@@ -41,7 +39,6 @@ vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@172.67.73.233:80?path=/@vmessorg---
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@172.67.73.233:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪3-Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://d1bf6696-c690-49d8-8af5-3ba51a55bd3b@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=&encryption=none&type=ws#خرید کانفیگ اختصاصی : @confing_chanel تلگرام
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&host=small-meal.oneeat.co&type=ws#Telegram:@config_proxy 🔥
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&host=small-meal.oneeat.co&type=ws#🛡️ @FreakConfig
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@azadiiivpn⁹MCI 🎀
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All@configfu-29
@@ -253,3 +250,6 @@ vless://d60f6f5c-4580-43c8-bab7-98a1f1b97d92@5.75.196.83:18040?mode=auto&path=/&
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.101.113.247:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=ex.sue.x10.mx&type=ws&sni=ex.sue.x10.mx#@i10VPN 🚀| با ما متصل بمون⚡
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.197.121.247:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=ex.sue.x10.mx&type=ws&sni=ex.sue.x10.mx#@i10VPN 🚀| با ما متصل بمون⚡
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?mode=auto&path=/gftrdd?ed=2560&security=none&encryption=none&host=take4.global.ssl.fastly.net&type=xhttp#@G0Dv2ray
+vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🟢 جوین بده کانکت بمونی: @STAPersiaNews
+vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@bluVPNir
