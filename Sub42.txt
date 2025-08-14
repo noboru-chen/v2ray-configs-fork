@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b96c861d-156a-4e8b-c1e9-15412c63d691@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
-vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@185.138.164.3:2096/?type=ws&encryption=none&flow=&path=/tjkqcpws&security=tls&allowInsecure=1#🇬🇧 United Kingdom
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@185.138.164.3:2096?path=/tjkqcpws&security=tls&encryption=none&type=ws#@Daily_Configs
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/tjkqcpws&security=tls&encryption=none&host=638904268184295507.paris-prx-dnraaal.info&type=ws&sni=638904268184295507.paris-prx-dnraaal.info#🇬🇧[Telegram:NetifyVPN]
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=/tjkqcpws&security=tls&encryption=none&host=638879176706477448.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706477448.amsterdam-prx-dnraaal.info#کانال+
@@ -253,3 +251,5 @@ vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#irancell @configfu
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#آلمان 🇩🇪 @V2xay
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
+vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
+vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@modern-promise.seotoolsforyou.co.uk:80?type=ws&path=/&security=none#🇩🇪 Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
