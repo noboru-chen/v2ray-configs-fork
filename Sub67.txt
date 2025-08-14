@@ -3,24 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560&security=tls&sni=bitget1.asdasd.click&packetEncoding=xudp#%E2%8F%B038%40oneclickvpnkeys
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@cdnjs.com:80/?type=ws&encryption=none&flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&packetEncoding=xudp#%E2%8F%B031%40oneclickvpnkeys
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome#%E2%8F%B032%40oneclickvpnkeys`
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80/?type=ws&encryption=none&flow=&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#%E2%8F%B039%40oneclickvpnkeys
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.18.252.192:443?encryption=none&security=tls&sni=V2rAynGghaVIv2RAYNggHavIV2raynggHAvIV2RAYngGhAviV2rAyng.pagEs.Dev&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#Channel%3A%20V2rayNG_Ghavi
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.18.4.43:443?encryption=none&security=tls&sni=V2RAynGghAVIv2RayNgGhAviv2rayNGGHAViV2raynGgHAvIv2rAyng.PageS.deV&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#Channel%3A%20V2rayNG_Ghavi
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.19.146.112:443?encryption=none&security=tls&sni=v2RAyNGgHAviV2rAYnGGhAviV2raYngghAViV2RAynGGhAVIv2rAyNG.PAGEs.DeV&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#Channel%3A%20V2rayNG_Ghavi
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@45.131.208.179:443?encryption=none&security=tls&sni=v2raYNgghaVIv2RAyNgGhAvIV2raYNGGHAViv2RAYnGghAViV2RaYnG.PAGES.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#Channel%3A%20V2rayNG_Ghavi
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.25.40.52:443?encryption=none&security=tls&sni=V2rAYnGGhavIV2rAyNgGHAViV2rayNGGHAViV2rAyngGhaVIv2rAYng.PAGeS.dEV&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#Channel%3A%20V2rayNG_Ghavi
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.25.40.6:443?encryption=none&security=tls&sni=v2raYnggHAviv2RAyNgGHAvIv2RaYNGGhAviV2RaYnGghAviv2RayNg.PAGes.dev&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#Channel%3A%20V2rayNG_Ghavi
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.20.31.81:443?encryption=none&security=tls&sni=V2rayNGGhavIV2RayngGHAVIv2rAYngGHAviV2rayNgghAViV2rAyNG.Pages.DeV&alpn=http%2F1.1&fp=randomized&type=ws&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F#Channel%3A%20V2rayNG_Ghavi```
-hy2://1JA6CF8JMUDvoz6zfm5qHwlN3Wo@43.207.119.98:4410/?insecure=1#%E2%8F%B061%40oneclickvpnkeys
-hy2://ok6aX0A7QX9SkYo6R0GBBJDUsK4@143.244.140.87:8460/?insecure=1&sni=bing.com#%E2%8F%B052%40oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252:1080#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
-hy2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298/?insecure=1&sni=bing.com#%E2%8F%B054%40oneclickvpnkeys
-hy2://3C8h8X6kimbOX68joVe3kTERw@206.189.20.193:7197/?insecure=1&sni=bing.com#%E2%8F%B044%40oneclickvpnkeys
-hy2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%E2%8F%B046%40oneclickvpnkeys
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%8F%B045%40oneclickvpnkeys
 hy2://1abdc446-f90e-466f-95ce-e006edd89628@hshl.huasuan666.top:22157/?insecure=1&sni=hshl.huasuan666.top#%E2%8F%B047%40oneclickvpnkeys
 hy2://2574ef1a-1ff9-4db0-9df3-5940de07235b@hsyg.huasuan666.top:22156/?insecure=1&sni=hsyg.huasuan666.top#%E2%8F%B043%40oneclickvpnkeys`
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?encryption=none&security=tls&sni=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&host=E4aRpUi7Xe.GiTi4.OrG&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
