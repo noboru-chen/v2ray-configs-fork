@@ -251,5 +251,5 @@ vless://4d4c4677-7d6d-433f-832c-a47fa7229135@93.115.240.88:10000?security=none&e
 vless://4d52c5bf-dd6d-4335-8c26-5eac773914d7@cloudgetservice.mcloudservice.site:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-us83.maxnetservices.online&type=ws#Channel id: @ShadowProxy66 🇨🇦
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=/&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#@v2ray313 کانالمون ✨
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=/&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#Allnet Telegram:@ultrasurf_12
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=/&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#[🇨🇦]t.me/ConfigsHub
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@AYMH19+کانال+تلگرام
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed=2560&security=tls&encryption=none&host=azadnet05.pages.dev&fp=chrome&type=ws&sni=azadnet05.pages.dev#@V2RAY_VMESS_free
