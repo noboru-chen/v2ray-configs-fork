@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?path=/?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#🇺🇸 | @External_Net
-vless://b28eb861-1748-4200-ba72-278669edc33b@27.50.48.21:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#
-vless://b28eb861-1748-4200-ba72-278669edc33b@27.50.48.21:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#@IRan_V2ray1 🇩🇪
 vless://b2bb37ae-918a-4c7b-8cfb-3bcf35cf9c7e@104.18.26.90:80?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.sPeedtest.net.ElectrOluxxv.iR.&security=none#Tel@Tunder_vpn
 vless://b2c3d4e5-f6a7-2345-8901-bcdef0123456@45.35.126.48:443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=GHI1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
 vless://b3164e0a-f76a-4bb2-83b9-8f385488e836@159.69.118.125:443?security=reality&encryption=none&pbk=fTRUKzSjDld9OYMUxx641aP9W1n_aIp_UswZghdjzwM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.psnapptapsi.ir&sid=78ce8c07a9235a#🇩🇪 | @External_Net
@@ -253,3 +250,6 @@ vless://bb691001-faf8-4b4e-af2e-bfb27780f689@FASTSHOVPNTELEGRAM.fast.hosting-ip.
 vless://bb747893-51e8-4131-895d-edaae3f7cc80@165.22.205.134:443?mode=gun&security=reality&encryption=none&pbk=eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ&fp=chrome&spx=/&type=grpc&serviceName=@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1 @IRAN_V2RAY1@IRAN_V2RAY1 @IRAN_V2RAY1&sni=refersion.com&sid=a9#Join Sho @Iran_V2RAY{MTN}
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#VTWORAY_WOLF
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?encryption=none&security=none&type=xhttp&host=p30download.ir&path=/&mode=auto#@Daily_Configs
-vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?mode=auto&path=/&security=&encryption=none&host=p30download.ir&type=xhttp#@Capoit
-vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@NETMelliAnti
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@manzariyeh_rasht
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
@@ -253,3 +250,6 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/Join---planB_
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/freenettirsTELEGRAM----@freenettirs----@freenettirs----@freenettirs----@freenettirs----@freenettirs?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#🆔@PlanB_Proxy سرور های بیشتر جوین شو
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#@i10VPN 🚀| با ما متصل بمون⚡
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#@V2RAYROZ
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#@v2ray313 کانالمون ❤️‍🔥
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Channel : @Mrsoulb 🏴🏳

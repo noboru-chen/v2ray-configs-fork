@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4fb3e790-b115-47b8-982b-0973c00c0f9f@116.202.177.190:42067?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayvmess%20%5B18%5D
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayvpn2%20%5B2%5D
-trojan://telegram-id-v2rayvpnchannel@52.28.160.100:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B17%5D
 trojan://telegram-id-v2rayvpnchannel@18.153.87.172:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B18%5D
 trojan://telegram-id-v2rayvpnchannel@52.47.67.30:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B19%5D
 vless://3ae3befb-22ca-4316-9a98-f5812b4a5c84@discord.gg:443?path=%2F&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=de.vpncustomize.Website&fp=chrome&type=ws&sni=de.vpncustomize.Website#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayy_vpn13%20%5B11%5D
@@ -253,3 +250,6 @@ vless://cba08f90-6b6e-4f51-8d07-d9dc01624706@51.38.129.192:54217?security=realit
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#%3E%3E%40V2RAY_VMESS_free%3A%3ABE
 vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=e2#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
 vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&encryption=none&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d638e#%3E%3E%40V2RAY_VMESS_free%3A%3APL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3T3J2TDBKSDlmMkx2SUU0NU1UN1dO@77.105.166.12:8594#%3E%3E%40V2RAY_VMESS_free%3A%3ADE
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%3E%3E%40V2RAY_VMESS_free%3A%3AHU
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%3E%3E%40V2RAY_VMESS_free%3A%3AKZ

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ef4cad50-4f83-4c66-85ae-ce8e9692d8cb@mtn006.chaghooosazi.shop:443?path=/xMKyVeMwq7FLS5oNsuc&security=tls&encryption=none&alpn=http/1.1&host=mtnasl006.chaghooosazi.shop&type=ws&sni=mtnasl006.chaghooosazi.shop#Join+👉@V2rayTopNg👈
-vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#💎@v2rayngsupbot
-vless://ef9f9af9-4c52-45b0-bb3b-9fe983c1650e@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://efa18617-d98d-4f39-a7f5-d74ac2d2ed41@speedtest.net:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
 vless://efd33b7c-41cc-4139-b40e-f7472f32de3a@91.107.244.159:8080?security=none&encryption=none&host=drive.google.com&headerType=http&type=tcp#@Silver_v2ray @UCIRANIR
 vless://efd6d128-a67a-46b3-9913-c25b402482f0@german.kalait.com.tr:19632?security=none&encryption=none&host=digiakla.com&headerType=http&type=tcp#@Daily_Configs
@@ -253,3 +250,6 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encr
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/Y-?ed&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/Y-?ed&type=ws#sia
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/y-?ed&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=Namaid4.global.ssl.fastly.net&path=/V3xhttp?ed=2048&mode=auto&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}#@CaV2ray ⚡️
+vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
+vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone

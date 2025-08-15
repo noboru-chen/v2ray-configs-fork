@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#VTWORAY_WOLF
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?flow=&type=xhttp&host=&path=/xhttp&mode=stream-one&security=none#Channel :@vmessorg
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
@@ -253,3 +250,6 @@ vless://c0c05be3-6eb9-4fec-a5f5-2d7241c4fad3@www.speedtest.net:8080?path=/?ed=20
 vless://c0fc0462-dad0-e0d3-3604-8fd2777510cd@ip.sb:8880?path=/&security=none&encryption=none&host=mn-swnode.ip-venzo.com.&type=httpupgrade#سوئیس [🇨🇭]  @Volt_Network
 vless://c0fc0462-dad0-e0d3-3604-8fd2777510cd@ip.sb:8880?path=/&security=none&encryption=none&host=trnode.ip-venzo.com.&type=httpupgrade#@v2ray313 کانالمون 🙀
 vless://c1124f37-b742-4ed2-80b5-b2acd02859a3@real11.melonet.com.tr:1615?security=reality&type=tcp&headerType=&path=&host=&sni=www.refersion.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🇩🇪 𝑮𝒆𝒓𝒎𝒂𝒏𝒚 ⁽ʳᵉᵃˡⁱᵗʸ⁾
+vless://c1124f37-b742-4ed2-80b5-b2acd02859a3@real21.melonet.com.tr:1616?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🇫🇷 𝑭𝒓𝒂𝒏𝒄𝒆 ⁽ʳᵉᵃˡⁱᵗʸ⁾
+vless://c1124f37-b742-4ed2-80b5-b2acd02859a3@real31.melonet.com.tr:1617?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=tNas2EciS-mymDxK7P5gsXPmeJLpj00xhBxAJNfdz1I&sid=3a622700e73c6642#🇫🇮 𝑭𝒊𝒏𝒍𝒂𝒏𝒅 ⁽ʳᵉᵃˡⁱᵗʸ⁾
+vless://c1124f37-b742-4ed2-80b5-b2acd02859a3@tfin.melonet.click:5533?security=none&type=ws&headerType=&path=/&host=fast.com#🇫🇮 𝑭𝒊𝒏𝒍𝒂𝒏𝒅  ⁽ᵀ⁾ (𝒇𝒂𝒊𝒓 𝒗𝒑𝒏)
