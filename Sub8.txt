@@ -252,4 +252,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🛡️ @FreakConfig
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#All@configfu-5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#@Hope_Net
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#@Hope_Net
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#[🇺🇸]t.me/ConfigsHub
