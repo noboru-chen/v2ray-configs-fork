@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#Allnet Telegram:@ultrasurf_12
-vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#IRAN 617 (@Outline_Vpn) free
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#IRAN 623 (@Outline_Vpn) free
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#IRAN 641 (@Outline_Vpn) free
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#r♡ya
@@ -253,3 +251,5 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/?TELEGRAM-M
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#[🇨🇦]t.me/ConfigsHub
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed=512&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#Telegram:@config_proxy 🔥
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#Channel id: @@proxy_kafee 🇨🇦
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#Channel id: @@singbox1 🇨🇦
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.21.236.179:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#Channel id: @ShadowProxy66 🇨🇦

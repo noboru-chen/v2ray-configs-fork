@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel : @Mrsoulb 🏴🏳
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Channel@vmessorg
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#proxy_kafee
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#→ @Hddify 🌐
@@ -253,3 +251,5 @@ vless://34d298ef-cd32-4497-812b-8b22c199f1cb@62.60.178.200:20322?type=tcp&securi
 vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?security=none&encryption=none&headerType=http&type=tcp#@v2rayNGcloud🇩🇪
 vless://34ee1aa7-627d-4a77-a6d5-a16b26af6e88@135.125.239.114:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=370dd394052f2386#@Daily_Configs
 vless://34f8e5f4-bfa1-4032-a978-8f397a401d39@45.154.2.169:28784?flow=&type=tcp&headerType=none&security=none#@vmessorg
+vless://350ba876-0706-4525-b342-f70062cb24f8@join.FilTerK0sH.fastly80-3.hosting-ip.com:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&path=/telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE?ed=2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#🇩🇪@FILTERK0SH+|+All
+vless://35302035-3020-4533-a039-382039372035@92.112.126.22:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

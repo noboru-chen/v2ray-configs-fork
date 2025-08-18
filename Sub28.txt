@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=/&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Channel id: %@singbox1 🇨🇭
-vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=/&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#Channel id: @ShadowProxy66 🇨🇭
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Channel id: @@proxy_kafee 🇨🇭
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Channel id: @@singbox1 🇨🇭
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#Channel id: @ShadowProxy66 🇨🇭
@@ -253,3 +251,5 @@ vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&enc
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.205.130:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2rayngsupbot💎
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@bad_raqs
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@ai_duet • @v2rayngsupbot
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🔒@ai_duet
