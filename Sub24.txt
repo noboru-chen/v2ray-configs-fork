@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://527a7c04-9a2c-4fdb-aa18-37337e62e917@69.84.182.108:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
+vless://527a7c04-9a2c-4fdb-aa18-37337e62e917@69.84.182.18:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
+vless://527a7c04-9a2c-4fdb-aa18-37337e62e917@csgo.com:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国07 付费推荐：https://dafei.de
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@91.107.132.248:443?mode=stream-one&path=/frf&security=none&encryption=none&type=xhttp#💎 @AblNet7 💎
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server134372561849834943.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#@Capoit
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server134372561849834943.tas-bazi.com:443?mode=stream-one&path=/frf&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
@@ -250,6 +253,3 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.177:8880?path=/Telegram�
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#@AYMH19 کانال تلگرام
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.229.177:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=ip.langmanshanxi.top&type=ws&sni=Telegram-channel-WangCai2#🛒@v2rayngsupbot 🛡️@ai_duet
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@66.235.200.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#@AYMH19 کانال تلگرام
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#@AYMH19 کانال تلگرام
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@92.53.190.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#@AYMH19 کانال تلگرام
-vless://583e3af8-a550-42a4-9301-5a689cfdbb1b@unlimited.spauu.web.id:443/?type=ws&encryption=none&flow=&host=unlimited.spauu.web.id&path=/vl=129.150.49.58=18650&security=tls&sni=unlimited.spauu.web.id#🍰19@oneclickvpnkeys
