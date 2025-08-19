@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%3E%3E%40V2rayNG3%3A%3ANL
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AUS
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#%3E%3E%40v2ray_configs_pool%3A%3AAM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%3E%3E%40V2rayNG3%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%3E%3E%40V2rayNG3%3A%3ANL
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#%3E%3E%40v2rayngvpn%3A%3AUS
 vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?security=reality&encryption=none&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&host=%2FJKVPN_TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN%3Fed%3D2560&headerType=none&fp=chrome&spx=%2FJKVPN_Copy-az-chahnnel-JKVPN%3Fed%3D2560&type=tcp&sni=yahoo.com&sid=2075#%3E%3E%40v2rayngvpn%3A%3AGB
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AIL
@@ -253,3 +248,8 @@ vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visa.com.tw:443?security=tls&sn
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.rayan.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-R-6
 
+vless://1c03bf51-6773-495f-8a44-4111b1ada9aa@68.183.216.44:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
+vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none
+
+vless://242019e5-e125-4f22-86ce-1b45f418cec4@static-edge-store2.cyberscaler.net:443?security=reality&sni=ajax.googleapis.com&fp=chrome&pbk=3FkZrD191IZ1yoo4kxtAUjQXOAuykaOSzxRAhAKKEX0&sid=229134&spx=/cdn-assets-v2&type=tcp&encryption=none
