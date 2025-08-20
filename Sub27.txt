@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6c198339-837d-4f61-940f-fa4f6776dc07@dd2.atelienaderr.ir:443?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=dd2.atelienaderr.ir&fp=chrome&type=ws&sni=dd2.atelienaderr.ir#🌟Telegram:@Asak_Vpn
 vless://6c521581-cdd0-4a20-ceef-7b4b6e03d621@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://6c521581-cdd0-4a20-ceef-7b4b6e03d621@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://6c590c58-0bcd-4b64-a073-c46066080d7e@104.21.0.0:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
@@ -253,3 +252,4 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&secu
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#IRAN 341 (@Outline_Vpn) free
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#Bya To @IRAN_V2RAY1
 vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=/&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#IRAN 380 (@Outline_Vpn) free
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss13712.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳

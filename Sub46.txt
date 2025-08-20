@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-link3.liangxin1.xyz:24758/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&fp=chrome&security=reality&pbk=o59R2PjAsu1h4KcFjK-EDGP41N2PHZL_Pgk64UcFxh0&sid=a6d87a12#🇭🇰香港
 vless://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-link8.liangxin1.xyz:39645/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&fp=chrome&security=reality&pbk=x7VqpFP7_PrY4ebNw8hi8Ec5Tm5Upmt5JOdrN1M9VnQ&sid=2b3b0b93#🇸🇬新加坡
 vless://e134f4a5-346e-493f-b74a-988ef7a4ff27@213.21.222.172:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?path=/cdfighws&security=tls&encryption=none&type=ws#Channel id: @@singbox1 🇫🇷
@@ -253,3 +252,4 @@ vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&
 vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
 vless://e4d83445-23b9-4a5c-8323-74f9338ef3b2@217.196.101.89:20087?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@v2ray313 کانالمون 🙁
 vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?flow=&type=httpupgrade&host=cdncloud-direct-public.beraghsa.ir&path=/?ed=2052&security=none#Channel : @vmessorg
+vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?path=/?ed=2052&security=none&encryption=none&host=cdncloud-direct-public.beraghsa.ir&type=httpupgrade#@heragAbad

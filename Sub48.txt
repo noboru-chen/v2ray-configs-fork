@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.19.76.13:8880?path=/G8ZDmBYwOAz3ahmR?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&security=tls&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vNgSUppLy.IP-dDnS.COm#@bad_raqs
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&security=tls&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vNgSUppLy.IP-dDnS.COm#@confing_chanel
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&security=tls&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vNgSUppLy.IP-dDnS.COm#@v2ray313 کانالمون ❤️‍🔥
@@ -253,3 +252,4 @@ vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&securi
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#IRAN 672 (@Outline_Vpn) free
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#IRAN 672 (@manzariyeh_rasht) free
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=yahoo.com&sid=a76e2f1d45#[🇩🇪]ae_proxy
+vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#Channel id: @@proxy_kafee 🇩🇪
