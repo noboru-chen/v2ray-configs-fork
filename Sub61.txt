@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@31.169.124.240:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%3E%3E%40v2rayngvpn%3A%3ANL
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?path=%2FFree-CF-Proxy-AM14&security=tls&encryption=none&host=freevpn.xhamster.biz.id&type=ws&sni=freevpn.xhamster.biz.id#%3E%3E%40outlinev2rayng%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#%3E%3E%40v2ray1_ng%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40outlinev2rayng%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%3E%3E%40V2RAY_VMESS_free%3A%3ANO
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?encryption=none&security=none&type=grpc#%3E%3E%40VmessProtocol%3A%3AFR
-vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#%3E%3E%40V2RAY_VMESS_free%3A%3AIE
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v7.vetmainconf.shop#%3E%3E%40FreakConfig%3A%3AUS
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%3E%3E%40outlinev2rayng%3A%3ANL
 vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&sid=ecd6615548c2bddb&type=tcp&headerType=none#%3E%3E%40VmessProtocol%3A%3ADE
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#%3E%3E%40FreakConfig%3A%3AUS
@@ -253,3 +245,11 @@ vless://f3939d9d-6638-4c28-a6d0-950f392766af@51.195.202.129:443?security=tls&sni
 
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir
+
+
+
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#Ai-2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#Aini-4
