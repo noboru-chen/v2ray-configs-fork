@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
-trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
-trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
-trojan://slch2024@104.18.2.108:8443?path=/&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
-trojan://telegram-id-Cyber_Ta@35.158.252.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 @Cyber_Ta🌐
-trojan://telegram-id-directvpn@13.48.66.57:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1840988933642322
-trojan://telegram-id-directvpn@3.147.9.181:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@3.255.33.42:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@35.178.160.100:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1840981384716554
 trojan://telegram-id-privatevpns@13.36.133.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.145.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.212.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -232,6 +223,7 @@ vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&sec
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#🐬Ch: @pPal03🐬جوین بدید عزیزانم🐬
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed=2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@awlix_ir
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&alpn=h3,h2,http/1.1&fp=chrome&type=raw&headertype=none#Telegram:@config_proxy 🔥
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&fp=chrome&type=raw&headertype=none#Telegram:@config_proxy 🔥
 vless://01fdc76d-103f-439e-9e16-aa0785c292e8@91.99.18.180:7557?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://01telegram-ID-free_vpn0088@sumibi.org.sumibi.org:11032?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://01telegram-ID-free_vpn0088@sumibi.org.sumibi.org:17981?path=/&security=none&encryption=none&type=ws#@Daily_Configs
@@ -253,3 +245,11 @@ vless://02483314-2042-451b-b0ab-f9bab9a1be9d@172.66.40.99:80?path=/Join-ZEDMODEO
 vless://02483314-2042-451b-b0ab-f9bab9a1be9d@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@mehrosaboran
 vless://02483314-2042-451b-b0ab-f9bab9a1be9d@172.66.40.99:80?type=ws&host=b.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#🇩🇪 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://02483314-2042-451b-b0ab-f9bab9a1be9d@zula.ir:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
+vless://02483314-2042-451b-b0ab-f9bab9a1be9d@zula.ir:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@icv2ray
+vless://02483314-2042-451b-b0ab-f9bab9a1be9d@zula.ir:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@mehrosaboran
+vless://0259615b-9bef-4063-bd88-bd9747ab9be1@172.66.40.99:8080?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥: @V2rayTun0⛷️
+vless://025a2602-e9d0-40db-92ea-dfc256ef2a6a@GozargahVPN-GozargahVPN-GozargahVPN.mymtn.sbs:443?type=tcp&path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN&headerType=http&security=none#🇩🇪 @GozargahVPN -6
+vless://026ce330-bb63-42fa-fac9-254275728d40@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+vless://026ce330-bb63-42fa-fac9-254275728d40@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.53.11:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@v2ray313 کانالمون 🥲
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@v2ray313 کانالمون 🤞🏻

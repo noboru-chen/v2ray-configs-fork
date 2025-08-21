@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#Channel id: @@proxy_kafee 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#Channel id: @@proxy_kafee 🇨🇭 ¹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#Channel id: @@singbox1 🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#Channel id: @@singbox1 🇨🇭 ¹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#Channel id: @ShadowProxy66 🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#Channel id: @ShadowProxy66 🇨🇭 ¹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#💫T.me/Asak_Vpn💫
@@ -253,3 +248,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧𝐣𝐨𝐢�
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#💯T.me/Asak_Vpn💯
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸[@vpnAndroid2] ss-US
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#[🇺🇸]t.me/Asak_Vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#[🇺🇸]t.me/Asak_Vpn
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Channel id: @@proxy_kafee 🇨🇭
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Channel id: @@singbox1 🇨🇭
