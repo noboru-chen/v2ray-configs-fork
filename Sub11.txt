@@ -237,6 +237,7 @@ vless://079b8ad9-1ef1-45b3-9a0a-3f9c24a74302@2.ariyanln.com:1?type=tcp&headerTyp
 vless://07af5265-c931-4b5a-a3e1-25de5c5b1fbf@T.irimcs.org:2053?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=reality&pbk=PsggSInMzoHJAFqzsxhCxpdL8BVJKbmdU_4KH5Cn-Hw&fp=chrome&sni=greenpepper.ir&sid=46bef3&spx=/#@Catvpns-🇹🇷--Channel
 vless://07af5265-c931-4b5a-a3e1-25de5c5b1fbf@ems.irimcs.org:2053?type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns&security=tls&fp=&alpn=&sni=Ter.Iranasanejesh.org#@Catvpns-🇹🇷--Channel
 vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR - @pr_vpn #3
+vless://07b80d48-4521-4816-8fc9-79baae8b7033@ade-ws.holy-melo.click:443?path=/melo&security=&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://07e1ba82-abca-49d5-a586-8881533b77a4@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#@Capoit
 vless://07e1ba82-abca-49d5-a586-8881533b77a4@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#🇺🇲@FreakConfig
 vless://07e4b0e8-32ab-4b3f-819a-2ebcb158d8a2@spdnet.get-service.ir:443?security=reality&encryption=none&pbk=doLJKYk2mlGk0_6djrQabvaZOV83Sco5EqeKkdklcgo&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=265a1f1e2e#SPDNET 🇩🇪
@@ -252,4 +253,3 @@ vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=&encry
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#@Viturey : تلگرام 🇺🇳
 vless://0855af4e-ec2c-4382-ac60-c54f9db3e04a@45.82.161.120:42671?security=none&encryption=none&headerType=none&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#🇮🇳𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
