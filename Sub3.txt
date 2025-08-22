@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇩🇪
-hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#DE
 hy2://7fb6dcc5-5396-4b95-bfe3-789f5c0120be@hsxg.huasuan666.top:22153/?insecure=1&sni=hsxg.huasuan666.top#🍰28@oneclickvpnkeys
 hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205/?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#✨56@oneclickvpnkeys
 hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205/?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#🥤2@oneclickvpnkeys
@@ -83,7 +81,6 @@ hy2://wxiTacqUnFMT6QPG1xHX578Omo@138.197.185.116:7444/?insecure=1&sni=bing.com#�
 hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
 hy2://yn3gMvdZ0hpReiimChE1H1BFvE@54.199.157.111:26036/?insecure=1&sni=bing.com#JP
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
-hysteria2://30cd031e-b4a6-4bc7-a99a-9642259fdeff@flydg.flylink.cyou:35230?security=tls&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==&insecure=1&sni=flydg.flylink.cyou#🛡️ @FreakConfig
 hysteria2://51e23a46-c92a-477f-9675-d2a8088f9bbf@dg.dport.top:33653?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=dg.dport.top#🛡️ @FreakConfig
 hysteria2://61f9655f-92cd-4556-bba6-6c8d9d5bd469@flyels.flylink.cyou:35270?security=tls&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==&insecure=1&sni=flyels.flylink.cyou#🛡️ @FreakConfig
 hysteria2://@azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=@azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#@V2rayNG3
@@ -253,3 +250,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪join:@amirw_shop_q
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🛡️ @FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354?type=tcp#@v2ray_cartel 💜
