@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1ba5bfb7-c012-481a-9d1e-e92b3125ad1c@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=/Join--HAJIMAMADVPN?ed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws#@V2rayNG3
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mci
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mtn
@@ -253,3 +252,4 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@cdnjs.com:80/?type=ws&encryption=no
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=/#🚜2@oneclickvpnkeys
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#☁️telegram:@Fast78_channel
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#✅ @vistav2ray  👈👈کانال ما

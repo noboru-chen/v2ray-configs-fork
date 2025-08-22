@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=/&security=none&encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&type=ws#@V2rayNG3
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?security=none&encryption=none&type=ws&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&path=/#Awlix_ir
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=/&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#@V2rayNG3
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?security=none&encryption=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=/#Awlix_ir
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?path=/&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#@V2rayNG3
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@ip.v2catch.buzz:2082?security=none&encryption=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=/#Awlix_ir
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@104.25.107.242:443?path=/?ed=2560&security=tls&encryption=none&host=di.dibdibini.dpdns.org&fp=chrome&type=ws&sni=di.dibdibini.dpdns.org#@v2rayNGcloud
@@ -124,7 +120,6 @@ vless://424c04d8-dc08-4644-b4af-fd466a45b191@172.66.40.99:8080?path=/-LiV2ry@LIG
 vless://424c04d8-dc08-4644-b4af-fd466a45b191@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=T.ubuntu-linuxmirror.ir&type=ws#@icv2ray
 vless://424c04d8-dc08-4644-b4af-fd466a45b191@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=T.ubuntu-linuxmirror.ir&type=ws#@mehrosaboran
 vless://424c04d8-dc08-4644-b4af-fd466a45b191@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=T.ubuntu-linuxmirror.ir&type=ws#tm⚡|@lightning6
-vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yelp.com&fp=chrome&security=reality&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&sid=cf34f84f37#[🇩🇪]t.me/ConfigsHub
 vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yelp.com&fp=chrome&security=reality&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&sid=cf34f84f37#♦️58@oneclickvpnkeys
 vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yelp.com&fp=chrome&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&sid=cf34f84f37&type=tcp&headerType=none#@Daily_Configs
 vless://427954ab-e6bd-4758-8793-7b129699068e@94.237.28.145:28392?security=reality&encryption=none&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=cf34f84f37#@
@@ -253,3 +248,8 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stre
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥: @V2rayTun0⛷️
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇨🇦@V2rayTun0 عضو بشید
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc/?@MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=&encryption=none&type=xhttp#در صورت قطع شدن کانفیگ؛ Fast78_channel@ در تلگرام سرچ کنید
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc/?@MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=&encryption=none&type=xhttp#☁️telegram:@Fast78_channel
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc/?@MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc/?@YamYamProxy_YamYamProxy_YamYamProxy?ed=2048&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥: @V2rayTun0⛷️
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2048&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
