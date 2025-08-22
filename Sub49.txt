@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇦@V2rayTun0 عضو بشید
@@ -253,3 +252,4 @@ vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&mode=s
 vless://e696b824-df07-4048-accb-83a54695b5e2@www.speedtest.net:8080?path=/V_2raYngVpn?ed=8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@V_2rayngVpn+ایرانسل+و+رایتل
 vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🌟T.me/Asak_Vpn🌟
 vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey
+vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@37.152.189.81:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🌟T.me/Asak_Vpn🌟

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://87d0379a-1af7-4fb8-9feb-b90db180aa78@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#✅ Telegram | @Green_WPN
 vless://87e91f0c-ed9f-458c-9d82-6012b860bb90@172.104.142.244:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@AYMH19+کانال+تلگرام
 vless://87edf1df-a6a1-4a06-e04d-1c7d7c29868d@t.irimcs.org:2087?type=grpc&serviceName=Telegram@CatVpns&security=reality&pbk=S9sCYSVAgcMW5W75wiO1VSJj5ctcac9-WVyCYB5GTT0&fp=chrome&sni=www.bmi.ir&sid=ce&spx=/#@Catvpns--Channel🇹🇷
 vless://87edf1df-a6a1-4a06-e04d-1c7d7c29868d@t.irimcs.org:2087?type=grpc&serviceName=Telegram@CatVpns&security=reality&pbk=_65lnjmm9v72RLfVTClXlayLooMjVsLYSugNCGwEOhU&fp=chrome&sni=greenpepper.ir&sid=6e19&spx=/#@Catvpns--Channel🇹🇷
@@ -253,3 +252,4 @@ vless://8df60790-c903-4661-b85d-64c0009378e5@ip.sb:443?path=/?ed=2560&security=t
 vless://8df60790-c903-4661-b85d-64c0009378e5@ip.sb:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=f1.parsa.filegear-sg.me&fp=chrome&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Telegram : @V2rayTun0🔥
 vless://8df60790-c903-4661-b85d-64c0009378e5@ip.sb:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=f1.parsa.filegear-sg.me&fp=chrome&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#🔥
 vless://8dfd8ba9-d8f3-443a-9e21-c7c60e736df4@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
+vless://8dfd8ba9-d8f3-443a-9e21-c7c60e736df4@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1

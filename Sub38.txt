@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a2c09a3a-a19c-43e2-a787-8b5dabb7b98c@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
 vless://a2c536b8-9b1c-4aea-a6ec-35fdc407c84d@api.dayhostpro.com:57297?security=reality&encryption=none&pbk=DAkye38FaoQNbOpsdebtSJLM1VfbtKIdG6ujUGjkRi8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=assets01.surveymonkey.com&sid=60bd80#Telegram: @FergalVpnMod 🇩🇪
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@0lan.amazon-osishop.ir:8880?security=&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://a333acaf-2817-4bf9-9221-c1a63bb80de8@45.76.226.77:443?mode=stream-one&path=/sdfghj&security=none&encryption=none&type=xhttp#Telegram | @FNET00📱
@@ -253,3 +252,4 @@ vless://a87cea64-42d8-46c3-b617-e02ec175fe98@www.speedtest.net:2096?path=/?ed=20
 vless://a88bf92d-4851-4eac-aad1-66e16247856a@104.16.1.106:80?path=/&security=&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@FASTSHOVPN عضو شو
 vless://a88bf92d-4851-4eac-aad1-66e16247856a@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#🇬🇧@FreakConfig
 vless://a88bf92d-4851-4eac-aad1-66e16247856a@104.16.1.106:80?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@HiByeVPNN👈⚡❤️‍🔥
+vless://a88bf92d-4851-4eac-aad1-66e16247856a@104.16.1.106:80?type=ws&host=eng.vinamarketcenter.ir&path=/&security=none#🇬🇧 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
