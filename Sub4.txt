@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🛡️ @FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354?type=tcp#@v2ray_cartel 💜
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNnQDQ2LjEwMS4yNDUuMTMxOjQ0MzU0#[60823] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZFZMYWNjR0JxRng=@62.60.233.21:443#Telegram:@config_proxy 💦
@@ -20,7 +19,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovWVZXT0YrVGlJcmZkUFVyenJ3U2RGazVLRFBTdDJPR3h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlMQkI1ZGdIYjlKRDJIdDJsZUlZ@138.197.111.171:53626#Channel id: @@proxy_kafee 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlMQkI1ZGdIYjlKRDJIdDJsZUlZ@138.197.111.171:53626#Channel id: @@singbox1 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlMQkI1ZGdIYjlKRDJIdDJsZUlZ@138.197.111.171:53626#Channel id: @ShadowProxy66 🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ@s-g04.loveroise.com:54030#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#@AblNet7 🇮🇷 نت ملی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#@AblNet7 🐔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#@AblNet7 🧨
@@ -73,7 +71,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#Bya To @Iran_V2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708?type=tcp#@V2ray_cartel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@backup.fleetfoxi.link:44884#🥨14@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTXpZdkVEbVRpdVo@77.83.245.19:443/?outline=1#[🇹🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUFFWUEpFV1h4TWtrZEU4MkFXN3FFajdqeFFyWnhxRlVqM3poZUxqRkFydnRtdXpVWE5wOUpVd3pYR0QxeUpFSGNEeUg0MUhmUE5vMzd2SFd1TEJwM2d1aVJTdVVaNnY=@94.131.22.134:40565#@NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUFFWUEpFV1h4TWtrZEU4MkFXN3FFajdqeFFyWnhxRlVqM3poZUxqRkFydnRtdXpVWE5wOUpVd3pYR0QxeUpFSGNEeUg0MUhmUE5vMzd2SFd1TEJwM2d1aVJTdVVaNnY=@94.131.22.134:40565#wifI_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#@V2rayNG3
@@ -93,6 +90,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#@configfu+11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#MCI-@Iran_V2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#فیلترشکن رایگان👈Prime_Verse@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#فیلترشکن رایگان👈amirw_shop_q
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#🇦🇷@SimChin_iR عضو بشید
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#@Iran_V2RAY1
@@ -253,3 +251,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.135.28:443#@V2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.166.103:443#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.57.198:443#@Hope_Net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.119.255:443#@CaV2ray ⚡️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#Channel id: @@proxy_kafee 🇬🇧

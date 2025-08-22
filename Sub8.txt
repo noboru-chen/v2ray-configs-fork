@@ -121,6 +121,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#کانال+ما+در+
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#@V2rayNG3
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#@AblNet7 🇺🇲
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.152.170:443/?type=ws&encryption=none&flow=&host=lu.ylks.us.kg&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&security=tls&sni=lu.ylks.us.kg#@Hope_Net
 ss://b1b82a4d-b1fe-4e26-8ffe-fd071609233f@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#Telegram:@config_proxy 💦
 ss://b8e24ec7-b282-46a9-b1ed-92583b1a5120@yyyyyyyyymahdi1.v2ryng01.ru:8443?security=none&encryption=none&headerType=none&type=tcp#@Hope_Net
 ss://bm9uZTpjY2JiYWFhLWFhYmMtYmFhYy1jYWRiLWNjYmFjYWFiY2JiYQ==@127.0.0.1:1080#@Hope_Net
@@ -252,4 +253,3 @@ trojan://Aimer@160.79.105.160:8443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls
 trojan://Aimer@167.68.4.7:2053?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
 trojan://Aimer@173.245.59.109:2087?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
 trojan://Aimer@188.164.159.22:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
-trojan://Aimer@192.200.160.35:2083?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#ᴬᴸᴸ𝗝𝗼𝗶𝗻➠@V2rayTun0
