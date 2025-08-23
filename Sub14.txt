@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://19c0987b-279f-4add-a9b1-685a0d983098@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-gfpcdhlj
+vless://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#🇨🇭+Switzerland
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#AMIN@ATOVPN
 vless://19de5ba4-82b2-4a11-898e-ae460d6733fe@real-z3.sdcards1.ir:8585?security=reality&encryption=none&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=ea0e387f2b260e0d#✅ @manzariyeh_rasht  👈👈کانال ما
 vless://19e427b0-abd4-441b-900f-42af30d04088@104.24.40.146:443?path=/index.html?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#Telegram:@config_proxy 🔥
@@ -251,5 +253,3 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray26:🇦🇪
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray26:🇦🇪 جهت خرید
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray313 کانالمون 💦
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2rayngsupbot 🔗 @ai_duet
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Bya to @Iran_V2ray1
