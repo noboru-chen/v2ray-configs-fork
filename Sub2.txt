@@ -213,6 +213,7 @@ hy2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166/?insecure=1#Channel id: @@
 hy2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166/?insecure=1#HK
 hy2://FREEEE_7.87958795@91.107.251.13:443/?insecure=1&sni=fast.com&obfs=salamander&obfs-password=aA@8795#🍰44@oneclickvpnkeys
 hy2://HfK3UK4MoXxYUccnp7qzx3Y3o@209.38.144.136:34321/?insecure=1&sni=bing.com#US
+hy2://JWLQunPJgg2xi8Edm304q9Vqw@161.35.157.233:2050/?insecure=1#Telegram:@config_proxy 😍
 hy2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763/?insecure=1&sni=bing.com#美国
 hy2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763/?insecure=1&sni=bing.com#🇸🇬SG
 hy2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243/?insecure=1&sni=bing.com#HK
@@ -252,4 +253,3 @@ hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel 
 hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#🏵️98@oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel id: @@proxy_kafee🇫🇷
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇫🇷
-hy2://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-linkhy10.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.teslaautomation.de#🇸🇬新加坡
