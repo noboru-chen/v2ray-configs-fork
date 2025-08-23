@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776513.VtNeT.infO#Channel : @SHOP_GAMING1011 🏴🏳
 vless://8867aa32-3aad-486d-d19a-26b3f11c02ea@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://886ac0d5-6f58-41e1-b58e-b576eb35d4a0@cloudflare.182682.xyz:443?path=/?ed?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=2401a9ae.v2-ey3.pages.dev&fp=chrome&type=ws&sni=2401a9ae.v2-ey3.pages.dev#@HiByeVPNN👈⚡❤️‍🔥
 vless://886ac0d5-6f58-41e1-b58e-b576eb35d4a0@cloudflare.182682.xyz:443?security=tls&encryption=none&host=2401a9ae.v2-ey3.pages.dev&fp=chrome&type=ws&sni=2401a9ae.v2-ey3.pages.dev#2
@@ -253,3 +252,4 @@ vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&secur
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server28.coin.name.ng&type=ws&sni=server28.coin.name.ng#→ @Hddify
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server7.coin.name.ng&fp=chrome&type=ws&sni=server7.coin.name.ng#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=server7.coin.name.ng&fp=chrome&type=ws&sni=server7.coin.name.ng#🇩🇪@FreakConfig
+vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=server10.coin.name.ng&type=ws&sni=server10.coin.name.ng#@HiByeVPNN👈⚡❤️‍🔥
