@@ -10,7 +10,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#ک�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkSTVkSThRRnpxU0M5QzFCY0pzUUpu@138.199.153.10:44442?note=--Telegram--@NetifyVPN--#🇩🇪[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaDRWcTJZMWF2b0l0bDJldnRMOFlT@104.192.227.162:443?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3dkWWxHWTA4dTdtbzlWMk9IR2dY@104.192.227.162:443?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplN3dkWWxHWTA4dTdtbzlWMk9IR2dY@104.192.227.162:443?type=tcp#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplR3FiT2s1U2QwcWQxRW5OT0NrbVE0@91.108.240.23:4619#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#Channel id: @@proxy_kafee 🇦🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#Channel id: @@proxy_kafee 🇦🇹 ¹
@@ -76,9 +75,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@desrv.ssvpnapp.win:574
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#💎 @AblNet7 💎
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndXIzVlA1Q2dmejY4YzF5VlMzcXJiRGNRQmVTeVN6ZkRZZkNqcFpXQlZ2aktBd2h0Z1c1ODNKc2NyR2V6NXZkVzE3b0ptbmNEb0RrdENQSlJlZWV4RzhZdWFZZDRYYkc=@imap.roomyinmita.name:40565#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndXIzVlA1Q2dmejY4YzF5VlMzcXJiRGNRQmVTeVN6ZkRZZkNqcFpXQlZ2aktBd2h0Z1c1ODNKc2NyR2V6NXZkVzE3b0ptbmNEb0RrdENQSlJlZWV4RzhZdWFZZDRYYkc=@imap.roomyinmita.name:40565#5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndXIzVlA1Q2dmejY4YzF5VlMzcXJiRGNRQmVTeVN6ZkRZZkNqcFpXQlZ2aktBd2h0Z1c1ODNKc2NyR2V6NXZkVzE3b0ptbmNEb0RrdENQSlJlZWV4RzhZdWFZZDRYYkc=@imap.roomyinmita.name:40565#🇺🇸[@DHLIM0]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndXIzVlA1Q2dmejY4YzF5VlMzcXJiRGNRQmVTeVN6ZkRZZkNqcFpXQlZ2aktBd2h0Z1c1ODNKc2NyR2V6NXZkVzE3b0ptbmNEb0RrdENQSlJlZWV4RzhZdWFZZDRYYkc=@imap.roomyinmita.name:40565?type=tcp#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#🇹🇷 @vlees_v2rayng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#🇹🇷 @vlees_v2rayng⁵
@@ -253,3 +251,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#@NpvV2rayFilTer
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#@V2RAYNG_1378
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#@V2RAYROZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Telegram+:+@V2rayEnglish
