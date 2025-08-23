@@ -237,7 +237,6 @@ vmess://ewogICAgImFkZCI6ICJ2Yy5mbHkuZGV2IiwKICAgICJhaWQiOiAzMiwKICAgICJob3N0Ijog
 vmess://ewogICAgImFkZCI6ICIxMDMuNjEuMTM5LjEzNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZjhkOTNjZmItM2Q1ZC00NDdjLWE2OTctMTY0OTZkZDc0Njk3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTIxLAogICAgInBzIjogIvCfh7nwn4e8VFctMTAzLjYxLjEzOS4xMzctNTQxOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 hy2://0076436c-9459-458b-8c6f-57c379acbbe3@jph1.youxuan.wiki:8080/?insecure=1#🧁79@oneclickvpnkeys
 hy2://0076436c-9459-458b-8c6f-57c379acbbe3@zl.youxuan.wiki:8080/?insecure=1#🧁78@oneclickvpnkeys
-hy2://10193f1d-9a4d-457a-b668-bdeb240e092c@netcupus.alisaku.com:34444/?insecure=1&sni=apps.apple.com#🍇27@oneclickvpnkeys
 hy2://15a13318-8c5f-4f5f-9729-cadf6c02a3e8@hl1.gy6688.xyz:22986/?insecure=1&sni=hl1.gy6688.xyz&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn#🍰37@oneclickvpnkeys
 hy2://1JA6CF8JMUDvoz6zfm5qHwlN3Wo@43.207.119.98:4410/?insecure=1#Hysteria
 hy2://1c473b13-502d-47eb-8cf8-70a38d56c5bd@jp1.interld123456789.com:443/?mport=36000-37000&insecure=1&sni=1231231.1234567890spcloud.com#日本Hy2-3
@@ -253,3 +252,4 @@ hy2://3C8h8X6kimbOX68joVe3kTERw@206.189.20.193:7197/?insecure=1&sni=bing.com#UK
 hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509/?insecure=1&sni=bing.com#Channel id: @@proxy_kafee🇸🇬
 hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇸🇬
 hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509/?insecure=1&sni=bing.com#SG
+hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509/?insecure=1&sni=bing.com#Channel id: @@proxy_kafee🇸🇬
