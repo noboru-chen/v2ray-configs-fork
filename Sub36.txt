@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443?path=/&security=tls&encryption=none&type=ws#@Selinc
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
@@ -253,3 +250,6 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@172.66.158.93:443?path=/Free-CF-Pro
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@172.67.23.206:443?path=/Free-CF-Proxy-98.98.236.58-15608&security=tls&encryption=none&host=privasi.ndeso.web.id&type=ws&sni=privasi.ndeso.web.id#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.23.206:443
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443/?type=ws&encryption=none&flow=&host=freevpn.ndeso.web.id&path=/Free-CF-Proxy-AT38&security=tls&sni=freevpn.ndeso.web.id#23🍰@oneclickvpnkeys
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443?path=/Free-CF-Proxy-AE10?-VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY-&security=tls&encryption=none&host=freevpn.ndeso.web.id&type=ws&sni=freevpn.ndeso.web.id#👉 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443?path=/Free-CF-Proxy-AE18?-VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY-&security=tls&encryption=none&host=freevpn.ndeso.web.id&type=ws&sni=freevpn.ndeso.web.id#👉 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443?path=/Free-CF-Proxy-AT38?-VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY-&security=tls&encryption=none&host=freevpn.ndeso.web.id&type=ws&sni=freevpn.ndeso.web.id#👉 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443?path=/Free-CF-Proxy-AU3?-VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY-&security=tls&encryption=none&host=freevpn.ndeso.web.id&type=ws&sni=freevpn.ndeso.web.id#👉 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
