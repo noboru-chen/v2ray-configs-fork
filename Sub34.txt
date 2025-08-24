@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl-de-cdn.upload-center.org&fp=chrome&type=ws#Channel id: @ShadowProxy66🇩🇪
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl-de-cdn.upload-center.org&fp=chrome&type=ws#r♡ya
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl-tr-cdn.upload-center.org&fp=chrome&type=ws#@
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl-tr-cdn.upload-center.org&fp=chrome&type=ws#Channel id: @ShadowProxy66🇹🇷
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl2-sg2-cdn.upload-center.org&fp=chrome&type=ws#Channel id: @ShadowProxy66🇸🇬
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-au3-cdn.upload-center.org&fp=chrome&type=ws#Channel id: @ShadowProxy66🇦🇺
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-ca3-cdn.upload-center.org&fp=chrome&type=ws#@
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-ca3-cdn.upload-center.org&fp=chrome&type=ws#Channel id: @ShadowProxy66🇨🇦
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-fr3-cdn.upload-center.org&fp=chrome&type=ws#Channel id: @ShadowProxy66🇫🇷
@@ -29,6 +23,7 @@ vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/?TELEG
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=958639bf55e679#🇬🇷 ⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
 vless://9718b260-03c9-4313-af0f-d08a0b5c859e@video-streaming.comtent-delivery.poshtibani.4b3a.com:23410?security=none&encryption=none&host=fonts.gstatic.com&headerType=http&type=tcp#کانفیگ های ‌بیشتر عضو بشیدAnty_Vpn@
 vless://972cba3f-609d-479f-ba5d-96a8fd9f607d@91.107.147.144:8443?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=i48Qgf_KUvuSG1TeSF1VhyLmA9Mz6XwyrgPDoF6QAB0&sid=6c8a&spx=/TELEGRAM_JKVPN_JKVPN&type=grpc#Telegram:@config_proxy 🔥
+vless://972cba3f-609d-479f-ba5d-96a8fd9f607d@91.107.147.144:8443?mode=gun&security=reality&encryption=none&authority=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&pbk=i48Qgf_KUvuSG1TeSF1VhyLmA9Mz6XwyrgPDoF6QAB0&fp=chrome&spx=/TELEGRAM_JKVPN_JKVPN&type=grpc&sni=tgju.org&sid=6c8a#[🇩🇪]t.me/ConfigsHub
 vless://972cba3f-609d-479f-ba5d-96a8fd9f607d@91.107.147.144:8443?mode=gun&security=reality&encryption=none&authority=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&pbk=i48Qgf_KUvuSG1TeSF1VhyLmA9Mz6XwyrgPDoF6QAB0&fp=chrome&spx=/TELEGRAM_JKVPN_JKVPN&type=grpc&sni=tgju.org&sid=6c8a#🇩🇪@FreakConfig
 vless://972cba3f-609d-479f-ba5d-96a8fd9f607d@91.107.147.144:8443?type=grpc&mode=gun&authority=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=reality&fp=chrome&sni=tgju.org&pbk=i48Qgf_KUvuSG1TeSF1VhyLmA9Mz6XwyrgPDoF6QAB0&sid=6c8a&spx=/TELEGRAM_JKVPN_JKVPN#🇩🇪 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://972cba3f-609d-479f-ba5d-96a8fd9f607d@spdcl.get-service.ir:8443?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=i48Qgf_KUvuSG1TeSF1VhyLmA9Mz6XwyrgPDoF6QAB0&sid=6c8a&spx=/&type=grpc#SPDNET 🇩🇪
@@ -241,6 +236,8 @@ vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@Selinc
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@v2ray313 کانالمون ❤️‍🔥
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Telegram : @Alfa_v2ray_ng 🔥
+vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Telegram+:+@V2rayEnglish
+vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#[🏁]t.me/ConfigsHub
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#🇦🇽@SimChin_iR عضو بشید
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -253,3 +250,6 @@ vless://9ed35234-a7b0-43e2-d0bc-602483ce21de@Zula.ir:8880?type=ws&path=/telegram
 vless://9ef92d2c-05de-42d0-bf2b-08f1a0909979@172.234.67.151:10002?security=reality&encryption=none&pbk=6ib1DpWTjJsAkeN4kKDY1TcAt0wJAPmHwthGk76dBxg&headerType=none&fp=chrome&spx=/--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS&type=tcp&sni=yahoo.com&sid=1a24af87#Telegram : @Alfa_v2ray_ng 🔥
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?path=/?ed=2560&security=none&encryption=none&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&type=ws#@v2ray313 کانالمون 🥹
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?path=/?ed=2560&security=none&encryption=none&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://9f177110-4a05-4a53-aced-f529dd9583ec@65.109.216.171:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
+vless://9f457d41-0704-49f7-bddd-4cb73fbb8ce6@172.105.20.51:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#Channel id: @@proxy_kafee 🇩🇪
+vless://9f6920e7-ed7d-4fe2-a990-444b1e6233aa@91.107.136.146:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#@ZedBaz_vpn
