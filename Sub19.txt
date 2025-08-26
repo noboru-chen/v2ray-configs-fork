@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://41125b44-841b-450d-a727-5eaf5105c672@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#🇩🇪@FreakConfig
 vless://413008af-9dea-4cfc-b21c-dcf2a1a3ddb8@162.243.29.50:443?mode=auto&path=/bfsf3&security=reality&encryption=none&pbk=vqG3LKhczhCYrah0ClGd0XFrYGWCvBrpp_EChAw0k0A&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5df40b#@NETMelliAnti
 vless://413008af-9dea-4cfc-b21c-dcf2a1a3ddb8@162.243.29.50:443?mode=auto&path=/bfsf3&security=reality&encryption=none&pbk=vqG3LKhczhCYrah0ClGd0XFrYGWCvBrpp_EChAw0k0A&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5df40b#@v2ray313 کانالمون 👄
 vless://413008af-9dea-4cfc-b21c-dcf2a1a3ddb8@162.243.29.50:443?mode=auto&path=/bfsf3&security=reality&encryption=none&pbk=vqG3LKhczhCYrah0ClGd0XFrYGWCvBrpp_EChAw0k0A&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5df40b#🇺🇸 | @External_Net
@@ -252,4 +253,3 @@ vless://44d6d9ef-c842-4a52-a180-530200ac258a@www.speedtest.net:2052?path=/@V2ray
 vless://44d6d9ef-c842-4a52-a180-530200ac258a@www.speedtest.net:2052?path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=none&encryption=none&host=MdVpnSec-devops-iran.devgroup.fun.&type=ws#🇩🇪@FreakConfig
 vless://44d6d9ef-c842-4a52-a180-530200ac258a@www.speedtest.net:2052?type=ws&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&host=MdVpnSec-devops-iran.devgroup.fun.&security=none#V2rayArgon-csoc2szw
 vless://44d893a1-5a5d-8b8d-d603-aa291e7c8273@sangarvpn-bot.shop:21725?security=none&encryption=none&headerType=none&type=tcp#
-vless://44d893a1-5a5d-8b8d-d603-aa291e7c8273@sangarvpn-bot.shop:21725?security=none&encryption=none&headerType=none&type=tcp#🚀 🇩🇪 (@confegraigan) [vless - tcp]
