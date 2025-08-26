@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=82J7c5NeV7.tOoKaVp7X02.iNfO&fp=chrome&type=ws&sni=82J7c5NeV7.tOoKaVp7X02.iNfO#Channel id: @@proxy_kafee 🇬🇧
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=82J7c5NeV7.tOoKaVp7X02.iNfO&fp=chrome&type=ws&sni=82J7c5NeV7.tOoKaVp7X02.iNfO#Channel id: @ShadowProxy66 🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=82J7c5NeV7.tOoKaVp7X02.iNfO&fp=chrome&type=ws&sni=82J7c5NeV7.tOoKaVp7X02.iNfO#[🇺🇸]ae_proxy
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=82J7c5NeV7.tOoKaVp7X02.iNfO&fp=chrome&type=ws&sni=82J7c5NeV7.tOoKaVp7X02.iNfO#🌻
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=BbV6mQ1p5B.wAsAbI9890.oRg&fp=chrome&type=ws&sni=BbV6mQ1p5B.wAsAbI9890.oRg#Channel id: @ShadowProxy66 🇨🇦
@@ -21,7 +19,7 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#🇳🇱@confugfree20255
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#Channel id: @@proxy_kafee 🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#Channel id: @ShadowProxy66 🇬🇧
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#[🇬🇧]t.me/ConfigsHub
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#[🇺🇸]t.me/ConfigsHub
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#r♡ya
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#t.me/entryNET/config=1841538493768011
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#🌻
@@ -51,8 +49,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#Channel id: @ShadowProxy66 🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#Channel id: @ShadowProxy66 🇺🇸
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#Channel id: @proxy_kafee 🇬🇧
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#[🇬🇧]t.me/ConfigsHub
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#🇩🇪@FreakConfig
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#🌻
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=T3wRa98QnG.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=T3wRa98QnG.lIrA9xC7.iNfO#@NpvV2rayFilTer
@@ -93,7 +89,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Nw5Q3gZlVv.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=Nw5Q3gZlVv.LiRa9Xc7.InFo#Channel id: @proxy_kafee 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Nw5Q3gZlVv.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=Nw5Q3gZlVv.LiRa9Xc7.InFo#Channel id: @proxy_kafee 🇺🇸
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Nw5Q3gZlVv.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=Nw5Q3gZlVv.LiRa9Xc7.InFo#haniye
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Nw5Q3gZlVv.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=Nw5Q3gZlVv.LiRa9Xc7.InFo#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Rh0Pw06CtP.wAsAbI7890.oRg&fp=chrome&type=ws&sni=Rh0Pw06CtP.wAsAbI7890.oRg#Channel id: @@proxy_kafee 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Rh0Pw06CtP.wAsAbI7890.oRg&fp=chrome&type=ws&sni=Rh0Pw06CtP.wAsAbI7890.oRg#Channel id: @ShadowProxy66 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Rh0Pw06CtP.wAsAbI7890.oRg&fp=chrome&type=ws&sni=Rh0Pw06CtP.wAsAbI7890.oRg#o🌻
@@ -253,3 +248,8 @@ vless://edeffe9e-4725-428e-a1c0-7b6a96124f8d@194.182.79.163:10108?mode=gun&secur
 vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?path=/Telegram-V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-4.sahel.filegear-sg.me#@CaV2ray ⚡️
 vless://ee091af5-83cc-445c-9ced-79a65a8f9a40@173.245.49.64:80?path=/JfDhd3XZsdZ97Ign&security=none&encryption=none&host=rbL7Rav8d8.diamondgalery.ir&type=httpupgrade#@V2rayNG3
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@159.246.55.171:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#@V2ray1_Ng
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.245:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#@V2ray1_Ng
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.57:2053?path=/&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.77:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.208.95:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#@v2ray313 کانالمون ♥
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.142:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#Telegram : @Alfa_v2ray_ng 🔥
