@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e66a1e27-be31-4671-82fc-e810b0f7a8cb@104.18.26.90:443?path=/linkws?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mAXNeTVIpaP-clOUD205.NETKH3.SIte&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=stream-one#@Daily_Configs
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪@FreakConfig
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Alfa_v2ray_ng کانالمون 💔
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2RAYNG_1378
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@bad_raqs
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@v2ray313 کانالمون 💔
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@v2ray313 کانالمون 🫰🏻
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrdarc 🏴🏳
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[60863] - Telegram : @V2All
@@ -68,7 +60,6 @@ vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@104.21.112.1:8080?encryption=none&s
 vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@172.64.150.28:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#Telegram:@config_proxy 🔥
 vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?security=none&encryption=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#Telegram:@config_proxy 🔥
-vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?security=none&encryption=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#[🇨🇦]t.me/ConfigsHub
 vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://e7ff2196-206a-41b1-d85d-de07e8645250@cdn.fv2.site:2087?type=ws&path=/Channel:@VPNLime&host=vpnlime.fv2.site&security=tls&fp=&alpn=http/1.1&sni=vpnlime.fv2.site#Channel:: @VPNLime
 vless://e82dee5f-db7d-48c1-88d1-64898473772c@kanale-dailyconfigs.easypeasytech.ir:2646?mode=gun&security=reality&encryption=none&pbk=kwy9kV8JHU8yJVtrjBszpohxg_-GDDcpPI5_TfXB-VY&fp=chrome&spx=/&type=grpc&serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=1024&sni=UbUnT.cOm&sid=eb#@Daily_Configs  <<== کانال تلگرام
@@ -253,3 +244,12 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=BbV6mQ1p5B.wAsAbI9890.oRg&fp=chrome&type=ws&sni=BbV6mQ1p5B.wAsAbI9890.oRg#haniye
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=DdYq09McXz.LiRa0X.iNfO&fp=chrome&type=ws&sni=DdYq09McXz.LiRa0X.iNfO#Channel : @Mrdarc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#@Selinc
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#Channel id: @@proxy_kafee 🇺🇸
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#Channel id: @ShadowProxy66 🇺🇸
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#🇳🇱 جوین بده کانکت بمونی: @STAPersiaNews
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#🇳🇱@FreakConfig
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=FfBjPwYqKl.LiRa9Xc7.InFo&fp=chrome&type=ws&sni=FfBjPwYqKl.LiRa9Xc7.InFo#🇳🇱@confugfree20255
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#Channel id: @@proxy_kafee 🇬🇧
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#Channel id: @ShadowProxy66 🇬🇧
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#r♡ya
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=J1oG84r7Qf.WaSaBi7890.OrG&fp=chrome&type=ws&sni=J1oG84r7Qf.WaSaBi7890.OrG#🇺🇲@FreakConfig
