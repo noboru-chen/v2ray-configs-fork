@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#🇬🇧[@DHLIM0]
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Iran_V2RAY1
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@ZenixVPN_Channel
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 421 (@Outline_Vpn) free
@@ -253,3 +252,4 @@ vless://40acbc60-0607-43a6-a604-5f27751d36e4@172.66.40.99:80?path=/Join----VPNCU
 vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#@confiig_hub
 vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#@icv2ray
 vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#@mehrosaboran
+vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.Lat.#@V2RAYROZ
