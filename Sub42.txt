@@ -127,7 +127,6 @@ vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@www.speedtest.net:8080?type=ws&host
 vless://db3c93f2-f18f-4acf-c452-89b4da07d07a@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://db3c93f2-f18f-4acf-c452-89b4da07d07a@104.16.1.106:80?type=ws&path=/&host=eng.vinamarketcenter.ir&security=none#@FASTSHOVPN عضو شو
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=#/?Join------Join------Join------Join---?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=#/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#@i10VPN 🚀| با ما متصل بمون⚡
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=#/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#@Selinc
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-roof.atena.dpdns.org&fp=chrome&type=ws&sni=rayan-roof.atena.dpdns.org#@V2Graphy 🇿🇦
@@ -197,7 +196,6 @@ vless://ddc25bf8-aac7-4eec-a69b-ba468c249728@167.172.99.53:29434?security=none&e
 vless://ddc25bf8-aac7-4eec-a69b-ba468c249728@167.172.99.53:29434?security=none&encryption=none&headerType=none&type=tcp#[60861] - Telegram : @V2All
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@Daily_Configs
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IR-@Iran_V2ray1
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 373 (@Outline_Vpn) free
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 561 (@Outline_Vpn) free
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IRAN 663 (@Outline_Vpn) free
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
@@ -253,3 +251,5 @@ vless://decd275b-407b-470a-a95a-d7411348d7f9@91.99.81.146:8443?security=reality&
 vless://def9f760-61e8-2646-2a24-42973e96c041@146.19.143.150:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇪🇪@EVAY_VPN
 vless://def9f760-61e8-2646-2a24-42973e96c041@51.195.35.2:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇫🇷@EVAY_VPN
 vless://defb6355-57c3-4e58-bbfa-3e088c2f40b7@154.17.236.50:443?mode=gun&security=reality&encryption=none&pbk=DkGOwD5zOqiLm_99NhJI3hE6WEqtD6kvSafYMMzn6XM&fp=chrome&type=grpc&serviceName=grpc&sni=www.lovelive-anime.jp&sid=2a12a3012132a135#@AblNet7 🇮🇷 نت ملی
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?security=&type=grpc&encryption=none#@awlix_ir
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?security=&type=grpc&encryption=none#@awlix_ir
