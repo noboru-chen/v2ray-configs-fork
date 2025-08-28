@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=/proxyip=zani.yaemiko.ggff.net/?&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=/proxyip=zani.yaemiko.ggff.net/?&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=/proxyip=zani.yaemiko.ggff.net/?@MTMVPN@MTMVPN@MTMVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=/proxyip=zani.yaemiko.ggff.net/?@MTMVPN@MTMVPN@MTMVPN&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#→ @Hddify 🛴
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#
@@ -213,7 +215,6 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encr
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://36f05f97-4dce-4cb6-9d88-c8dfc7b2d30e@63.141.128.2:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@V2BOXV
 vless://36f05f97-4dce-4cb6-9d88-c8dfc7b2d30e@63.141.128.2:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://36f05f97-4dce-4cb6-9d88-c8dfc7b2d30e@63.141.128.2:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://36f092d8-04dd-4c1b-af38-11c4115bf347@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#☘️ Telegram | @Green_WPN
@@ -252,4 +253,3 @@ vless://3891b3ce-bb3a-45bf-bd8e-90e2487d121e@wouldyoumarriemepleasefuckthesystem
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&encryption=none&type=ws&host=jd.wxgqlfx.top&path=/?ed=2048&sni=jd.wxgqlfx.top&fp=chrome#mci-mtn🇬🇧[Awlix_ir]
 vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl1.ndkwiut2718.ir:8443/?type=tcp&encryption=none&security=tls&sni=dl1.ndkwiut2718.ir&fp=chrome#[🇩🇪DE-CDN] @Geek_Spot
 vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl5.ndkwiut2718.ir:8443/?type=httpupgrade&encryption=none&host=dl5.ndkwiut2718.ir&path=/&security=tls&sni=dl5.ndkwiut2718.ir&fp=chrome#[🇦🇪AE-CDN] (📶∞⏳∞)
-vless://38b41ed4-5fe2-4868-8016-8df32dcaed78@pic.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic.zarashop0.ir#Telegram | @FNET00📱
