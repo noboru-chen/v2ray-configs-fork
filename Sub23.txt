@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=/?ed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@AYMH19+کانال+تلگرام
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=/?ed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#💯T.me/Asak_Vpn💯
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.252.20:8880?path=/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#(@vmesskhodam)free config wifi
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=/re5IzbZ9IZZMddtw?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=ipsycho.suex12.ir&fp=chrome&type=ws&sni=ipsychO.SUEx12.Ir#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.75.172:80?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.33:80?path=/Telegram🇮🇷Channel+id:+@ShadowProxy66+/?ed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@AYMH19+کانال+تلگرام
@@ -253,3 +248,8 @@ vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=m
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&path=/?ed=2560&host=5-55sfjslf.ifenxiang.cfd&encryption=none#@awlix_ir
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+💛
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?encryption=none&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed=2560#@awlix_ir
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+💛
