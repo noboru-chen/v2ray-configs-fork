@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://284f4101-a514-437c-9d83-f1fac415e1c0@138.199.239.38:10138?type=ws&path=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&host=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@172.66.138.120:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-confic-11.rayan-iv.dns-dynamic.net&type=ws&sni=rAyAn-cOnFiC-11.rAyAn-iV.DnS-DyNaMiC.NeT#Telegram : @Alfa_v2ray_ng 🔥
-vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@172.66.138.120:443?path=/@i10VPN&security=tls&encryption=none&host=rayan-confic-11.rayan-iv.dns-dynamic.net&type=ws&sni=rAyAn-cOnFiC-11.rAyAn-iV.DnS-DyNaMiC.NeT#@i10VPN 🚀| با ما متصل بمون⚡
 vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@172.66.138.120:443?path=/@i10VPN&security=tls&encryption=none&host=rayan-confic-11.rayan-iv.dns-dynamic.net&type=ws&sni=rAyAn-cOnFiC-11.rAyAn-iV.DnS-DyNaMiC.NeT#✅@AR14N24b
 vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@172.66.138.120:443?path=/@i10VPN&security=tls&encryption=none&host=rayan-confic-11.rayan-iv.dns-dynamic.net&type=ws&sni=rAyAn-cOnFiC-11.rAyAn-iV.DnS-DyNaMiC.NeT#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@172.66.138.120:443?path=/Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaaz---Join---@V2rayBaaz&security=tls&encryption=none&host=rayan-confic-11.rayan-iv.dns-dynamic.net&type=ws&sni=rAyAn-cOnFiC-11.rAyAn-iV.DnS-DyNaMiC.NeT#@V2rayBaaz
@@ -54,6 +51,7 @@ vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&sec
 vless://2abe7939-69f1-4c82-952b-ccd5e1571103@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=ws&path=/dcgfdfws#@Daily_Configs
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&fp=chrome&type=ws#@NpvV2rayFilTer
+vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&fp=chrome&type=ws#Telegram:@config_proxy 💢
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&fp=chrome&type=ws#✅ @vistav2ray  👈👈کانال ما
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#@NpvV2rayFilTer
@@ -103,8 +101,8 @@ vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed&security=none
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed&security=none&encryption=none&host=SeRvER10.VtNEt.InFO&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER07.VtNEt.InFO&type=ws#@Selinc
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER07.VtNEt.InFO&type=ws#🇩🇪@FreakConfig
+vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#@V2rayBaaz
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#I 782 (@Outline_Vpn) free
-vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#🇩🇪@FreakConfig
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
@@ -168,6 +166,7 @@ vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#@v2ray313 کانالمون 🤌🏻
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#@v2ray313 کانالمون 🤯
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#@v2ray313 کانالمون 🫁
+vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#🇨🇵v2rayng (FR)🔐-confegraigan
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?security=&type=ws&path=/aioproxybot/8.215.59.6-443&host=aio.loophole.Biz.iD&encryption=none&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
@@ -253,3 +252,4 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#https://t.me/configfree2025✅
