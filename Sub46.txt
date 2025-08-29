@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e542acb6-f09b-4073-b5b4-2372f236f398@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=CbNl.mAshKeStAn.CoM&fp=chrome&allowinsecure=0&type=ws&sni=CbNl.mAshKeStAn.CoM#[🇱🇺]@configLINE(4)
-vless://e5484b3a-4cc4-4824-ba27-ce2d8dd7c516@wardennet.mhrnet.com:50965?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://e58ee137-cfed-4909-a7c7-960283d83a83@172.66.40.99:443?security=tls&type=ws&headerType=&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&host=DeV.iSvClOd.CoM&sni=DeV.iSvClOd.CoM&fp=chrome&alpn=h2,http/1.1#TLS-telegram-@ISVvpn
 vless://e5a56907-de38-4f55-9f6d-c736a9576658@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46139-2
 vless://e5af0826-5957-4a53-9d3f-20e6ddc12710@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
@@ -253,3 +251,5 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#@Selinc
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#All-@IRAN_V2RAY1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#Channel id: @@proxy_kafee 🇺🇸
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=0FpNnDhS71.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=0FpNnDhS71.lIrA0xC8.iNfO#Channel id: @proxy_kafee 🇨🇦
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=82J7c5NeV7.tOoKaVp7X02.iNfO&fp=chrome&type=ws&sni=82J7c5NeV7.tOoKaVp7X02.iNfO#Channel id: @@proxy_kafee 🇬🇧

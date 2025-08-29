@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#عضو کانال و ربات ما شوید👇
@@ -253,3 +251,5 @@ vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel
 vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=&encryption=none&headerType=none&type=tcp#☁️telegram:@Fast78_channel  ری اکشن یادت نره! 🥺   خرید کانفیگ پرسرعت  🔥 💙 @fast78_channel
+vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=none&encryption=none&headerType=&type=tcp#🇺🇸-@NT_Safe
+vless://1c9e2a95-17d5-4639-9b1c-94b3563369a8@138.199.239.38:42671?security=none&encryption=none&headerType=&type=tcp#🇺🇸-@NT_Safe   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone

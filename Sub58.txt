@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR
-hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
 hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%3E%3E%40shadowproxy66%3A%3AUS
 hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB
 vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QGZyZWU0YWxsVlBOOjpVUyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
@@ -253,3 +251,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0248
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0264
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%F0%9F%87%AB%F0%9F%87%B7FR-81.19.137.222-0268
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.17.169-0222
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.18-0259

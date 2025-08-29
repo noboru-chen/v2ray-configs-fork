@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#Telegram@ConfingV2RaayNG
-vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=none&encryption=none&host=jOIN---ELiV2-RAY.cloudns.pro.&type=ws#Telegram@ConfingV2RaayNG
 vless://21f2d05f-e401-4193-8b8b-036575ae5437@95.38.245.83:36513?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@DHLIM0
 vless://21f2d05f-e401-4193-8b8b-036575ae5437@95.38.245.83:36513?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @V2rayNG_CaFe | کانال ما 🫆
 vless://2201f026-64c2-4705-9ecf-7289671d0f09@172.66.40.99:8080?type=ws&path=/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&security=none#@EXPRESSVPN_420-2
@@ -253,3 +251,5 @@ vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&s
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#@NpvV2rayFilTer
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#@Selinc
 vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#@V2RAYNG_1378
+vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#@V2ray1_Ng
+vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?path=/dcgfdfws&security=tls&encryption=none&type=ws#Telegram:@zede_filteri

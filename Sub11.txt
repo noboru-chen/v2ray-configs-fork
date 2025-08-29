@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?JOIN---PLANB_PROXY&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#[🇨🇦]t.me/ConfigsHub
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?JOIN---PLANB_PROXY&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#t.me/entryNET/config=1841796127981345
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?JOIN---PLANB_PROXY&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#t.me/entryNET/config=1841799902310220
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#Telegram:@config_proxy 🔥
@@ -253,3 +251,5 @@ vless://1526fc89-a726-4eb5-d645-e87da3e6dff4@www.zula.ir:80?type=ws&path=/TELEGR
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot

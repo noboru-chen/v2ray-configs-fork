@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://tg-fq521free@198.62.62.67:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#US_speednode_0036
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#US_speednode_0037
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local;obfs=http;obfs-host=202508150964186-5vnd5Hsmlh.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local;obfs=http;obfs-host=202508150964186-5vnd5Hsmlh.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin;mode=websocket;mux=8;path=/dchlbvrbbotc;host=jp7v1.lingjfjkm002.com;tls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
@@ -253,3 +251,5 @@ hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-p
 hysteria2://M4DUOPrnAJhCXCBGoTA2xLDA@147.45.154.150:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#@Change_IP1-HYS
 hysteria2://MomB5gcusrDl2k67OfsTUEJK@147.45.154.150:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#@Change_IP1-HYS
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@v2rayng_fars
+hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
