@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#(@vmesskhodam)
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@vmesskhodam
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#✅@v2rayngsupbot
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#👉@ai_duet 🛒@v2rayngsupbot
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@vmesskhodam
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#hamrah(@vmesskhodam)
 vless://967bc5a8-82fc-4578-9e87-ab947910627e@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#@AbriVPN :خرید کانفیگ اختصاصی‌⚡️
 vless://967df5fe-bca4-44e9-b268-d27e881e01ec@ir12.boilersforpellets.com:443?path=/&security=tls&encryption=none&host=ir12.boilersforpellets.com&type=ws&sni=ir12.boilersforpellets.com#@V2Graphy ⚡
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.131:2087?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=&sni=CdCyRiRd72.gOzAlBaLaBiYa-bEbInAm.cOm#🌟Telegram:@Asak_Vpn
@@ -133,7 +139,6 @@ vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?encryption=
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#2
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#Tel  🇩🇪
-vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#@V2rayNG3
 vless://9ae18aa0-8887-4913-a35a-9f014d58d100@104.21.42.56:443?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&fp=chrome&type=ws&sni=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev#@HiByeVPNN👈⚡❤️‍🔥
 vless://9aee985c-4f96-41ad-c2d4-c601f0f2aa4f@binex.tv.sedanor.ir:2053?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=chess.com&type=ws#BinexTify 🌟-iswwwdrv3
@@ -248,8 +253,3 @@ vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@Selinc
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@v2ray313 کانالمون ❤️‍🔥
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Channel id: @ShadowProxy66 🇨🇭
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Channel id: @proxy_kafee 🇨🇭
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Channel id: @singbox1 🇨🇭
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#Telegram : @Alfa_v2ray_ng 🔥
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#🇩🇪@FreakConfig
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss13712.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=stream-one#@Daily_Configs
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420 |2
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
@@ -230,6 +231,7 @@ vless://7c0f8dd6-9e98-4ac7-ba02-5b458183452c@63.141.128.23:80?path=/Join-ZEDMODE
 vless://7c0f8dd6-9e98-4ac7-ba02-5b458183452c@63.141.128.23:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#Telegram:@config_proxy 🔥
 vless://7c0f8dd6-9e98-4ac7-ba02-5b458183452c@63.141.128.23:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://7c0f8dd6-9e98-4ac7-ba02-5b458183452c@63.141.128.23:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
+vless://7c0f8dd6-9e98-4ac7-ba02-5b458183452c@63.141.128.23:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://7c1438c0-f28b-4fdf-821e-558931edac3e@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN
 vless://7c1438c0-f28b-4fdf-821e-558931edac3e@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN  100Gb❤️- پایان حجم ❌
 vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:80?path=/&security=none&encryption=none&host=anTiFiLTEr.dOXAs38496.wOrkErs.dEV&type=ws#@Mrconfig_Channel 🩵
@@ -251,5 +253,3 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://7c723b4d-9220-43fb-9b5a-ed2b93dfb3ef@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@AbriVPN
 vless://7c723b4d-9220-43fb-9b5a-ed2b93dfb3ef@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@AbriVPN  هر سوالی داشتید از پشتیبانی
 vless://7c888d30-189e-4b68-c084-2df3944265c1@91.107.167.104:59745?mode=gun&security=reality&encryption=none&pbk=kPPcRHnxJeFfMs8LZpl-eKdlSOMxL_TitC5a4cIerFw&fp=chrome&spx=/&type=grpc&serviceName=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&sni=Zula.ir#@hopev2ray😍
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@Mrconfig_Channel 🩵
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@CaV2ray ⚡️
