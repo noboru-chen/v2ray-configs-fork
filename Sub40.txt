@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c5179990-6e22-484e-9f00-47fbc0491b88@104.26.6.89:443?path=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=tls&alpn=h2,http/1.1&encryption=none&host=pamchall.com&fp=chrome&type=ws&sni=PamcHalL.coM#🇺🇸 | @External_Net
-vless://c52ece5d-2575-43e5-b0a6-8a4a2c7f41fd@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#@v2ray313 کانالمون 🙀
-vless://c54eb229-81d0-45bf-8564-ba5363cdffd1@188.114.97.3:80?security=none&encryption=none&type=ws&host=No1.vless.site.&path=/vless#[Awlix_ir]
-vless://c5c58553-b1e3-494b-954e-4628216cb1ea@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.2.jey.cloudns.pro&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
-vless://c5c58553-b1e3-494b-954e-4628216cb1ea@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
 vless://c5ef1e11-689c-406f-abe7-47e315ea2c70@d7.vixsm.ir:4811?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
 vless://c5f760fc-e33b-484f-a6c9-be550f706152@JsLifE.iR:80?path=/AzV2ry?ed=2056&security=none&encryption=none&host=speedtestme502.com&type=httpupgrade#[60830] - Telegram : @V2All
 vless://c6173d8b-a536-4b30-da97-a98284c4910a@www.speedtest.net:8880?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&security=&encryption=none&host=www.ubuntu.com.speedtest24.ir&type=httpupgrade#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها
@@ -253,3 +248,8 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#→ @Hddify 🛰️
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#@Daily_Configs
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#@Selinc
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#@v2rayng_fars
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#@v2rayng_fars-ekhtesasi
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#→ @Hddify
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-20.access.name.ng&fp=chrome&type=ws&sni=lease-20.access.name.ng#🇬🇧@FreakConfig
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-20.access.name.ng&type=ws&sni=lease-20.access.name.ng#✅ @vistav2ray  👈👈کانال ما
