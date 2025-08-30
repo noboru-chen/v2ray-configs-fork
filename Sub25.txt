@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://60c76e2d-1557-4330-a3db-9cf0f51190d6@172.66.40.99:80?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
+vless://60c76e2d-1557-4330-a3db-9cf0f51190d6@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#@confiig_hub
 vless://60c76e2d-1557-4330-a3db-9cf0f51190d6@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#@icv2ray
 vless://60c76e2d-1557-4330-a3db-9cf0f51190d6@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#@mehrosaboran
 vless://60c76e2d-1557-4330-a3db-9cf0f51190d6@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -32,7 +34,6 @@ vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIG
 vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#@mehrosaboran
 vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#tm⚡|@lightning6
 vless://61754c04-bba3-4ad0-a72f-2855f8496bfc@alien-ezterari.shoponetop.com:1313?security=none&type=ws&headerType=&path=&host=#Telegram:@config_proxy 🔥
-vless://61754c04-bba3-4ad0-a72f-2855f8496bfc@alien-ezterari.shoponetop.com:1313?security=none&type=ws&headerType=&path=&host=#[🇮🇷]t.me/ConfigsHub
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=/?ed=2048&security=none&encryption=none&host=arvancloud.com&type=ws#@V2rayNG3
 vless://617df968-ca07-421f-be05-40348878e7b7@37.202.237.244:55094?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪] - > @CodeClubiR - @cciv2ray_bot - > avvalin kharid 20% takhfif :)
 vless://617df968-ca07-421f-be05-40348878e7b7@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] CodeClubiR
@@ -147,6 +148,7 @@ vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://669e705b-c08a-4230-9826-e32a4d51bea4@63.141.128.24:8080?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://669e705b-c08a-4230-9826-e32a4d51bea4@63.141.128.24:8080?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#Telegram:@config_proxy 🔥
 vless://669e705b-c08a-4230-9826-e32a4d51bea4@63.141.128.24:8080?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://669e705b-c08a-4230-9826-e32a4d51bea4@63.141.128.24:8080?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#t.me/entryNET/config=1841912834650892
 vless://669e705b-c08a-4230-9826-e32a4d51bea4@63.141.128.24:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@V2BOXV
 vless://669e705b-c08a-4230-9826-e32a4d51bea4@63.141.128.24:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://67007ba4-fadb-48c6-bf2f-125d18279d1b@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&type=ws&sni=revest.maketunnelim.lat#@V2ray1_Ng
@@ -155,7 +157,6 @@ vless://67007ba4-fadb-48c6-bf2f-125d18279d1b@www.speedtest.net:80?path=/---VPNCU
 vless://67007ba4-fadb-48c6-bf2f-125d18279d1b@www.speedtest.net:80?path=/---VPNCUSTOMIZE---VPNCUSTOMIZE---www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.vpncustomize.ip-ddns.com.&type=ws#🇺🇸 @VPNCUSTOMIZE
 vless://67007ba4-fadb-48c6-bf2f-125d18279d1b@www.speedtest.net:80?path=/---VPNCUSTOMIZE---VPNCUSTOMIZE---www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.vpncustomize.ip-ddns.com.&type=ws#🇺🇸 @v2rayip1
 vless://671caed8-14ca-4526-8e64-1c7bde072039@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2rayNG3
-vless://67386427-2cfb-441d-9888-e0c5066ff8b2@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir.&type=httpupgrade#🇩🇪 @v2ngnet
 vless://676973db-f43b-48f6-0607-0fe1bed7266e@45.88.8.147:80?path=/IVApi/NL/2&security=none&encryption=none&type=ws#@v2ray313 کانالمون 💅🏻
 vless://677e802b-691a-44b2-9dda-4f9130c85594@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46160-1
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?encryption=none&security=tls&sni=blog.ruangguru.com.servpn.my.id&type=ws&host=blog.ruangguru.com.servpn.my.id&path=/id5?ed=2560/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
@@ -252,4 +253,3 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@i10VPN 🚀| با ما متصل بمون⚡
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#@v2rayng_fars @Pruuxi
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#All_@IRAN_V2RAY1
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?path=/id5?ed=2560&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#[🇩🇪]@confegraigan
