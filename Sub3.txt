@@ -118,7 +118,6 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#Telegram:@config_proxy 😍
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -219,7 +218,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#@Mrconfig_Channel 🩵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#Channel id: @proxy_kafee 🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#@Hope_Net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YTY5YmRjMWJmNGNkOTI3@40.160.8.211:11105#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjc1MTcyNC0yMGIwLTQ5YTUtODdmYi1iMGViOTViNDQ4NWU@36.141.40.46:15111#🇭🇰香港
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjc1MTcyNC0yMGIwLTQ5YTUtODdmYi1iMGViOTViNDQ4NWU@36.141.40.46:15121#🇨🇳台湾
@@ -253,3 +251,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystrivpn.ru:443#I 781 (@Outline_Vpn) free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5TE0xcGNuaFVlSFp4cnNFUU1rcGxJ@178.208.91.118:19805#🇩🇪 - @FREEV2RNG 13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#@AblNet7 🇩🇪
