@@ -136,6 +136,7 @@ vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=u
 vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#@Daily_Configs
 vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#@i10VPN 🚀| با ما متصل بمون⚡
 vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#@v2ray313 کانالمون 🤞🏻
+vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#🇳🇱@FreakConfig
 vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://43534533-01a3-4848-d782-4ba043536737@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?path=/&security=none&encryption=none&type=ws#@AYMH19+کانال+تلگرام
@@ -187,7 +188,6 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?encryptio
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#Channel : @Mrdarc 🏴🏳
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#t.me/entryNET/config=1841943917618897
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#✅@AR14N24b
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51210.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@V2RAYROZ
