@@ -190,7 +190,6 @@ vless://6f6af4b5-950f-404b-93ed-5307b16f9e4a@binex.tv.jaricopen.fun:2053?type=ws
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443/?type=ws&encryption=none&flow=&host=profit.fullmargintraders.com&path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&sni=profit.fullmargintraders.com#Telegram:@config_proxy 🔥
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&type=ws&sni=profit.fullmargintraders.com#@v2ray313 کانالمون 😐
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&type=ws&sni=profit.fullmargintraders.com#Telegram:@config_proxy 🔥
-vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&type=ws&sni=profit.fullmargintraders.com#[🇨🇦]t.me/ConfigsHub
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&type=ws&sni=profit.fullmargintraders.com#t.me/entryNET/config=1842003493898864
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&type=ws&sni=profit.fullmargintraders.com#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://6f78276b-ec7b-446f-a643-1c563224258a@speedtest.net:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
@@ -224,6 +223,7 @@ vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?encryption=non
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#@ata_connect
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/?*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*&security=&encryption=none&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳

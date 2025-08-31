@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2T1RRd01ETXhZVFl0Wm1Rek1pMDBaRFppTFRrd01XUXROemRpTjJZNU5ETTJPVGhs@bl.sytes.net:50414#%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiOC4yMDkuMjExLjIzNiIsICJwb3J0IjogIjM0OTMzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhhOTE1MGJjLWI5YzgtNDBhYy1iZTgzLWFhZWM0NTE3NmE4MSIsICJzbmkiOiAiIn0=
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2TURFM01qRmxORE10TlRNNE9TMDBaamszTFdJeU1XTXRPVEF3WVdKaU1tSmtZVGxs@awes35lesl.blhao0o.dpdns.org:12020#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjE2NS4xNDAuMjE2LjE0MSIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAic25pIjogIiJ9
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdw==@134.209.147.198:989#%E5%8D%B0%E5%BA%A6%7C%40ripaojiedian
@@ -251,5 +253,3 @@ hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel id: 
 hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel id: @proxy_kafee🇺🇸
 hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#Channel id: @singbox1🇺🇸
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇺🇸
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel id: @proxy_kafee🇺🇸
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel id: @singbox1🇺🇸
