@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5c6dd90e-5d05-4877-bb3b-7384f65a10d4@94.183.149.98:3801?encryption=none&security=none&type=tcp&headerType=http#@Daily_Configs
-vless://5c8d5375-221c-4c76-9a7e-20eb3b4311d7@185.143.234.46:443?security=tls&type=ws&headerType=&path=/&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#🇩🇪 Germany-1
 vless://5c8d5375-221c-4c76-9a7e-20eb3b4311d7@fr.snappfr.nikastoring.ir:2020?security=none&type=tcp&headerType=http&path=/&host=goftino.com#🇫🇷 France
 vless://5c8d5375-221c-4c76-9a7e-20eb3b4311d7@nl.shop.snapprlt1.nikastoring.ir:1845?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=95RdZE7c9sHqTX0ymuRN7qgCH9vq547cKjr9zUvI3zI&sid=#🇳🇱 netherlands
 vless://5c8d5375-221c-4c76-9a7e-20eb3b4311d7@taxi.snapprlt2.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&sid=#🇫🇮 Finland-1
@@ -253,3 +251,5 @@ vless://617095ea-3ce0-4e30-995a-a11c610b7223@104.18.58.47:2087?path=/Telegram@Fr
 vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=G.lightning2025.top&type=ws#tm3@ConfigX2ray
 vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#@V2RAYROZ
 vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#@bored_vpn
+vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#@mehrosaboran
+vless://6172d518-da53-4238-aa05-925a8b1cb05a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#tm⚡|@lightning6
