@@ -189,6 +189,7 @@ vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none
 vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@configfree_1
 vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮 𝗝𝗼𝗶𝗻 ➠ @configfree20255 | کانال ما 🆔
 vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#@meli_proxyy
 vless://68ede8b9-28ee-4620-b8f0-c4947dcf073f@turkey4.v2shop2.xyz:443?encryption=none&security=none&type=tcp&headerType=http&host=analytics.google.com#@nethers_vpn🟢کانفیگ های بیشتر برای تمام نت ها
@@ -252,4 +253,3 @@ vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.ne
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?path=/?ed=2048&security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#IRAN 492 (@Outline_Vpn) free
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?path=/?ed=2048&security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#IRAN 571 (@Outline_Vpn) free
 vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?path=/?ed=2048&security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#https://t.me/HiTechVPlus
-vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?security=none&encryption=none&host=VAST-RAdIo.zuLAIR.oRG&type=ws#IRAN 582 (@Outline_Vpn) free
