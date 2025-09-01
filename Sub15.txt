@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
@@ -252,4 +253,3 @@ vless://2e90c15f-3703-4426-acef-1f59a3990289@104.18.14.19:2082?path=/?ed=2560&se
 vless://2e90c15f-3703-4426-acef-1f59a3990289@104.18.14.19:2082?path=/?ed=2560&security=none&encryption=none&host=0301.nooyfig.workers.dev&fp=chrome&type=ws#@meli_proxyy
 vless://2e90c15f-3703-4426-acef-1f59a3990289@104.18.14.19:2082?path=/?ed=2560&security=none&encryption=none&host=0301.nooyfig.workers.dev&fp=chrome&type=ws#برای اتصال دائمی جوین شو🍦@Outline_ir
 vless://2e90c15f-3703-4426-acef-1f59a3990289@104.18.15.19:2095?encryption=none&security=none&type=ws&host=0301.nooyfig.workers.dev&path=/?ed=2560#Telegram:@config_proxy 🔥
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
