@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون ☹️
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 💜
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🚀
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱[Telegram:v2rayng_fars]
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
@@ -253,3 +250,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&e
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@zede_filteri
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#T.me/Asak_Vpn

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#r♡yaッ
-vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#t.me/entryNET/config=1842141277184615
-vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@HiByeVPNN👈⚡❤️‍🔥
 vless://9d847ad3-1896-48f9-b89c-13fe345e2b28@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#Telegram:@config_proxy 🔥
 vless://9d847ad3-1896-48f9-b89c-13fe345e2b29@zula.ir:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy
@@ -253,3 +250,6 @@ vless://PishiNetVPN@manage.zulamag.blog:443?security=reality&encryption=none&pbk
 vless://PishiNetVPN@x-zula.ir:443?security=reality&encryption=none&pbk=aqqWmeO4JJl9gHwyoM7PAlCEOBd9P2TMt4Bw9zcxVzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=forbes.com&sid=df91dc7e0ec8f8e9#telegram:@madshopx
 vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪#2
 vless://SVNTEAM-3@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪Free3
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-20
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-28
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-30

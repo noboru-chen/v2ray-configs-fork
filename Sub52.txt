@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f222a575-5a5b-496f-b1b8-7e95aefee02b@151.101.3.8:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
-vless://f222a575-5a5b-496f-b1b8-7e95aefee02b@speedtest.net:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
-vless://f222a575-5a5b-496f-b1b8-7e95aefee02b@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#عضو کانال و ربات زیر شوید👇
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir3.fastnode0.com:2087?security=none&encryption=none&type=ws#🇩🇪@v2rayngsupbot | @ai_duet
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir4.fastnode0.com:2087?security=none&encryption=none&type=ws#🇹🇷@v2rayngsupbot | @ai_duet
@@ -253,3 +250,6 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.77.107:443?security=none&enc
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#@AblNet7 🇺🇸
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?mode=stream-one&path=/sef/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://f6fa8cbd-6f5a-4a2c-8a28-9a1e6f48bdd6@95.163.152.141:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#@v2ray313 کانالمون 😭
+vless://f6fa8cbd-6f5a-4a2c-8a28-9a1e6f48bdd6@95.163.152.141:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#@v2ray313 کانالمون 🥺
+vless://f716fa40-e997-42d8-b93c-7122c63cc122@188.132.141.247:8880?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=telewebion.com&headerType=http&type=tcp#@TEHRANARGO کانالمون ☃️

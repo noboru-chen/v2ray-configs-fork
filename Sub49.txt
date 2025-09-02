@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#@Academi_vpn 1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 🩸
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrdarc 🏴🏳
@@ -253,3 +250,6 @@ vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?mode=gu
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 vless://e8e6a640-a6e1-43b6-9186-e4176eceb340@147.135.77.156:443?security=reality&encryption=none&type=tcp&sni=store.steampowered.com&sid=0e73d8&fp=chrome&pbk=wR8XITnMNH-4uMU32T-nA6CB7Xoo54Yy8KV54jjBGwk&spx=/&headerType=none#Telegram:@king_v2raay
 vless://e8e6a640-a6e1-43b6-9186-e4176eceb340@147.135.78.109:443?security=reality&encryption=none&type=tcp&sni=store.steampowered.com&sid=0e73d8&fp=chrome&pbk=wR8XITnMNH-4uMU32T-nA6CB7Xoo54Yy8KV54jjBGwk&spx=/&headerType=none#Telegram:@king_v2raay
+vless://e8e6a640-a6e1-43b6-9186-e4176eceb340@40.160.8.12:443?security=reality&encryption=none&type=tcp&sni=store.steampowered.com&sid=0e73d8&fp=chrome&pbk=wR8XITnMNH-4uMU32T-nA6CB7Xoo54Yy8KV54jjBGwk&spx=/&headerType=none#Telegram:@king_v2raay
+vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@192.248.176.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&type=tcp&headerType=none#@Golestan_VPN - JOIN
+vless://e906f679-b1fe-4e38-b590-196328d02408@de.pixvpn.app:8443?encryption=none&security=reality&sni=jd.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3&allowInsecure=1&type=grpc&authority=&serviceName=grpc-jd&mode=gun#@Daily_Configs

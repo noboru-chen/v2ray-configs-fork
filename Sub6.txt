@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@netv2reyng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#All Server ⚡𝐣𝐨𝐢𝐍-@V2rayTun0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Channel id: @ShadowProxy66 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Channel id: @proxy_kafee 🇹🇷
@@ -253,3 +250,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#🇹🇷@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#🧡
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443@V2rayNGVPN+<=+کانفیگ+رایگان#Telegram:@config_proxy 💦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc@77.83.245.191:443?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpybm52UzFVRmVOT0V2TThhQVZpcVpB@216.9.225.179:2020?type=tcp#Tel @mrdarc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#@Golestan_VPN - JOIN
