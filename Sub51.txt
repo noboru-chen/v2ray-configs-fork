@@ -233,7 +233,6 @@ vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?p
 vless://f50c9d30-92f3-4e01-bebf-090fb460897e@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=CErEBRAl-asSigNMENT.oneeaT.Co&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f5119458-dede-4782-8e30-b4d4d67f3dba@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?path=/?ed=1024&security=&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@v2ray313 کانالمون 🇹🇷
-vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?path=/?ed=1024&security=none&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@Alfa_v2ray_ng کانالمون 🇹🇷
 vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?path=/?ed=1024&security=none&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@v2ray313 کانالمون 🇹🇷
 vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@104.26.15.69:8080?path=/?ed=1024&security=none&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@v2ray313 کانالمون 🇹🇷
 vless://f51667a2-c1e6-5321-9d51-f03be3fc8d02@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=main32d.global.ssl.fastly.net&type=xhttp#🇩🇪@EXPRESSVPN_420 |Free ♥️
@@ -253,3 +252,4 @@ vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?mode=gun&security=
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=JCG7HcKpCWxijB2PP2bFqNR7h7F8&sni=plaza.ir#Channel id: @proxy_kafee 🇩🇪
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?path=/JCG7HcKpCWxijB2IADOUXiAjgsQ6&security=tls&alpn=http/1.1&encryption=none&host=plaza.ir&fp=chrome&type=ws&sni=plaza.ir#Channel id: @ShadowProxy66 🇩🇪
 vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?path=/JCG7HcKpCWxijB2IADOUXiAjgsQ6&security=tls&alpn=http/1.1&encryption=none&host=plaza.ir&fp=chrome&type=ws&sni=plaza.ir#Channel id: @proxy_kafee 🇩🇪
+vless://f599eb06-508a-4e24-9d59-4c50bf0332b9@91.98.79.239:443?path=/JCG7HcKpCWxijB2NRTLOucUnG4RrGx&security=tls&alpn=http/1.1&encryption=none&host=plaza.ir&fp=chrome&type=httpupgrade&sni=plaza.ir#Channel id: @ShadowProxy66 🇩🇪
