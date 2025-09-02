@@ -39,7 +39,6 @@ vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=none
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://b4539287-4fb2-4baa-a522-c7212a1207fc@alm.hotspoto.news:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://b47cac74-0fe9-4138-a8a0-0a039ae84621@ng.grizzzlyyyy.ir:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#t.me/entryNET/config=1842167827398332
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇩🇪[Telegram:NetifyVpn]
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#@AblNet7 🇮🇷 ن
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#@Selinc
@@ -253,3 +252,4 @@ vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&enc
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون ☃️
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.216.235:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.216.235:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون ☃️
