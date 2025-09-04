@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&encryption=none&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&headerType=none&fp=chrome&type=tcp&sni=www.xinghuaequip.com&sid=83#@IRAN_V2RAY1
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&encryption=none&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&headerType=none&fp=chrome&type=tcp&sni=www.xinghuaequip.com&sid=83#@V2ray1_Ng
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&encryption=none&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&headerType=none&fp=chrome&type=tcp&sni=www.xinghuaequip.com&sid=83#🇺🇲@FreakConfig
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#@AblNet7 🐔
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#@v2rayng_fars
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#🇨🇵v2rayng (FR)🔐-confegraigan
@@ -253,3 +250,6 @@ vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encry
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#Channel id: @proxy_kafee 🇹🇷
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36&type=tcp&headerType=none#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#🇹🇷 @FREEV2RNG
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://e1103da3-811a-4543-a1db-2bdf31a895dd@m58a.vip784.com:33801?security=&encryption=none&host=Dropcube--Dropcube--Dropcube&headerType=http&type=tcp#@Dropcube
+vless://e1103da3-811a-4543-a1db-2bdf31a895dd@m58a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Dropcube
