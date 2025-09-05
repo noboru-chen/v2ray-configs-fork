@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Gq9UTAqjl9@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28231%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://G1s7VYEyAe@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F20379%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
-trojan://OBYMYoqYAL@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F17188%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
 trojan://uOFIsGRP5W@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F50255%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
 trojan://gTVV0J43jN@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28985%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
 vless://ebb34cb0-93d6-4fb0-86f5-663eb18c949e@news.farsonline24.ir:443?encryption=none&security=tls&fp=chrome&type=httpupgrade&path=%2F12032%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
@@ -217,11 +214,11 @@ hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@176.124.204.248:44
 
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@[2a0b:4140:b6c4::2]:443?obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&sni=slack.com#%40Rayan_Config%2069
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%204
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%202
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%203
 
@@ -253,3 +250,6 @@ vmess://eyJhZGQiOiIxNzIuNjYuNDAuOTkiLCJhaWQiOiIwIiwiaG9zdCI6InoubG9vbG9vbG9vbG9v
 
 vmess://eyJhZGQiOiIxODUuMTI2LjI1NS43OCIsImhvc3QiOiJyZWFsLmdldGFmcmVlbm9kZS5zYnMiLCJzbmkiOiJ6dWxhLmlyIiwiaWQiOiI5YTg2YmZjYS02MGYwLTQzNzAtYjc1OS1mOGM0Y2E4YmEzNDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MjkxOTYsInBzIjoiS3lpdi1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
 
+vmess://eyJhZGQiOiIxODUuMTI2LjI1NS43OCIsImhvc3QiOiJyZWFsLmdldGFmcmVlbm9kZS5zYnMiLCJzbmkiOiJ6dWxhLmlyIiwiaWQiOiIwYjBhMTBhNy1kZDg0LTRiYjctYTZmZC0xN2Q3OTcxZGY4ZDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MjkxOTYsInBzIjoiS3lpdi1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
+
+vmess://eyJhZGQiOiIxODUuMTI2LjI1NS43OCIsImhvc3QiOiJyZWFsLmdldGFmcmVlbm9kZS5zYnMiLCJzbmkiOiJ6dWxhLmlyIiwiaWQiOiIyNmEwOTlhMS0yNzA4LTQ4NDUtOWE4Yi1lMTViMTY0NWJhODMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MjkxOTYsInBzIjoiS3lpdi1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIiwic2VjdXJpdHkiOiJ0bHMiLCJhbGxvd0luc2VjdXJlIjpmYWxzZSwic2VydmVyTmFtZSI6Inp1bGEuaXIiLCJwZWVyIjoienVsYS5pciIsImZpbmdlcnByaW50IjoiY2hyb21lIn0=
