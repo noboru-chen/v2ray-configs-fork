@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?@&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#singbox1
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?JOIN---PLANB_PROXY&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇩🇪[All] قطع شدی بیا چنل👉@TEHRANARGO
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@i10VPN 🚀| با ما متصل بمون⚡
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#Telegram : @Alfa_v2ray_ng 🔥
@@ -195,6 +193,7 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.56.112:80?path=/BaRAyeIran?e
 vless://148ab94f-a243-4125-b0cc-464686fb9388@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷join @Evay_vpn🚀
 vless://148ab94f-a243-4125-b0cc-464686fb9388@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷join @Evay_vpn🚀  🛍برای کانفیگ های بیشتر جوین بشید :  @Evay_vpn | @Evay_vpn @Evay_vpn | @Evay_vpn @Evay_vpn
 vless://149a8387-ad23-4849-81b3-ec6e79d20790@91.107.251.143:6745?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://14b4a97c-0fd8-4ea0-9939-d9d7c8a2cd8b@dash.mamadpanelnew.ir:443?security=reality&encryption=none&pbk=r-Ds91L4Oo0czhcGYVhEQEffz4xft_VacMeoPJr9TnU&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=a5796b8c43f718#@V2RAYROZ
 vless://14b4a97c-0fd8-4ea0-9939-d9d7c8a2cd8b@dash.mamadpanelnew.ir:443?security=reality&encryption=none&pbk=r-Ds91L4Oo0czhcGYVhEQEffz4xft_VacMeoPJr9TnU&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=a5796b8c43f718#[🇩🇪]@confegraigan
 vless://14ccded0-d192-4a52-96d6-92ed10139cbe@www.speedtest.net:8880?type=httpupgrade&path=/@ZedBaz_vpn@ZedBaz_vpn@ZedBaz_vpn@ZedBaz_vpn?ed=2560&host=w1.wtezar.site&security=none#@ZedBaz_vpn
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn.chandplus.com#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,3 +252,4 @@ vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.96:443?mode=stream-one&pa
 vless://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@164.38.155.245:443?path=/pLmdwS3fSrE9WwdgE3LdG2?ed=2560&security=tls&encryption=none&host=cdn-de.maviks.ru&type=ws&sni=cdn-de.maviks.ru#@bad_raqs
 vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@164.38.155.245:443?path=/pLmdwS3fSrE9WwdgE3LdG2?ed=2560&security=tls&encryption=none&host=cdn-de.maviks.ru&type=ws&sni=cdn-de.maviks.ru#@bad_raqs   @bad_raqs
+vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@164.38.155.245:443?path=/pLmdwS3fSrE9WwdgE3LdG2?ed=2560&security=tls&encryption=none&host=cdn-de.maviks.ru&type=ws&sni=cdn-de.maviks.ru#@v2ray313 کانالمون 💋
