@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://dc3ec902-bd54-4556-ac02-657ad6830d63@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46151-1
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#@Mrconfig_Channel 🩵
 vless://dc4b13cf-f231-4c2e-d037-5185628e7232@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@62.212.70.108:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -252,4 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638855440313811037.rasht-drc-tusaba
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=&type=grpc&encryption=none#@awlix_ir
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&type=grpc&encryption=none#@awlix_ir
