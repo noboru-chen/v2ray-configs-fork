@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#@Golestan_VPN - 👈 کانفیگ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#@V2RAYNG_1378
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#@AYMH19 کانال تلگرام
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzczA2d2ZWc1JpVkk=@83.217.9.210:443#𝗝𝗼�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzczA2d2ZWc1JpVkk=@83.217.9.210:443#🇹🇷[Telegram:v2rayng_fars]
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#💎 @AblNet7 💎
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#@HiByeVPNN👈❤️‍🔥🧑‍💻
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#All-@IRAN_V2RAY1
