@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&security=tls&alpn=http/1.1&encryption=none&host=vngsupply.ip-ddns.com&fp=chrome&type=ws&sni=vNgSUppLy.IP-dDnS.COm#@bad_raqs
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@159.246.55.6:8880?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@168.100.6.100:8880?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -252,4 +253,3 @@ vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stre
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2RAYROZ
 vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
