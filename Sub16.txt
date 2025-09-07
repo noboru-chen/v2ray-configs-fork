@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#@IRAN_V2RAY1
+vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#@i10VPN 🚀| با ما متصل بمون⚡
+vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#[🇩🇪]@confegraigan
+vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#→ @Hddify
 vless://41918f0b-d0c4-401c-841b-c78ea5e29898@ov-germany7.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@Daily_Configs
 vless://41abb902-765f-426a-ace8-55eea764a9f8@www.speedtest.net:2087?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&security=tls&alpn=http/1.1&encryption=none&host=amin.amin-app.ir&fp=chrome&type=ws&sni=amin.amin-app.ir#r♡yaッ
 vless://41abb902-765f-426a-ace8-55eea764a9f8@www.speedtest.net:2087?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&security=tls&alpn=http/1.1&encryption=none&host=amin.amin-app.ir&fp=chrome&type=ws&sni=amin.amin-app.ir#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠همه اپراتورها
@@ -84,6 +88,7 @@ vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#Telegram: @Academi_vpn
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://43c06dde-b530-4536-a9d7-ba7bccb6d0dd@www.speedtest.net:80?path=/ali&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&type=ws#@AYMH19+کانال+تلگرام
+vless://43c924ba-d1ca-4783-a87e-1f63f191fa26@tab2.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#r♡yaッ
 vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@138.197.149.46:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#r♡yaッ
@@ -243,13 +248,8 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&sec
 vless://46e8ae7b-07cb-4c89-b95d-5ce04299b303@194.87.148.104:34920?encryption=none&security=none&type=xhttp&path=/&mode=auto#@Golestan_VPN - JOIN
 vless://46f4a495-b6ec-4aa3-9eb3-1ddd5afe3193@srv.cactusdomain.site:58911?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@NETMelliAnti
 vless://46fc67a5-a457-46cc-8b78-f6253f187962@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46161-1
+vless://4718a7fa-e31c-43f1-9347-0f900028d737@tab2.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#r♡yaッ
 vless://4728a141-e008-466b-bf99-119182d60ee0@GB.amirconfigpaanelllll.com:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@Daily_Configs
 vless://4728a141-e008-466b-bf99-119182d60ee0@Ger.amirconfigpaanelllll.com:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@Daily_Configs
 vless://4728a141-e008-466b-bf99-119182d60ee0@TR.amirconfigpaanelllll.com:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@Daily_Configs
 vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?encryption=none&security=none&type=httpupgrade&host=n-cloud.ip-venzo.com.&path=/?ed=2560#@Daily_Configs
-vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?encryption=none&security=none&type=httpupgrade&host=vips1.ip-venzo.com.&path=/?ed=2560#@Daily_Configs
-vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?encryption=none&security=none&type=httpupgrade&host=vips4.ip-venzo.com.&path=/?ed=2560#@Daily_Configs
-vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?path=/?ed=2560&security=none&encryption=none&host=n-cloud.ip-venzo.com.&type=httpupgrade#@Daily_Configs
-vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?path=/?ed=2560&security=none&encryption=none&host=n-cloud.ip-venzo.com.&type=httpupgrade#@NETMelliAnti
-vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?path=/?ed=2560&security=none&encryption=none&host=n-cloud.ip-venzo.com.&type=httpupgrade#🇳🇱@FreakConfig
-vless://4728a141-e008-466b-bf99-119182d60ee0@azizisearch.com:8880?path=/?ed=2560&security=none&encryption=none&host=vips4.ip-venzo.com.&type=httpupgrade#@Daily_Configs
