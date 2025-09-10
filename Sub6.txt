@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://56c852c2-9517-4c13-ae18-bf0bee41706a@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
+trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrgAsHzTP8d&security=tls&alpn=http/1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#@CaV2ray ⚡️
+trojan://62e4250a-fe02-40cc-ad32-c847389956cd@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
+trojan://62e4250a-fe02-40cc-ad32-c847389956cd@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://62e4250a-fe02-40cc-ad32-c847389956cd@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&headerType=none#@Golestan_VPN - JOIN
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
@@ -55,7 +59,6 @@ trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#⚜️Telegram: @IP_CF
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
-trojan://slch2024@185.148.104.195:2096?security=tls&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842895057023479
 trojan://slch2024@185.148.107.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @singbox1 🇳🇱
 trojan://slch2024@185.18.184.195:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@Daily_Configs
 trojan://slch2024@185.251.81.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇪🇸
@@ -80,7 +83,6 @@ trojan://slch2024@216.205.52.195:2096?path=Telegram&security=tls&host=ocost-dy.w
 trojan://slch2024@216.24.57.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]
 trojan://telegram-id-directvpn@15.188.198.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842906947326390
 trojan://telegram-id-directvpn@15.237.71.39:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842903172367577
-trojan://telegram-id-directvpn@3.121.4.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842895434653596
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&fp=chrome&type=ws&host=ttfang.fange.me&path=/Telegram#@Daily_Configs
@@ -251,5 +253,3 @@ vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.53.11:8880?security=none&enc
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@AblNet7 🇺🇲
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@Selinc
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=/7YVyoVNnbaVzgl6D?ed=2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#سرورهای رایگان و پرسرعت : Alfa_v2ray_ng@
