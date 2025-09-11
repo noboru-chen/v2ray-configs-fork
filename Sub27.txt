@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
@@ -253,3 +252,4 @@ vless://b24185c0-f815-48c8-b93c-ae82f7c8e493@5.75.204.151:85?security=none&encry
 vless://b243c2ae-83cf-4721-f777-72895c68183d@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
 vless://b280b8b6-4ab1-4d2e-82f0-9cac82ad3116@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://b280b8b6-4ab1-4d2e-82f0-9cac82ad3116@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=coco.mahmoodchitooz.dpdns.org#@CaV2ray ⚡️
