@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2rayngvpn%3A%3AFR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%3E%3E%40vmess_vless_v2rayng%3A%3ANL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40V2rayNG3%3A%3AFR
 vless://4c360a19-8d5d-4c7b-b2cd-a4825714554a@161.35.184.205:2053?security=reality&encryption=none&pbk=G6mshB36vZocfQp04RGcOjWFs52JjJhdvpI7wApQf00&headerType=none&fp=chrome&type=tcp&sni=www.openstreetmap.org&sid=d7#%3E%3E%40v2rayngvpn%3A%3AUS
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.161:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%3E%3E%40V2rayNG3%3A%3ANL
@@ -253,3 +250,6 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@185.200.240.188:443?security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20111
 
 vless://6fae85ca-395a-4f27-9eb2-75123befc475@188.225.80.183:443?security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20107
+
+vless://6fae85ca-395a-4f27-9eb2-75123befc475@94.26.228.68:443?security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20109
+
