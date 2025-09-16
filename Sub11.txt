@@ -73,6 +73,7 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@f5.sarasimano.com:2096?path=/&secur
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f9.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=GfN07.alaNHIAHo.COm#Channel : @Mrsoulb 🏴🏳
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=GfN07.alaNHIAHo.COm#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=gFn06.AlaNHIaHO.COM#Channel : @Mrsoulb 🏴🏳
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@EXPRESSVPN_420.fAst.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@EXPRESSVPN_420
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-6
 vless://507c8350-7257-4ed3-92f8-2421be601c02@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46164-2
@@ -252,4 +253,3 @@ vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&secur
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=o9.gerlemondns.info&fp=chrome&type=ws&sni=o9.gerlemondns.info#🇫🇮@FreakConfig
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=smn2.gerlemondns.info&type=ws&sni=smn2.gerlemondns.info#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@65.109.214.71:80?path=/hjgfdws&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@91.107.255.211:80?path=/hjgfdws&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
