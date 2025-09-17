@@ -183,7 +183,6 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp&security=none&encryption=none&fp=chrome&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@HiByeVPNN👈⚡❤️‍🔥
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp?ed=2048&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.240.122:443?mode=stream-one&path=/xhttp?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
@@ -253,3 +252,4 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.24:443/?type=ws&encryptio
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.25:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.26:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.27:443?path=/?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&fp=chrome&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
