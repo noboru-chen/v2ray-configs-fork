@@ -4,8 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.farvaharforever.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2d1.farvaharforever.com&encryption=none#%40Rayan_Config%2034
-
 vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.makingirangreatagain.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&encryption=none#%40Rayan_Config%2035
 
 vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.makingirangreatagain.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2d1.makingirangreatagain.com&encryption=none#%40Rayan_Config%2033
@@ -253,3 +251,5 @@ ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B9%F0%9
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@45.89.52.66:9011#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-4907
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.25-0258
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-0303
+vmess://ewogICAgImFkZCI6ICI0Ny44My4xNjIuNCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiM2ZkMjY2YmMtNzY5MS00M2NmLWE4MmYtMGM5NzYxYTY5YmYwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDQwODczLAogICAgInBzIjogIvCfh63wn4ewSEstNDcuODMuMTYyLjQtNTEyOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-4789

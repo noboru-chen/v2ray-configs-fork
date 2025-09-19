@@ -70,13 +70,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZnI=@fr-2.s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM=@us-4.stunnel.cc:8444#[Shadowsocks] astrovpn_official-🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfY2E=@ca-1.stunnel.cc:8444#AstroVPN_Official 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#[Shadowsocks] astrovpn_official-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZ2I=@gb-1.stunnel.cc:8444#AstroVPN_Official 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZWU=@ee-1.stunnel.cc:8444#AstroVPN_Official 🇪🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfc2c=@sg-3.stunnel.cc:8444#AstroVPN_Official 🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfcGw=@pl-1.stunnel.cc:8444#AstroVPN_Official 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfcGw=@pl-1.stunnel.cc:8444#AstroVPN_Official 🇵🇱  trojan://tunnel-astrovpn_official_pl@pl
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdXM=@us-1.stunnel.cc:8444#AstroVPN_Official 🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fcHQ=@pt-1.stunnel.cc:8444#AstroVPN_Official 🇵🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dkhHaGVXd1M2MVFlS29GUnRaVnM2@194.87.45.189:443#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@103.215.218.73:808#💎 @AblNet7 💎
@@ -253,3 +250,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Irancell--@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqODg3TTlEeFd6ZDVKcTk3MWUzWTFC@94.159.96.245:11902#🇩🇪 Frankfurt am Main, HE, Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSEg4S2dmZDZJWHB2eDJzdkNWRzFI@5.188.181.41:8443#@HiByeVPNN👈⚡❤️‍🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWm9aWnFPUXZWUGRtREZ5OUR5VjZZ@94.159.96.245:11902#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#@HiByeVPNN👈⚡❤️‍🔥
