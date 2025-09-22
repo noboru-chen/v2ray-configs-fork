@@ -4,6 +4,8 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&sni=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&path=/fqogayws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&encryption=none#@Rayan_Config%2072
+
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=/holhclws&encryption=none#@Rayan_Config%2075
 
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&fp=chrome&type=ws&path=/holhclws&encryption=none#@Rayan_Config%2073
@@ -251,5 +253,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0255
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.130-0184
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0181
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0263
