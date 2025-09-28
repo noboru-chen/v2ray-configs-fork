@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://490b3514-d0a5-47c9-93d4-7d115319121a@65.109.204.177:443?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1844487802326150
 vless://490b3514-d0a5-47c9-93d4-7d115319121a@65.109.204.177:443?path=/&security=none&encryption=none&type=ws#🇫🇮Telegram:tik7net_vpn
 vless://490b3514-d0a5-47c9-93d4-7d115319121a@65.109.204.177:443?type=ws&encryption=none&path=/&host=&security=none#t.me/entryNET/config=1844487172873306
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#telegram 🎯 v2ray_configs_pools
@@ -252,4 +253,3 @@ vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?securit
 vless://536b4499-005d-4b60-a268-d487babb5424@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@Selinc
 vless://537fd084-1078-4fc6-bec6-dad70fc96297@178.162.244.178:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@AYMH19+کانال+تلگرام
 vless://5392b778-68af-483c-9540-81a4a1ab6d3d@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-5fx6dtc9
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?security=&type=ws&path=/LwW5jwrnymnOdqki?ed=2560&host=redw.pooriam.ir&encryption=none#@awlix_ir
