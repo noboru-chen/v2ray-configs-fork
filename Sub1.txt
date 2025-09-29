@@ -224,10 +224,9 @@ hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dai
 hysteria2://dailyconfigschannel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%237
 hysteria2://dailyconfigsdailyconfigsdailyconfigsdailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%238
 hysteria2://df36ace8-640b-42bb-8169-198901af6d9e@185.184.68.7.sslip.io:46129?insecure=1&obfs=salamander&obfs-password=JBPVtqk1kMBGleBcLZ#%40Daily_Configs%20%2310
-hysteria2://joinbededailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#%40Daily_Configs%20IPv4
 hysteria2://joindailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%C2%AB%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...
 hysteria2://joindailyconfigschanel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2311
-hysteria2://kanale_dailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#%40Daily_Configs%20IPv4%20%231
+hysteria2://kanale_dailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#%40Daily_Configs%20IPv4
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:28777?insecure=1&obfs=salamander&obfs-password=wcancmaocnewrivbkacmlmsvwuvdfsv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 hysteria2://lHoYmNZmLe@pouria.3dfigures.ir:53713?insecure=1&obfs=salamander&obfs-password=uvahwuicbhwabhvlhv#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig%20%231
 hysteria2://mahsaamini@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=sk8JqhGcrazoMtCeqlBX76nwlPaypmnP#%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...%20%234
@@ -253,3 +252,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNTQu
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6Z+p5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQ1Ljk0LjY4LjEzIiwgInBvcnQiOiAiMTA3NTUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYTg0NGIyODktNmZkNy00MDdiLTgzMTItZDYwMGVjMmVmY2Q0IiwgInNuaSI6ICIifQ==
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.42:38388#%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi5Y2w5bqm5bC86KW/5LqafEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInBweS1ib2FyZHYyLjAyaWpwNHVvczEuZG93bmxvYWQiLCAicG9ydCI6ICIyNjE0NCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhYTE1Yjk3YS0yNGIxLTNhMzEtODI0YS1iYzUyZjVhMTViYWMiLCAic25pIjogIiJ9
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@94.140.0.32:2096?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#AE_speednode_0001
