@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.199:8080#🔐 @AblNet7 🇳🇱 The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#All_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#@AYMH19 کانال تلگرام
@@ -10,7 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#telegram 🎯 v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@vip.nl-16-07.galaxymc-ssh.ir:8080#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#Channel id: @ShadowProxy66 🇸🇪
@@ -29,9 +30,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#Channel id: @ShadowProxy66 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@freenettir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@vmesskhodam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#🇸🇪Telegram:tik7net_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#Bya To @IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@CaV2ray ⚡️
@@ -55,7 +57,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🇳🇱 Amsterdam, NH, The Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🔐 @AblNet7 🇳🇱 Amsterdam, NH, The Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotcVY1eVJVQWVBYld4UUVJekZEbHRB@31.57.92.102:1080#🇦🇪[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotcVY1eVJVQWVBYld4UUVJekZEbHRB@31.57.92.102:1080?note=--Telegram--@NetifyVPN--#🇦🇪[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotcVY1eVJVQWVBYld4UUVJekZEbHRB@31.57.92.102:1080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇮]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovWVZXT0YrVGlJcmZkUFVyenJ3U2RGazVLRFBTdDJPR3hiZjR2UnlBOElZPQ==@167.71.195.230:56399#🇺🇸 - @FREEV2RNG 17
@@ -124,7 +125,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#⚜️Telegram: @IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxCaG9rNWx2alI=@83.217.9.4:443#@HiByeVPNN👈❤️‍🔥⚡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg=@62.60.233.233:443#🇹🇷[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg=@62.60.233.233:443#🔐 @AblNet7 🇹🇷 Istanbul, 34, Türkiye
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg@62.60.233.233:443?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZzBPRjhvUXlnVVBuSEV0WEpQSTVO@94.159.96.245:11902#🇩🇪 Frankfurt am Main, HE, Germany
@@ -134,13 +134,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UUZYcjNtbXhLZ3VybVV4S0FNQkdu@188.190.4.212:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:18685#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:18685#Channel id: @ShadowProxy66 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:18685#rt
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:18685#🇹🇷[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:18685#🔐 @AblNet7 🇹🇷 Istanbul, 34, Türkiye
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aDJLMHFWVk42ZlRaQUpGc2J1NkRx@62.60.233.220:18685?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZEVvNmh5QTh4NmNqNzlxVlFtWUFv@170.80.109.204:8756#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZEVvNmh5QTh4NmNqNzlxVlFtWUFv@170.80.109.204:8756#@freenettir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZEVvNmh5QTh4NmNqNzlxVlFtWUFv@170.80.109.204:8756#Channel id: @ShadowProxy66 🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZEVvNmh5QTh4NmNqNzlxVlFtWUFv@170.80.109.204:8756#🇧🇷[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZEVvNmh5QTh4NmNqNzlxVlFtWUFv@170.80.109.204:8756#🔥@AblNet7 🇮🇷 نت ملی 🔥- Brazil
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZEVvNmh5QTh4NmNqNzlxVlFtWUFv@170.80.109.204:8756?note=--Telegram--@NetifyVPN--#🇧🇷[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4d2hKS1FHVTZFQnRDUVd3U2Y0a09r@95.181.162.236:20904#🇳🇱@vpnserverrr کانال تلگرامی👨🏻‍🏫
@@ -150,7 +148,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cDllaTNQOFdXNm51Y05YSUk0VlNn@65.109.217.125
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cDllaTNQOFdXNm51Y05YSUk0VlNn@65.109.217.125:1080#siq
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cDllaTNQOFdXNm51Y05YSUk0VlNn@65.109.217.125:1080#🟦HamrahAval
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cDllaTNQOFdXNm51Y05YSUk0VlNn@65.109.217.125:1080?note=--Telegram--@NetifyVPN--#🇫🇮[Telegram:NetifyVpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5eldhaHZiM01lQkV4NDgwOTJYWGtQ@31.57.24.53:443?note=--Telegram--@tik7net_vpn--#🇦🇪[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#⚜️Telegram: @IP_CF 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#🇳🇱𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -163,7 +160,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCSjVuRFpUdWxtWXpuSHZIWGhTNloz@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@74.177.119.255:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#@awlix_ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDczdZRW03Q0RwTldZRURRV2NyWFhj@62.133.63.21:65262?note=--Telegram--@tik7net_vpn--#🇹🇷[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZmQ5RnBqa0FVSHRYbVdJMEhtVXZx@94.159.96.245:11902#🇩🇪 Frankfurt am Main, HE, Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0E3T3hTYWJSdHRQSnpPOUNjZjdM@162.243.245.151:31100#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbEtIMUhLdVF1VzZ1UlR0c2VMWUI4@94.159.96.245:11902#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -174,22 +170,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#🇩🇪 - @FREEV2RNG 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVGJWOExhc0J3NGI4TTB2RUlyell2@193.29.12.15:8443#Channel id: @ShadowProxy66 🇷🇴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVGJWOExhc0J3NGI4TTB2RUlyell2@193.29.12.15:8443#🇷🇴[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVGJWOExhc0J3NGI4TTB2RUlyell2@193.29.12.15:8443?note=--Telegram--@NetifyVPN--#🇷🇴[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaFlFdWZucTlNOXl2Z0FjMXlsdmZx@165.22.61.177:18336#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIOHN3eE5hV0dhb2FKbDFwaFpDV2Fm@188.132.237.3:8443#Channel id: @ShadowProxy66 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#🇩🇪 - @FREEV2RNG 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT085aHR0WDFWUWdXVkJWcEVrbnpt@45.95.232.236:4248#🇨🇭[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT085aHR0WDFWUWdXVkJWcEVrbnpt@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🇨🇭[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT085aHR0WDFWUWdXVkJWcEVrbnpt@45.95.232.23:4248#@V2rayNGVPN <= کانفیگ رایگان
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT085aHR0WDFWUWdXVkJWcEVrbnpt@45.95.232.23:4248@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#All_@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Channel id: @ShadowProxy66 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?type=tcp#@FREE_VPN02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNlFLaEVWQVhaSVk3cWcydU9sb0U0@45.132.1.139:4143#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLS1M0NzYwWlI0MWd2SnJ2d1FuQ28w@45.95.232.236:4248#🇨🇭[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLS1M0NzYwWlI0MWd2SnJ2d1FuQ28w@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🇨🇭[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjZuQUxiQnNmWTgycTQxNlFWU0FR@167.253.156.226:8443#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjZuQUxiQnNmWTgycTQxNlFWU0FR@167.253.156.226:8443#Channel id: @ShadowProxy66 🇯🇵
@@ -201,10 +193,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1Qdmt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#All-@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#@freenettir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#Channel id: @ShadowProxy66 🇦🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#🇦🇲71@vpnserverr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443?note=--Telegram--@NetifyVPN--#🇦🇲[Telegram:NetifyVpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM=@83.217.9.64:443#🇹🇷 Istanbul, 34, Türkiye
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM=@83.217.9.64:443#🇹🇷64@@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM=@83.217.9.64:443#🔐 @AblNet7 🇹🇷
@@ -230,6 +224,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRR2h6enE3NHc5T3FmbkpyMG1adER6@62.60.247.135:19099#@Hddify
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🇳🇱NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOU1vOTlWTWZkbXBiWGRGbnZKNHdj@45.95.232.236:4248#@V2RAYROZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#t.me/entryNET/config=1844935815422386
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#@AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUDc2N2pwWlZhcnpRMGlJMHZiVHVB@78.40.117.109:37538#Channel id: @ShadowProxy66 🇸🇪
@@ -253,3 +248,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.248.143:443#🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#All--@Iran_V2ray1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc=@77.83.245.50:443#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc=@77.83.245.50:443#[🇹🇷] @Hddify
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#@HiByeVPNN👈⚡❤️‍🔥
