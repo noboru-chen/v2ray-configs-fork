@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=grpc&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&mode=multi&security=tls&encryption=none&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@FILTERK0SH
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@zula.ir:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@v2ray_configs_pools&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@zula.ir:443?path=/v2ray_configs_pools-AD192.3.113.4-19318?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://0fc64b29-50d1-4c71-ab10-a6d7321aab80@31.57.108.206:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#telegram 🍊 v2ray_configs_pools
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -250,6 +253,3 @@ vless://1a9e235e-d08f-480a-bbaa-1c0c8305d7b8@biapin.isvcloud.ir:54135?mode=auto&
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@103.249.133.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=eAKw1k-H2cuw0AsjNH-3RG2RBHOZCPz8qQp-i5W-Zkk&sid=f73895c725c3&spx=/BjbMH0KJ2gNtut1#⚡️🇫🇷 @SiNAVM | 3
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@217.198.12.224:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=cBJsDdArckzyAvjzcqF_cK9Rpts2Lxq1oqj-b9_HeQ8&sid=46fe77b51a66&spx=/y3vtypp2mJH2n5t#⚡️🇩🇪 @SiNAVM | 2
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@31.130.144.71:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=yztUVLV8sjyLIT581lq8JA6fBOsymtiX3W0HMojqfGY&sid=76&spx=/L8hg8jHLHgxBj5d#⚡️🇩🇪 @SiNAVM | 1
-vless://1ab44c12-1462-422e-aeab-aaa025636f61@62.60.176.164:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=lIziyIMqT_eVG87EqNB97p9SPiDW4DXIFMm-J0SbAWY&sid=ed&spx=/9QJOqxFGeUJiZ9a#⚡️🇺🇸 @SiNAVM | 4
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@109.205.56.216:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🔐 @AblNet7 🇷🇺 🎦Youtube ✅
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@138.124.116.112:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🔐 @AblNet7 🇸🇪 Швеция ✅
