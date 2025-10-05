@@ -56,7 +56,6 @@ vless://9250a511-dea1-4240-84ad-d46b68151ede@www.speedtest.net:8080?type=ws&host
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/awd/?@MARAMBASHI_MARAMBASHI?ed&mode=stream-one#@Daily_Configs
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@i10VPN?ed=2048&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss86489.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/awd&mode=stream-one#@Daily_Configs
 vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?security=none&encryption=none&type=ws&host=hrtv.numall.xyz.&path=/#mci-mtn🇬🇧[Awlix_ir]
 vless://930989fd-61dd-4d18-a895-e48892acb32e@54.36.112.160:25365?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
 vless://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel : @vmessorg🏴🏳
@@ -145,6 +144,7 @@ vless://9bd063f6-6870-4e94-a76a-d71ec9de50d0@94.156.232.187:8880?security=none&e
 vless://9bd8537b-32cf-4a98-bc1a-d1d5a64e1164@digitalocean.com:8880?path=@Rayan_Config&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-pRo-3.rAyAn-3.cLoUdNs.pRo&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://9c3da3df-b420-4e3e-8dcd-55243fa1c7a5@172.66.40.99:8880?type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.elmahstyle.xyz.&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2048&security=none#czhswxea
 vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
+vless://9c56133d-82fd-43b5-ae0f-2ce174c0458c@64.226.111.122:443/?type=xhttp&encryption=none&flow=&sni=store.steampowered.com&fp=chrome&security=reality&pbk=QDNHZEGnnTQIR4p8qRAW755iArDl0ISjbYP-KkRR7XE&sid=#t.me/entryNET/config=1845161804186492
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----azadiiivpn---Join----azadiiivpn&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#ALL@azadiiivpn
 vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?path=/@v2ray_configs_pools/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🚀 @v2ray_configs_pools
 vless://9cd93450-6100-4dcd-99f3-6c86b8c5431e@91.98.139.132:44016?flow=&type=tcp&headerType=none&security=none#tChannel : @vmessorg🏴🏳

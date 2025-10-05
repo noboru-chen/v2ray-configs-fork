@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@45.95.233.8:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#FR_speednode_0011
 vless://192ea2c7-d7d0-6676-2929-b04a072b387d@178.20.215.2:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0012
 vless://ed97e008-2b8d-4415-94c7-3da4919d361a@94.241.171.153:443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IR_speednode_0013
 vless://ed97e008-2b8d-4415-94c7-3da4919d361a@yt.connect-iskra.ru:443?allowInsecure=0&sni=deepl.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IR_speednode_0014
@@ -201,7 +200,6 @@ hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?note=JOIN--
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#@IRAN_V2RAY1
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#All-@IRAN_V2RAY1
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#@sunflowerplato🌻
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1#@Daily_Configs
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?security=tls&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW&insecure=1&mport=30101-30199&sni=de.youyacloud.me#All-@IRAN_V2RAY1
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@Daily_Configs
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#@IRAN_V2RAY1
@@ -253,3 +251,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#telegram 🎯 v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#All-@IRAN_V2RAY1
