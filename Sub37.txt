@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9cf69f8e-893e-4a99-aa5f-a9d330f97b06@us1.projecthope.ir:8080?path=%2FFasSoortbhhPssnvfsgnq%40ed%3D2560&security=&encryption=none&type=ws#%40NoForcedHeaven%F0%9F%87%BA%F0%9F%87%B8`
-vless://9cf69f8e-893e-4a99-aa5f-a9d330f97b06@us1.projecthope.ir:8080?encryption=none&security=none&type=ws&path=%2FFasSoortbhhPssnvfsgnq%40ed%3D2560#%40Daily_Configs
-vless://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&type=tcp&headerType=none#%40Daily_Configs
-vless://2d0c13f6-5b99-4ed8-9f88-3a6972f85e9f@141.227.168.52:33288?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram%3Atik7net_vpn%20%F0%9F%87%B1%F0%9F%87%BA
-vless://b75854a3-f56d-4242-ae6b-d47bfc504b63@141.227.180.39:22288?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram%3Atik7net_vpn%20%F0%9F%87%B7%F0%9F%87%B4
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@38.180.27.102:8080?encryption=none&security=reality&sni=yandex.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4&type=tcp&headerType=none#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2_MOD_SHOP%20-%20%F0%9F%87%A8%F0%9F%87%B5%20%E2%9A%A1%20%7C
 vless://turboo-server@jone.fast-turbooserver.com:8443?path=%2FTurboo-Server&security=none&encryption=none&type=ws#%40V2_MOD_SHOP%20-%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%9A%A1%20%7C`
 vless://7a5c388c-5f5f-462b-826e-8c32e539ebbc@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#%40V2_MOD_SHOP%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20%7C
