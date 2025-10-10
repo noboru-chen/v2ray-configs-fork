@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram 🍀 v2ray_configs_pools
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server681306348952527243.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server79787566814164569.tas-bazi.com:443?mode=stream-one&path=/frf&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇹🇷 | @External_Net
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=/lfcinsws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG
@@ -250,6 +253,3 @@ vless://5efdff80-1165-414c-b784-db12cab0b250@www.speedtest.net:2082?path=/@spike
 vless://5f688e31-b35b-434c-9a48-1b694b886a22@a.de.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5&type=tcp&headerType=none#@Daily_Configs
 vless://5f688e31-b35b-434c-9a48-1b694b886a22@a.de.maviks.ru:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=f203719d3ff9a5f5#@i10VPN 🚀| با ما متصل بمون⚡
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@172.67.223.154:443/?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=jnir-cdn.29394900.xyz&type=ws&sni=jnir-cdn.29394900.xyz#t.me/entryNET/config=1845613406433424
-vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@172.67.223.154:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=jnir-cdn.29394900.xyz&type=ws&sni=jnir-cdn.29394900.xyz#Telegram:tik7net_vpn - 🇨🇦 ⚡ |
-vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=jnir-cdn.javidnaman.com&type=ws&sni=jnir-cdn.javidnaman.com#🔥@AblNet7 🇮🇷 نت ملی 🔥
