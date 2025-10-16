@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5ea6aa01-27bb-48ff-9331-173d40626ee8@151.101.3.8:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#@V2RAYROZ
 vless://5ea6aa01-27bb-48ff-9331-173d40626ee8@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?encryption=none&security=none&type=grpc&authority=&serviceName=DarkTeam_VPN&mode=gun#@awlix_ir
 vless://5efdff80-1165-414c-b784-db12cab0b250@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
@@ -253,3 +252,4 @@ vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2080?security=none&enc
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:2081?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
