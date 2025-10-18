@@ -74,7 +74,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=d4cbbb2:42774#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.42:2377?plugin=obfs-local;obfs=tls;obfs-host=874b20d:48331#%E6%96%B0%E5%8A%A0%E5%9D%A15%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%F0%9F%87%B9%F0%9F%87%B7telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 vless://7310ccbb-3940-4264-88cc-b3da92877395@65.109.216.38:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=tito.floorshoping22.com#%40Daily_Configs
 vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#%40meli_proxyy
 vless://d36f457f-17a9-4891-a113-322ec6792917@m23a.vip784.com:33801?security=none&allowInsecure=0&encryption=none&type=tcp&host=varzesh3.ir&path=/&headerType=http#[
@@ -253,3 +252,4 @@ hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?security=tl
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm&note=@freeOnlineVPN#🇸🇪 - SE - @freeOnlineVPN
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#All-@IRAN_V2RAY1
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#🏴‍☠️@FreakConfig
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org&note=@freeOnlineVPN#🇸🇪 - SE - @freeOnlineVPN
