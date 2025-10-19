@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://48505638-a27f-4d0c-bb1c-1b52adea0f83@Free2026.niceserver.sbs:142?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@Daily_Configs
 vless://48505638-a27f-4d0c-bb1c-1b52adea0f83@Free2026.niceserver.sbs:142?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://48505638-a27f-4d0c-bb1c-1b52adea0f83@Free2026.niceserver.sbs:142?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://48505638-a27f-4d0c-bb1c-1b52adea0f83@Free2026.niceserver.sbs:142?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +252,4 @@ vless://524d8693-d4de-49af-a62e-e1b96c73c41d@www.speedtest.net:2082?path=/@spike
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server220219218087614861.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🎪 v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram ⚡️ v2ray_configs_pools
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram 🎯 v2ray_configs_pools
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server422977785106074358.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools

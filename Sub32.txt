@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=none&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪 | @External_Net
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=ws#telegram⤿🇩🇪@V2WRAY
 vless://f5fd027b-fd87-443c-b958-6f718958c6a5@172.66.156.81:8880?encryption=none&type=ws&host=developer.SH.play.rust.cs2.skyservermd.ir.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇳🇱@Shh_Proxy | All¹
@@ -253,3 +252,4 @@ vless://turboo-sever@abc.turboo-server.com:80?path=/TurbooServer&security=none&e
 vless://turboo-sever@abc.turboo-server.com:80?path=/TurbooServer?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=none&encryption=none&type=ws#@HiByeVPNNBot👈🌿💎
 vless://turboo-sever@abc.turboo-server.com:80?path=/TurbooServer?ed=2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&security=none&encryption=none&type=ws#@V2rayNGVPN <= کانفیگ رایگان
 vless://v2ray_configs_pools-Telegram@www.speedtest.net:80?path=/v2ray_configs_pools?ed=80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#✅ @v2ray_configs_pools (تلگرام)
+vless://v2ray_configs_pools@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_v2ray_configs_pools-v2ray_configs_pools-v2ray_configs_pools?ed=2048&security=&encryption=none&host=joker.ahang-alpha.ir&type=ws#¹𝗝𝗼𝗶𝗻➠🇳🇱⭕᭄꯭@v2ray_configs_pools

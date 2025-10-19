@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#join Sho @Iran_V2ray1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#@MARAMBASHI 🇧🇷
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?encryption=none&security=tls&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO&alpn=h3,h2&fp=chrome&type=ws&path=/?ed=2048MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN--@MTMVPN#t.me/entryNET/config=1846327802978813
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@sunflowerplato🌻
@@ -253,3 +252,4 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=no
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=none&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
