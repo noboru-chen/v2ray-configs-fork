@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#@Rayan_Config-151.242.251.133-@beepassvpn_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.137:8080#@Rayan_Config-151.242.251.137-@beepassvpn_bot
 
@@ -253,3 +252,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0281
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@45.89.52.66:9014#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-5366
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.184.53:80#%F0%9F%87%A6%F0%9F%87%BAAU-3.107.184.53-0304
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.68.27.76:989#%F0%9F%87%AF%F0%9F%87%B5JP-194.68.27.76-0299
