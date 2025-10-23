@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&fp=chrome&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#%3E%3E%40oneclickvpnkeys%3A%3ASE
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#%3E%3E%40oneclickvpnkeys%3A%3ALV
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#%3E%3E%40oneclickvpnkeys%3A%3ATR
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://ab01d17f-ed9f-4546-afda-434adfd71401@45.89.105.72:443/?type=grpc&encryption=none&flow=&serviceName=b02b809d4d1b4f502c6fc275&sni=www.google.com&fp=chrome&security=reality&pbk=pwaWnYpE_MEvgwRxITFmHeSCiRJaYGyUBWh4zwDLn2w&sid=0acd50cd4ee97bb6#%3E%3E%40oneclickvpnkeys%3A%3AIN
@@ -251,5 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?security=&fp=chr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2088
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2087
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.15:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2086
