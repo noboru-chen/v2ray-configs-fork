@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@90.156.228.109:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&spx=/default&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=4bb9dbdad476124c#Germany 🇩🇪
 vless://3a602752-5b8f-4284-ad4d-3d1e7e6f410d@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://3aa3f0d8-ae20-4ead-8585-c3717c03ddd7@zula.ir:8443?type=grpc&encryption=none&serviceName=ahwaz.infinitespd.com&authority=&mode=multi&security=tls&fp=chrome&alpn=h2,h3&allowInsecure=1&sni=ahwaz.infinitespd.com#MININIGHT
 vless://3aade664-2a89-4cda-9476-d42f8f1d9ef3@Gang.FK4EVER-3.hosting-ip.com:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&path=/Chennel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=Join-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&type=ws#All🇩🇪 | @FILTERK0SH
@@ -253,3 +252,4 @@ vless://414541f1-d7d7-4e12-aa9d-2b340dfd71dd@V2ngnet.huqpmfood.ir:4455?encryptio
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2052?security=none&encryption=none&type=ws&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&path=/#[Awlix_ir]
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?security=none&encryption=none&type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#Awlix_ir
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?security=none&encryption=none&type=ws&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&path=/#[Awlix_ir]
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?security=none&encryption=none&type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=/#Awlix_ir

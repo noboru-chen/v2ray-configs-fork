@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#Channel : @Mrsoulb 🏴🏳
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@MARAMBASHI 😍
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#🏴‍☠️@FreakConfig
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#@HiByeVPNN👈🌿💎
@@ -253,3 +252,4 @@ vless://ce0e69bb-ad5a-45b5-892d-976ba5ce547c@cafearz.com:8080?encryption=none&se
 vless://ce0e69bb-ad5a-45b5-892d-976ba5ce547c@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://ce729649-f354-4100-9d7b-8fbc55099ffa@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@vmesskhodam
 vless://ce8b479d-ade1-414d-9eec-f53a80393b7d@iplocation.net:443?path=/ws&security=tls&encryption=none&host=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG#🇩🇪@FreakConfig
+vless://ce8c4726-cfab-429d-943d-fe075733bc85@test2.amin8263.ir:2095?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪 | XpnTeam - Telegrams-4o3hj6e6
