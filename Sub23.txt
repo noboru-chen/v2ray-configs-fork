@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=/&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#@IRAN_V2RAY1
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=/&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#MCI-@V2rayAlpha--16
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#@MARAMBASHI 🫰
 vless://9790bcaa-37ba-4aa2-9060-919f71553840@turkey.huqpmfood.ir:1331?encryption=none&type=xhttp&mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&fp=chrome&sni=stackoverflow.com&pbk=m8Tuf48MMB9ILy--1nfwGRPJOEbgHOdylaLS_JQ66DM&sid=89345bea5809f46d#🇹🇷 All Operator @MaSTeRSeRVeR1
@@ -253,3 +252,4 @@ vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&path=/&security=no
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#JOIN ➪@FILTERK0SH
 vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=&encryption=none&type=xhttp#2@ConfigX2ray
+vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=/&security=&encryption=none&type=xhttp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr

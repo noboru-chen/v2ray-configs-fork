@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.topfornnow.org#Channel : @Mrsoulb 🏴🏳
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.topfornnow.org#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#@Hddify
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#@sunflowerplato🌻
@@ -253,3 +252,4 @@ vless://3d4f244d-4860-4603-9546-184ee632083f@104.21.48.1:2053?path=/XJlWBmgB2NGa
 vless://3d5898fc-7183-4c36-e807-e2b9d12e9cf0@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://3d5d0b72-d5eb-4c07-a363-81c55fd7d0d2@V2ngFast.byte-server.ir:1146?encryption=none&type=xhttp&mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://3d6c7dee-7629-42a8-8ae3-a988375b5e07@ps.1ta8.xyz:8080?security=reality&encryption=none&pbk=0Pmn3ouutlDi7fdtQDBaJTgbf53FlH8YgsM148GfJiw&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=dc24f69fe46a631e#@meli_proxyy
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=/sg3?ed=2560/?ed=2048&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
