@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=&encryption=none&headerType=none&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN👈🌿💎
 vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#@sunflowerplato🌻
 vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +252,4 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?encryption=none
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?encryption=none&type=ws&path=/Telegram🇨🇳&security=tls&sni=fast01.0860852.xyz#AKLISvpn🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=/Telegram🇨🇳&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Join To : @IRAN_V2RAY1
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=/Telegram🇨🇳&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#@Daily_Configs
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=/Telegram🇨🇳&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel : @Mrsoulb 🏴🏳
