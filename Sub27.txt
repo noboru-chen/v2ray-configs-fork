@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d32f3a3e-8da0-4f1d-e8e6-6ec979a76ec6@65.109.179.171:2096?mode=gun&security=reality&encryption=none&pbk=pI3vV0SIBkPkB9kWaGCxQXzDDR_aiIqWAEnHKI9BUkg&fp=chrome&spx=/&type=grpc&sni=zula.ir#@meli_proxyy
 vless://d32f3a3e-8da0-4f1d-e8e6-6ec979a76ec6@65.109.179.171:2096?mode=gun&security=reality&encryption=none&pbk=pI3vV0SIBkPkB9kWaGCxQXzDDR_aiIqWAEnHKI9BUkg&fp=chrome&spx=/&type=grpc&sni=zula.ir#r♡ya
 vless://d32f3a3e-8da0-4f1d-e8e6-6ec979a76ec6@65.109.179.171:2096?mode=gun&security=reality&encryption=none&pbk=pI3vV0SIBkPkB9kWaGCxQXzDDR_aiIqWAEnHKI9BUkg&fp=chrome&spx=/&type=grpc&sni=zula.ir#🇫🇮@FreakConfig
 vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@159.203.6.140:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#telegram ☂️ v2ray_configs_pools
@@ -253,3 +252,4 @@ vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&s
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IR-@V2ray_Alpha--12
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#IR-@V2ray_Alpha--7
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://ddce4f3a-e99a-47de-8d93-feeb77fd358a@179.43.156.21:8443?path=/Free-VPN-CF-Geo-Project/CH2&security=tls&encryption=none&host=joss.gpj2.dpdns.org&fp=chrome&type=ws&sni=joss.gpj2.dpdns.org#🏴‍☠️@FreakConfig
