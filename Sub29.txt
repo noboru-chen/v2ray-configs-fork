@@ -171,7 +171,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.94:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.96:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#🇹🇷TM-(AZARBAYJAB1) GPRS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.96:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&type=grpc#🇹🇷Telegram:@AZARBAYJAB1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.96:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&type=grpc&sni=---@AZARBAYKAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1---@AZARBAYJAB1#🇹🇷TM-(AZARBAYJAB1) GPRS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷@FreakConfig
@@ -209,7 +208,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#@meli_proxyy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--12
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷@FreakConfig
@@ -249,7 +247,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--15
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--15
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=none&encryption=none&type=grpc#join Sho @Iran_V2ray1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=&encryption=none&type=grpc#All-@V2ray_Alpha--13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=nine&type=grpc#IR-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1-All
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
