@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801/?encryption=none&host=varzesh3.ir&type=tcp&headerType=http#تو کانال نتورلد نباشید قطع میشن@networld_vpn
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@AblNet7 🇮🇷 نت ملی
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇩🇪
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🔐 @AblNet7 🇩🇪
 vless://7b3344ed-0843-4dba-bd62-57fb93355944@172.66.40.99:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://7b3344ed-0843-4dba-bd62-57fb93355944@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
@@ -253,3 +250,6 @@ vless://87edf1df-a6a1-4a06-e04d-1c7d7c29868d@t.irimcs.org:2087?type=grpc&service
 vless://87eff1bd-d55f-4df2-a5ad-863368a16cb7@nlplus.savanet.pro:443?security=reality&encryption=none&pbk=mgLuaqAb-Oq7zo3Qn78jCYTUaaA68wknecFnRlVB524&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=816699a74264edfc#کانال تلگرامی @skypro_vpn
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
 vless://8835f8fc-cbda-4abe-8f09-060d4997ee2d@dns25.golden-ping.ir:59290?flow=&type=tcp&headerType=http&host=&path=&security=none#@meli_proxyy
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mooz.rtxiran.info#@Selinc
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mooz.rtxiran.info#JOIN ➪@FILTERK0SH
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mooz.rtxiran.info#𝗝𝗼𝗶𝗻 ➠ @EXPRESSVPN_420🇩🇪
