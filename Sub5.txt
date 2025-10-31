@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptckZRS0NyODFSbk4wUWVQaEtzVlBC@81.90.31.219:443#Channel id: @ShadowProxy66🇷🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVEdCaEV0UWZ5dmhPeGlHMktEMkNr@94.103.89.223:44747# telegram @mtmvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVEdCaEV0UWZ5dmhPeGlHMktEMkNr@94.103.89.223:44747#@HiByeVPNN❤️‍🔥💎✨
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVEdCaEV0UWZ5dmhPeGlHMktEMkNr@94.103.89.223:44747#@V2rayNGVPN <= کانفیگ رایگان
@@ -253,3 +251,5 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerT
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@V2ray_Alpha--42
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@IRAN_V2RAY1
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#MCI-@V2rayAlpha--3
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#MCI-@V2rayAlpha--7
+trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
