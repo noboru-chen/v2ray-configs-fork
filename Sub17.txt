@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.170.107:443?path=/&security=tls&encryption=none&host=backhaxus.dh04.shop&type=ws&sni=backhaxus.dh04.shop#All-@V2rayAlpha--22
 vless://71552f5b-0597-4524-c035-916f9298e163@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://71552f5b-0597-4524-c035-916f9298e163@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://71552f5b-0597-4524-c035-916f9298e163@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -253,3 +252,4 @@ vless://7df5a558-c45c-4002-ac52-c0b4e91b6968@Www.speedtest.net:8880?path=/wss950
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#All-@V2ray_Alpha--17
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🇳🇱@FreakConfig
 vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?path=/?ed=2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#All-@V2rayAlpha--28
+vless://7e410940-0187-4ddf-b64f-3117f1e12f4f@141.227.130.37:58199?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@Iran_V2ray1

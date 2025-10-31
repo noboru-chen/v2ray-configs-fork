@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=none&encryption=none&host=157.180.123.25&type=ws#@V2RAYROZ
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=none&encryption=none&host=157.180.123.25&type=ws#@meli_proxyy
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=none&encryption=none&host=157.180.123.25&type=ws#All--@V2rayAlpha--33
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=none&encryption=none&host=157.180.123.25&type=ws#All-@V2rayAlpha--20
@@ -253,3 +252,4 @@ vless://713fd81a-893f-410f-91de-df72cd5283bc@2br.solonettochka.ru:443?security=r
 vless://713fd81a-893f-410f-91de-df72cd5283bc@2br.solonettochka.ru:443?security=reality&encryption=none&pbk=KAsnegSHnvdBMwasZUOxGlzo7OWxwYJeUnYLwlii110&headerType=none&fp=chrome&spx=/IBMCYS8nK4ykSXE&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=e092aa9d2bc0#🇬🇧@FreakConfig
 vless://713fd81a-893f-410f-91de-df72cd5283bc@2fin.solonettochka.ru:443?security=reality&encryption=none&pbk=nhZbeFM8lppn9qPw7p-RdpHlMO9UkbNgu-eYjf4j2W0&headerType=none&fp=chrome&spx=/foBlFLFgQa5mNRx&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=cb6e8035&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇮]t.me/Raiv2mmr
 vless://714ed6b1-ee85-4ef1-9e74-572f39a98bf3@199.232.5.153:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2044&security=none&alpn=h3,h2,http/1.1&encryption=none&host=JoinBede--VPNCUSTOMIZE---VPNCUSTOMIZE.Ir&fp=chrome&type=ws&sni=#@FILTERK0SH⚡All❤️‍🔥
+vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.170.107:443?path=/&security=tls&encryption=none&host=backhaxus.dh04.shop&type=ws&sni=backhaxus.dh04.shop#All-@V2rayAlpha--22
