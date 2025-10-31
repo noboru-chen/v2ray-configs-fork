@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966666479229399.mashhad-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880/?type=grpc&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
@@ -253,3 +252,4 @@ vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@cdnjs.com:443?security=tls&sni=rAyA
 vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%201.1
 
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%B3%D8%B1%DB%8C%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B4%D8%AE%D8%B5%DB%8C%20:%20https://telegraph.rayan-config.workers.dev/persian
+
