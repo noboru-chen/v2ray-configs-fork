@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://88f30f27-b786-4e09-9be4-9dfdc0f93cba@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=eMPatHic-Bird.oneEat.Co&type=ws#telegram 🎪 v2ray_configs_pools
 vless://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80/?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-9
 vless://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80?mode=auto&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=p30download.ir&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://89285424-b2ac-4678-b3c4-ea3c3e5b734b@62.60.247.164:443?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=Q5wQ-CFit2wmpY4ACfqdZI8CClmPn4sfLXXdpW73PS0&sid=d5c5c558ee0132&spx=/#MdVpnSec
@@ -253,3 +252,4 @@ vless://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=/&security=
 vless://9be451e0-10a1-4344-a282-cdae536b98d3@38.54.104.230:443?security=reality&encryption=none&pbk=nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@Daily_Configs
 vless://9be451e0-10a1-4344-a282-cdae536b98d3@38.54.104.230:443?security=reality&encryption=none&pbk=nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@sunflowerplato🌻
 vless://9becab5d-7990-4f4b-c25a-85de3be65e07@151.101.3.8:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-r9cfyohd
+vless://9c187115-6599-4138-bcb4-268add81a63a@partner.zoom.us:80?path=/&security=none&encryption=none&host=41.sahanwickramasinghe.shop&type=ws#@Daily_Configs
