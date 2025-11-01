@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://296b5322-3f50-4ad3-b504-6e1e370dc544@141.227.180.39:22294?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@TEHRANARGO
 vless://297128e9-5422-486e-9232-046b4952de1a@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=DIFferENt-PArtY.ONEEaT.cO&type=ws#telegram 🌺 v2ray_configs_pools
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@45.143.200.183:443?security=reality&encryption=none&pbk=8Cmcg6rDk5dmwyP8fv5-chav3sTP8q5sQvdw-7yadw8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ch.nosok-top.com&sid=9c2378562188c3cb#@MARAMBASHI 🐳
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@78.40.111.177:443?security=reality&encryption=none&pbk=m_bAqO_HICu18pgxQ_xUYzbxL1XyvF984N609-0Gyjg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=es.nosok-top.com&sid=9c2378562188c3cb#@MARAMBASHI 🐳
@@ -252,4 +253,3 @@ vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryptio
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🎯 v2ray_configs_pools
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?mode=auto&path=/&security=reality&encryption=none&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=89#telegram 🍀 v2ray_configs_pools
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&sni=yahoo.com&sid=89&spx=/#telegram 🍀 v2ray_configs_pools
-vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#@V2RAYNG_IP 🇩🇪 253
