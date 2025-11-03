@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a2e2374f-9b2c-4677-aed4-02ab8c880f9b@walt.usrsrc.com:2100?security=tls&encryption=none&headerType=none&type=tcp&sni=walt.usrsrc.com#%40BESTIIVPNBOT%20%F0%9F%92%B2%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 vless://a2e2374f-9b2c-4677-aed4-02ab8c880f9b@walt.usrsrc.com:2105?security=tls&encryption=none&headerType=none&type=tcp&sni=walt.usrsrc.com#%40BESTIIVPNBOT%20%F0%9F%92%B2%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 vless://a2e2374f-9b2c-4677-aed4-02ab8c880f9b@walt.usrsrc.com:2079?security=tls&encryption=none&headerType=none&type=tcp&sni=walt.usrsrc.com#%40BESTIIVPNBOT%20%F0%9F%92%B2%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.224:8880?mode=gun&security=none&encryption=none&type=grpc#%40BESTIIVPNBOT%20%F0%9F%92%B2%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
