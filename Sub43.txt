@@ -4,16 +4,6 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.101:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2060
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2042
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.118:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2051
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.119:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2050
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.119:80?security=&sni=pqh30v5.ipforvetra.shop&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2041
-
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.125:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2056
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.159:80?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2064
@@ -253,3 +243,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880?security=&fp=ch
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20110
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2082
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.43:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2088
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20193
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.37.76:8880?security=&sni=/?BIA_TELEGRAM&alpn=http/1.1&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20100
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20101
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.25:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%205
