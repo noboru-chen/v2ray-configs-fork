@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://8bc1deee-1136-4533-f5d0-0b5751803107@host17.sheydayeman.nl:8880?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN <= کانفیگ رایگان
 vless://8bc1deee-1136-4533-f5d0-0b5751803107@host17.sheydayeman.nl:8880?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://8bc1deee-1136-4533-f5d0-0b5751803107@host17.sheydayeman.nl:8880?path=/&security=none&encryption=none&type=ws#@meli_proxyy
 vless://8bc1deee-1136-4533-f5d0-0b5751803107@host17.sheydayeman.nl:8880?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
@@ -253,3 +252,4 @@ vless://9d8928b6-947a-45a2-9c57-90a7556d36c9@141.227.166.102:31155?mode=gun&secu
 vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa32.clearorbitllc.com&fp=chrome&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&sid=c7f3cc&type=tcp&headerType=none#@Daily_Configs
 vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=usa32.clearorbitllc.com&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&sid=c7f3cc&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸 @EVAY_VPN
 vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=usa32.clearorbitllc.com&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&sid=c7f3cc&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸@Evay_vpn
+vless://9daf8f3e-089b-4989-9502-dd3d727edb6c@usa32.clearorbitllc.com:443?security=reality&encryption=none&pbk=9VgEU9n4XfImCSwSdLXEAqotO7zVvZRSaolrtxJKEns&headerType=none&fp=chrome&spx=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=tcp&flow=xtls-rprx-vision&sni=usa32.clearorbitllc.com&sid=c7f3cc#r♡ya@V2rayBaaz
