@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=/evcszpmoerkdnesg?ed=2560fp=chrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#All--@V2rayAlpha--42
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=/evcszpmoerkdnesg?ed=2560fp=chrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#All--@V2rayAlpha--35
 vless://04979a1c-300b-4eb6-9f85-235730566d54@hajimamad.timeclassic.ir:800?type=tcp&security=reality&pbk=8sbYQLutiRgWxqzbPmYI0hIT2Gf5oH54C9F7H2DWKQ4&fp=chrome&sni=zhaket.com&sid=f7fea54424&spx=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN#سرورهای رایگان کانال @HAJIMAMADVPN-41
 vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -253,3 +252,4 @@ vless://0f662c2d-81af-41d2-c503-d4d4b124f85f@151.101.3.8:80?mode=auto&path=/@Xpn
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=/ds&security=&encryption=none&type=xhttp#@v2ray_configs_pools
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&mode=auto&path=/ds?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 | @Evay_vpn
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@vmesskhodam

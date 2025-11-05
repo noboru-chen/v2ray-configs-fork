@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--38
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.19.236:8880?mode=gun&security=none&encryption=none&type=grpc#Channel id: @Adamak_vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.123:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
@@ -253,3 +252,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_net | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=&encryption=none&authority=Join---_&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷@FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI 💙

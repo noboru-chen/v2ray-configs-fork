@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1af7adb6-e628-4b7c-8b0f-47d7fc36d5bb@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://1af7adb6-e628-4b7c-8b0f-47d7fc36d5bb@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 @G0dv2ray
 vless://1af7adb6-e628-4b7c-8b0f-47d7fc36d5bb@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 Telegram @SRCVPN ²
 vless://1af7adb6-e628-4b7c-8b0f-47d7fc36d5bb@G0dv2ray.fast.hosting-ip.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#🇩🇪 @G0dv2ray
@@ -253,3 +252,4 @@ vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/&securi
 vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=amir-ebr.pages.dev#✅ @vistav2ray  👈👈کانال ما
 vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=amir-ebr.pages.dev#🇩🇪[Telegram:@tik7net_vpn]
 vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=amir-ebr.pages.dev#🇳🇱@FreakConfig
+vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=amir-ebr.pages.dev&fp=chrome&type=ws&sni=amir-ebr.pages.dev#t.me/entryNET/config=1847910111570899
