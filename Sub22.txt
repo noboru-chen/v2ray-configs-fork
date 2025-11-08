@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@V2RAYROZ
+vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#@meli_proxyy
 vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#t.me/entryNET/config=1848065502754230
 vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🏴‍☠️@FreakConfig
@@ -251,5 +253,3 @@ vless://a7f1d4f0-5b12-48f1-c19a-de55b3fe40ef@www.speedtest.net:2082?path=/@spike
 vless://a7f573cf-f042-4133-8fa5-b24088621d83@Mashhad-Website.thorav.ir:2087?mode=gun&security=reality&encryption=none&pbk=yXSBn5-hiNy4K9Lg_w2E0cGXSkcwXtwGn6r46UJ96HU&fp=chrome&spx=/&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=55#telegram 🌈 v2ray_configs_pools
 vless://a80ef5b5-01a0-4635-a615-c1bea1cc3670@www.speedtest.net:443?type=ws&encryption=none&path=/&host=cx.dns-shop.ir&security=tls&fp=chrome&alpn=http/1.1&sni=cx.dns-shop.ir#@Alfred_Config
 vless://a83efd52-7d6b-453d-e22f-7303b759ffd0@ip.cloudflare.com.appcity-download.ir:2053?path=/mahdi_383ir&security=tls&alpn=http/1.1&encryption=none&host=vless-httpupgrade-tls-host-01-jplhzooymx0erhix4s9s.armin-website.com&fp=chrome&type=httpupgrade&sni=vless-httpupgrade-tls-sni-01-1fxqo9sp9e4iogh7vfjx.armin-website.com#MCI-@V2rayAlpha--15
-vless://a8781dff-cd51-40e4-8e5e-25bff7aa1e19@65.109.216.23:15355?type=ws&encryption=none&path=/@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----@armanstore2-Telegram----&host=&security=none#@armanstore2-کانفیگ رایگان متصل تا ساعت ۱۵
-vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@IP_CF
