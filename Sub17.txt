@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://597dd2e0-5182-4af1-ab12-7b5da8bc19ea@104.21.46.63:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=am290.amin5646.ir&type=xhttp#@bored_vpn
-vless://597dd2e0-5182-4af1-ab12-7b5da8bc19ea@104.21.46.63:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=am290.amin5646.ir&type=xhttp#@mehrosaboran
 vless://597dd2e0-5182-4af1-ab12-7b5da8bc19ea@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram : @BinexTiFy 🇩🇪
 vless://597dd2e0-5182-4af1-ab12-7b5da8bc19ea@www.speedtest.net:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=am290.amin5646.ir&type=xhttp#@bored_vpn
 vless://597dd2e0-5182-4af1-ab12-7b5da8bc19ea@www.speedtest.net:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=am290.amin5646.ir&type=xhttp#@confiig_hub
@@ -253,3 +251,5 @@ vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&typ
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=#💎ParsOnline
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=&sni=fl.v2bazzar.ir&fp=chrome#🟪Rightel
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=check-host.net&sni=fl.v2bazzar.ir&fp=#🟨Irancell
+vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:443?security=tls&type=ws&headerType=&path=/&host=fl.v2bazzar.ir&sni=fl.v2bazzar.ir&fp=#💎 Hddify - Vip+
+vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:7601?security=reality&type=tcp&headerType=none&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&sid=9f54d072d0c27dc6#💎Hddify - Vip+
